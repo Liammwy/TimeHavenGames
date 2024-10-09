@@ -1183,3 +1183,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.09-11.50.28:708][918]LogEditorTransaction: Undo Move Elements
 [2024.10.09-11.50.43:274][102]Cmd: TRANSACTION UNDO
 [2024.10.09-11.50.43:274][102]LogEditorTransaction: Undo Move Elements
+[2024.10.09-11.51.09:998][555]LogDerivedDataCache: C:/Users/liam1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.458 and deleted 0 files with total size 0 MiB and 1708 empty folders. Scanned 769 files in 3037 folders with total size 64 MiB.
