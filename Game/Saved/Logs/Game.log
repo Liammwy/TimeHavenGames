@@ -2188,3 +2188,7 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.10.09-11.37.05:883][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 707 ms)
 [2024.10.09-11.37.05:884][961]AssetCheck: New page: Asset Save: LiamDevLevel
 [2024.10.09-11.37.05:884][961]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevelopmentLevels/LiamDevLevel.LiamDevLevel
+[2024.10.09-11.40.25:265][185]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DevelopmentLevels/_GENERATED/liam1/Cone_18CAA1F3.Cone_18CAA1F3
+[2024.10.09-11.40.25:265][185]LogStaticMesh: Display: Building static mesh Cone_18CAA1F3...
+[2024.10.09-11.40.25:267][185]LogActorFactory: Actor Factory spawned StaticMesh /Game/DevelopmentLevels/_GENERATED/liam1/Cone_18CAA1F3.Cone_18CAA1F3 as actor: StaticMeshActor /Game/DevelopmentLevels/LiamDevLevel.LiamDevLevel:PersistentLevel.StaticMeshActor_21
+[2024.10.09-11.40.25:267][185]LogStaticMesh: Built static mesh [0.00s] /Game/DevelopmentLevels/_GENERATED/liam1/Cone_18CAA1F3.Cone_18CAA1F3
