@@ -1497,3 +1497,157 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.09-12.20.32:988][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.09-12.20.32:990][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2024.10.09-12.20.33:038][181]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.09-12.21.57:545][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.09-12.21.57:561][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-12.21.57:561][297]PIE: New page: PIE session: MainMenu (9 Oct 2024, 14:21:57)
+[2024.10.09-12.21.57:561][297]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2024.10.09-12.21.57:562][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000888s)
+[2024.10.09-12.21.57:562][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000919s)
+[2024.10.09-12.21.57:575][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.10.09-12.21.57:576][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-12.21.57:576][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.09-12.21.57:577][297]LogAIModule: Creating AISystem for world MainMenu
+[2024.10.09-12.21.57:577][297]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2024.10.09-12.21.57:577][297]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.09-12.21.57:577][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.09-12.21.57:577][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-12.21.57:577][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-12.21.57:577][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-12.21.57:577][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-12.21.57:579][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.09-12.21.57:606][297]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.09-12.21.57:607][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-12.21.57:607][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-12.21.57:607][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-12.21.57:608][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.09-12.21.57:608][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.09-12.21.57:609][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.09-12.21.57:609][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.09-12.21.57:609][297]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.09-12.21.57:609][297]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2024.10.09-12.21.57:609][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.09-12.21.57:611][297]LogLoad: Game class is 'GMB_MenuGM_C'
+[2024.10.09-12.21.57:611][297]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.10.09-13.21.57
+[2024.10.09-12.21.57:611][297]LogWorld: Bringing up level for play took: 0.000265
+[2024.10.09-12.21.57:613][297]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.10.09-12.21.57:614][297]PIE: Server logged in
+[2024.10.09-12.21.57:615][297]PIE: Play in editor total start time 0.054 seconds.
+[2024.10.09-12.22.03:174][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-12.22.03:174][947]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2024.10.09-12.22.03:174][947]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-12.22.03:174][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-12.22.03:176][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-12.22.03:180][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-12.22.03:192][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-12.22.03:192][947]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.09-12.22.03:192][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.09-12.22.03:194][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.09-12.22.03:198][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.09-12.22.03:242][951]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.10.09-12.25.07:600][872]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.09-12.25.11:254][ 71]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.09-12.25.13:522][187]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.09-12.26.14:545][573]BlueprintLog: New page: Compile WBP_StartMenu
+[2024.10.09-12.26.14:572][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.09-12.26.17:942][819]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2024.10.09-12.26.17:953][819]LogSlate: Took 0.009504 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.10.09-12.27.28:894][ 82]LogEditorTransaction: Undo Edit Font Material
+[2024.10.09-12.28.02:280][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.28.02:314][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StarterMenu/WBP_StartMenu" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/StarterMenu/WBP_StartMenu.uasset" SILENT=true
+[2024.10.09-12.28.02:320][163]LogSavePackage: Moving output files for package: /Game/UI/StarterMenu/WBP_StartMenu
+[2024.10.09-12.28.02:321][163]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_StartMenu8A78712A4554693D5608D3BE33D23804.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/StarterMenu/WBP_StartMenu.uasset'
+[2024.10.09-12.28.02:326][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 689 ms)
+[2024.10.09-12.28.02:328][163]AssetCheck: New page: Asset Save: WBP_StartMenu
+[2024.10.09-12.28.02:328][163]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StarterMenu/WBP_StartMenu.WBP_StartMenu
+[2024.10.09-12.28.02:792][213]BlueprintLog: New page: Compile WBP_StartMenu
+[2024.10.09-12.28.02:817][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.10.09-12.28.03:729][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.28.03:764][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StarterMenu/WBP_StartMenu" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/StarterMenu/WBP_StartMenu.uasset" SILENT=true
+[2024.10.09-12.28.03:770][313]LogSavePackage: Moving output files for package: /Game/UI/StarterMenu/WBP_StartMenu
+[2024.10.09-12.28.03:770][313]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_StartMenu035327FA46EA8FC0A8C5F19634BB14D7.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/StarterMenu/WBP_StartMenu.uasset'
+[2024.10.09-12.28.03:776][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 737 ms)
+[2024.10.09-12.28.03:776][313]AssetCheck: New page: Asset Save: WBP_StartMenu
+[2024.10.09-12.28.03:776][313]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StarterMenu/WBP_StartMenu.WBP_StartMenu
+[2024.10.09-12.28.15:326][383]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.10.09-12.28.15:331][383]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.09-12.28.15:340][383]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.09-12.28.15:352][384]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.09-12.28.18:910][730]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_VersionNum
+[2024.10.09-12.28.18:916][730]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.09-12.28.19:323][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.28.19:347][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_VersionNum" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset" SILENT=true
+[2024.10.09-12.28.19:349][771]LogSavePackage: Moving output files for package: /Game/UI/WBP_VersionNum
+[2024.10.09-12.28.19:349][771]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_VersionNumEFADDBB1483925E204BB6AB0D61C6787.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset'
+[2024.10.09-12.28.19:357][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 771 ms)
+[2024.10.09-12.28.19:358][771]AssetCheck: New page: Asset Save: WBP_VersionNum
+[2024.10.09-12.28.19:358][771]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.28.20:000][835]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.28.20:000][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-12.28.20:000][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.09-12.28.20:007][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-12.28.20:007][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.09-12.29.07:068][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.29.07:097][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_VersionNum" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset" SILENT=true
+[2024.10.09-12.29.07:100][638]LogSavePackage: Moving output files for package: /Game/UI/WBP_VersionNum
+[2024.10.09-12.29.07:112][638]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_VersionNum555894E24D59D54FC0216F906D7A545C.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset'
+[2024.10.09-12.29.07:117][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 820 ms)
+[2024.10.09-12.29.07:118][638]AssetCheck: New page: Asset Save: WBP_VersionNum
+[2024.10.09-12.29.07:118][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.29.07:727][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.29.07:746][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_VersionNum" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset" SILENT=true
+[2024.10.09-12.29.07:748][698]LogSavePackage: Moving output files for package: /Game/UI/WBP_VersionNum
+[2024.10.09-12.29.07:749][698]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_VersionNumCAC55C564BDFFC1F7B0BB093D30A43B0.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset'
+[2024.10.09-12.29.07:764][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 859 ms)
+[2024.10.09-12.29.07:766][698]AssetCheck: New page: Asset Save: WBP_VersionNum
+[2024.10.09-12.29.07:766][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.29.08:483][777]BlueprintLog: New page: Compile WBP_VersionNum
+[2024.10.09-12.29.08:506][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.09-12.29.09:220][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.29.09:246][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_VersionNum" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset" SILENT=true
+[2024.10.09-12.29.09:249][856]LogSavePackage: Moving output files for package: /Game/UI/WBP_VersionNum
+[2024.10.09-12.29.09:250][856]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_VersionNumA1D3BF9E4EE3F2B506FEB9B664E939E2.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset'
+[2024.10.09-12.29.09:255][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 894 ms)
+[2024.10.09-12.29.09:256][856]AssetCheck: New page: Asset Save: WBP_VersionNum
+[2024.10.09-12.29.09:256][856]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.29.10:899][ 39]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-12.29.10:899][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-12.29.10:905][ 39]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-12.29.10:905][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-12.29.40:064][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.29.40:084][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StarterMenu/WBP_StartMenu" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/StarterMenu/WBP_StartMenu.uasset" SILENT=true
+[2024.10.09-12.29.40:090][802]LogSavePackage: Moving output files for package: /Game/UI/StarterMenu/WBP_StartMenu
+[2024.10.09-12.29.40:091][802]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_StartMenu5405979040CE20EA45C6C7AFF603CB3C.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/StarterMenu/WBP_StartMenu.uasset'
+[2024.10.09-12.29.40:097][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 927 ms)
+[2024.10.09-12.29.40:098][802]AssetCheck: New page: Asset Save: WBP_StartMenu
+[2024.10.09-12.29.40:098][802]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StarterMenu/WBP_StartMenu.WBP_StartMenu
+[2024.10.09-12.29.42:943][ 92]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.29.42:943][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-12.29.42:943][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.09-12.29.42:949][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.09-12.29.42:949][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.09-12.29.58:805][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.29.58:828][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_VersionNum" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset" SILENT=true
+[2024.10.09-12.29.58:831][338]LogSavePackage: Moving output files for package: /Game/UI/WBP_VersionNum
+[2024.10.09-12.29.58:831][338]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_VersionNum5A9B64D949AD36CEAE6F3B86A4222523.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset'
+[2024.10.09-12.29.58:837][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 960 ms)
+[2024.10.09-12.29.58:838][338]AssetCheck: New page: Asset Save: WBP_VersionNum
+[2024.10.09-12.29.58:838][338]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.29.59:527][416]BlueprintLog: New page: Compile WBP_VersionNum
+[2024.10.09-12.29.59:569][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.10.09-12.30.00:163][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.09-12.30.00:185][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_VersionNum" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset" SILENT=true
+[2024.10.09-12.30.00:188][481]LogSavePackage: Moving output files for package: /Game/UI/WBP_VersionNum
+[2024.10.09-12.30.00:189][481]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/WBP_VersionNum6861BC684BFAB9EDE69FF2BD9B89587F.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_VersionNum.uasset'
+[2024.10.09-12.30.00:195][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 991 ms)
+[2024.10.09-12.30.00:196][481]AssetCheck: New page: Asset Save: WBP_VersionNum
+[2024.10.09-12.30.00:196][481]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_VersionNum.WBP_VersionNum
+[2024.10.09-12.30.02:169][701]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-12.30.02:169][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-12.30.02:174][701]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-12.30.02:174][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
