@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/DevelopmentLevels/Harvey/HarveyTestLvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/DevelopmentLevels/Harvey/Harveylvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/DevelopmentLevels/Harvey/Plat.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/WallClimbing/BPC_Climbing.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/DevelopmentLevels/Ben/BenDevLevel.umap",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/DevelopmentLevels/Ben/BenDevMap.umap",
