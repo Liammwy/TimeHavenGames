@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/WallClimbing/BPC_Climbing.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/DevelopmentLevels/Ben/BenDevLevel.umap",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/DevelopmentLevels/Ben/BenDevMap.umap",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/WallClimbing/BP_ClimbableWall.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/WallClimbing/MAT_ClimbableWall.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/DevelopmentLevels/Arun/Aruns_TestLevel.umap",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/DevelopmentLevels/Arun/Character_Model_and_Animation/NewPlayer_Movement.uasset",
