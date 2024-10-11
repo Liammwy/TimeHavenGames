@@ -5,26 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/3/XQ/7JDBMFWJFBH1LUDI3LCEI2.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/6/7O/THMMW5ZCYM5JYBABSK6U30.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/6/1C/JWEQ0CPKAY9CT8ANEI9FUY.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/A/BQ/Z0K2Q783HD6MBTLRAX4WMF.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/F/4V/QE07DMWP52AS8OYYQ5NLB0.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/6/4S/JH6VNS7LLPT89W1K6GGX33.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/F/3I/C8TB1QF2PCDDNH2DIZ6MRE.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/A/IK/CRE0QEPIP9PTROQ2U8I8TX.uasset"
-=======
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/UI/WBP_PopUp.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Collectibles/BrokenKeyCollectible.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/DevelopmentLevels/LiamDevLevel.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Collectibles/CurrencyCollectible.uasset",
-				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/Mechanics/Jumping/BPC_Jump.uasset",
-				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/DevelopmentLevels/joseph/testLevelCube.uasset",
-				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/DevelopmentLevels/joseph/josephTestLevel.umap",
-				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/Mechanics/Jumping/playerJumpComponent.uasset"
->>>>>>> origin/main
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/DevelopmentLevels/Arun/Character_Model_and_Animation/PlayerAnim_BP.uasset"
 			]
 		}
 	]
