@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/A/23/GYUIZ1FHX3R3CWILT5G5ZX.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/C/HX/FTWT03RU72KBFICI2G4OI2.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/DevelopmentLevels/JamesDevLevel/C/JS/BJY53P1Q3208G2OHPAQVPP.uasset",
@@ -117,6 +118,11 @@
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
 				"D:/Glass Studios/Game/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+=======
+				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/Mechanics/Jumping/BPC_Jump.uasset",
+				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/Mechanics/Jumping/playerJumpComponent.uasset",
+				"C:/Users/jsphz/OneDrive/Documents/GitHub/TimeHavenGames/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+>>>>>>> origin/main
 			]
 		}
 	]
