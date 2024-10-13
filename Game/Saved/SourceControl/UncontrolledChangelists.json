@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Levels/DevLevels/David/DavidDevLevel.umap",
 				"C:/Users/Joseph/Documents/GitHub/Glass-Studios/Game/Content/Levels/DevLevels/Joseph/josephTestLevel.umap",
 				"C:/Users/Joseph/Documents/GitHub/Glass-Studios/Game/Content/DevelopmentLevels/joseph/josephTestLevel.umap",
@@ -222,6 +223,13 @@
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/DevelopmentLevels/Arun/Character_Model_and_Animation/ClimbingBlendSpace.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/PlayerState/BPC_StateSystem.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/DevelopmentLevels/Arun/Character_Model_and_Animation/PlayerAnim_BP.uasset",
+=======
+				"C:/Users/thebe/Desktop/UWE - Stuff/CGT Project/Game/Content/DevelopmentLevels/Ash/AshDevLevel01.umap",
+				"C:/Users/thebe/Desktop/UWE - Stuff/CGT Project/Game/Content/DevelopmentLevels/Ash/WaterfallLogs/Waterfall.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/CGT Project/Game/Content/DevelopmentLevels/Ash/WaterfallLogs/untitled.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/CGT Project/Game/Content/DevelopmentLevels/Ash/WaterfallLogs/NewNiagaraSystem.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/CGT Project/Game/Content/DevelopmentLevels/Ash/AshLevelDev01.umap",
+>>>>>>> origin/AshLevelDev
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/WallClimbing/BPC_Climbing.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/Jumping/BPC_Jump.uasset",
