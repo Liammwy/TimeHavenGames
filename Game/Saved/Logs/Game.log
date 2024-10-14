@@ -4314,3 +4314,1739 @@ Script Stack (0 frames) :
 [2024.10.14-11.03.28:261][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.14-11.03.28:264][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
 [2024.10.14-11.03.28:335][925]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.10.14-11.04.05:563][351]Cmd: DELETE
+[2024.10.14-11.04.05:563][351]Cmd: ACTOR DELETE
+[2024.10.14-11.04.05:575][351]LogEditorActor: Deleted Actor: CurrencyCollectible_C
+[2024.10.14-11.04.05:590][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.10.14-11.04.05:594][351]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.10.14-11.04.06:160][404]Cmd: DELETE
+[2024.10.14-11.04.06:160][404]Cmd: ACTOR DELETE
+[2024.10.14-11.04.06:162][404]LogEditorActor: Deleted Actor: CurrencyCollectible_C
+[2024.10.14-11.04.06:178][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-11.04.06:181][404]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.14-11.04.06:785][458]Cmd: DELETE
+[2024.10.14-11.04.06:785][458]Cmd: ACTOR DELETE
+[2024.10.14-11.04.06:787][458]LogEditorActor: Deleted Actor: CurrencyCollectible_C
+[2024.10.14-11.04.06:804][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-11.04.06:807][458]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.10.14-11.04.15:926][338]LogViewport: Scene viewport resized to 2215x1235, mode Windowed.
+[2024.10.14-11.04.15:964][339]LogViewport: Scene viewport resized to 2208x1235, mode Windowed.
+[2024.10.14-11.04.15:997][340]LogViewport: Scene viewport resized to 2202x1235, mode Windowed.
+[2024.10.14-11.04.16:038][341]LogViewport: Scene viewport resized to 2193x1235, mode Windowed.
+[2024.10.14-11.04.16:080][342]LogViewport: Scene viewport resized to 2185x1235, mode Windowed.
+[2024.10.14-11.04.16:123][343]LogViewport: Scene viewport resized to 2175x1235, mode Windowed.
+[2024.10.14-11.04.16:165][344]LogViewport: Scene viewport resized to 2166x1235, mode Windowed.
+[2024.10.14-11.04.16:212][345]LogViewport: Scene viewport resized to 2147x1235, mode Windowed.
+[2024.10.14-11.04.16:258][346]LogViewport: Scene viewport resized to 2122x1235, mode Windowed.
+[2024.10.14-11.04.16:303][347]LogViewport: Scene viewport resized to 2103x1235, mode Windowed.
+[2024.10.14-11.04.16:344][348]LogViewport: Scene viewport resized to 2093x1235, mode Windowed.
+[2024.10.14-11.04.16:421][349]LogViewport: Scene viewport resized to 2085x1235, mode Windowed.
+[2024.10.14-11.04.28:573][534]Cmd: EDIT COPY
+[2024.10.14-11.04.28:739][549]Cmd: EDIT PASTE
+[2024.10.14-11.04.30:673][720]Cmd: EDIT COPY
+[2024.10.14-11.04.30:848][737]Cmd: EDIT PASTE
+[2024.10.14-11.04.34:156][ 21]Cmd: EDIT COPY
+[2024.10.14-11.04.34:322][ 28]Cmd: EDIT PASTE
+[2024.10.14-11.04.36:287][192]Cmd: EDIT COPY
+[2024.10.14-11.04.36:442][207]Cmd: EDIT PASTE
+[2024.10.14-11.04.39:880][536]Cmd: EDIT COPY
+[2024.10.14-11.04.40:046][553]Cmd: EDIT PASTE
+[2024.10.14-11.04.44:264][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.04.44:271][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.04.44:271][958]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:04:44)
+[2024.10.14-11.04.44:303][958]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.04.44:307][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003945s)
+[2024.10.14-11.04.44:307][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003988s)
+[2024.10.14-11.04.44:326][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.10.14-11.04.44:330][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.04.44:330][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.04.44:331][958]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.04.44:331][958]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2024.10.14-11.04.44:331][958]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.04.44:331][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.04.44:331][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.04.44:332][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.04.44:332][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.04.44:332][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.04.44:334][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.04.44:362][958]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.04.44:363][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.04.44:363][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.04.44:363][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.04.44:364][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.10.14-11.04.44:364][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.10.14-11.04.44:365][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.10.14-11.04.44:365][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.10.14-11.04.44:365][958]LogInit: FAudioDevice initialized with ID 22.
+[2024.10.14-11.04.44:365][958]LogAudio: Display: Audio Device (ID: 22) registered with world 'LiamDevLevel'.
+[2024.10.14-11.04.44:365][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.10.14-11.04.44:368][958]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.04.44:369][958]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.04.44
+[2024.10.14-11.04.44:370][958]LogWorld: Bringing up level for play took: 0.001204
+[2024.10.14-11.04.44:372][958]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.10.14-11.04.44:375][958]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.04.44:375][958]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.04.44:375][958]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.04.44:375][958]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.04.44:375][958]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.04.44:375][958]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.04.44:376][958]PIE: Server logged in
+[2024.10.14-11.04.44:377][958]PIE: Play in editor total start time 0.105 seconds.
+[2024.10.14-11.05.01:692][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.05.01:692][830]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.05.01:692][830]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.05.01:693][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.05.01:696][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.05.01:702][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.05.01:718][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.05.01:718][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.10.14-11.05.01:718][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.10.14-11.05.01:720][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.10.14-11.05.01:725][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.14-11.05.01:791][831]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.10.14-11.06.29:049][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.06.29:056][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.06.29:056][293]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:06:29)
+[2024.10.14-11.06.29:056][293]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.06.29:059][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2024.10.14-11.06.29:059][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003543s)
+[2024.10.14-11.06.29:075][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.14-11.06.29:078][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.06.29:078][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.06.29:078][293]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.06.29:078][293]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2024.10.14-11.06.29:078][293]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.06.29:078][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.06.29:078][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.06.29:079][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.06.29:079][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.06.29:079][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.06.29:081][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.06.29:109][293]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.06.29:109][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.06.29:110][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.06.29:110][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.06.29:110][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.10.14-11.06.29:110][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.10.14-11.06.29:112][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.10.14-11.06.29:112][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.10.14-11.06.29:112][293]LogInit: FAudioDevice initialized with ID 23.
+[2024.10.14-11.06.29:112][293]LogAudio: Display: Audio Device (ID: 23) registered with world 'LiamDevLevel'.
+[2024.10.14-11.06.29:112][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.10.14-11.06.29:115][293]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.06.29:117][293]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.06.29
+[2024.10.14-11.06.29:117][293]LogWorld: Bringing up level for play took: 0.001278
+[2024.10.14-11.06.29:119][293]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.10.14-11.06.29:121][293]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.06.29:121][293]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.06.29:121][293]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.06.29:121][293]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.06.29:121][293]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.06.29:121][293]LogBlueprintUserMessages: [AC_CollectibleInfo] true
+[2024.10.14-11.06.29:122][293]PIE: Server logged in
+[2024.10.14-11.06.29:123][293]PIE: Play in editor total start time 0.067 seconds.
+[2024.10.14-11.06.36:643][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.06.36:643][ 47]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.06.36:643][ 47]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.06.36:643][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.06.36:648][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.06.36:654][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.06.36:668][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-11.06.36:668][ 47]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.10.14-11.06.36:668][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.10.14-11.06.36:670][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.10.14-11.06.36:673][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.06.36:675][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.14-11.06.36:740][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.10.14-11.06.40:898][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.06.40:933][362]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.06.40:934][362]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleA51847BF446BCC15921A3EA77A0A998D.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.06.40:940][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 12.7 sec)
+[2024.10.14-11.06.40:942][362]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.06.40:942][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.06.53:798][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.06.53:846][478]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.06.53:846][478]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo869EF2914139C49DF2D3F6AA393DF1B8.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.06.53:854][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 12.7 sec)
+[2024.10.14-11.06.53:854][478]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.06.53:854][478]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.06.54:884][565]BlueprintLog: New page: Compile AC_CollectibleInfo
+[2024.10.14-11.06.54:938][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.14-11.06.55:543][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.06.55:585][609]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.06.55:586][609]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo6EC274634AF11BDE2D9F79B4D0A5BAC8.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.06.55:593][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 12.8 sec)
+[2024.10.14-11.06.55:594][609]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.06.55:594][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.07.13:331][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.13:378][ 86]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.07.13:379][ 86]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfoB54B914E41DAA31105807DBA4ACA5AFA.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.07.13:386][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 12.8 sec)
+[2024.10.14-11.07.13:387][ 86]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.07.13:387][ 86]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.07.14:057][139]BlueprintLog: New page: Compile AC_CollectibleInfo
+[2024.10.14-11.07.14:113][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.14-11.07.14:719][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.14:762][182]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.07.14:763][182]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo570CD6084F92E5E993EC18940611F80C.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.07.14:770][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 12.9 sec)
+[2024.10.14-11.07.14:772][182]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.07.14:772][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.07.17:970][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.18:011][453]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.07.18:012][453]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible6C52750A429664DAB1B932AAE504F138.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.07.18:019][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 12.9 sec)
+[2024.10.14-11.07.18:020][453]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.07.18:020][453]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.07.25:655][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.25:691][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.07.25:692][ 36]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleF7AC5F81405E4D1FC24759AD7D447F09.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.07.25:699][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 13.0 sec)
+[2024.10.14-11.07.25:700][ 36]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.07.25:700][ 36]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.07.26:062][ 62]BlueprintLog: New page: Compile BP_Collectible
+[2024.10.14-11.07.26:105][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-11.07.26:648][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.26:682][ 98]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.07.26:683][ 98]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible2E1B42C440A21EBD5A443DA20C97022D.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.07.26:690][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 13.0 sec)
+[2024.10.14-11.07.26:691][ 98]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.07.26:691][ 98]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.07.38:560][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.38:601][149]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.07.38:602][149]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible31E3FEF84E279726318732BCC69294BC.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.07.38:609][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 13.1 sec)
+[2024.10.14-11.07.38:610][149]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.07.38:610][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.07.40:797][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.40:830][334]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.07.40:831][334]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleF48730694E9A3BC7772DA4B1430E029F.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.07.40:837][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 13.1 sec)
+[2024.10.14-11.07.40:839][334]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.07.40:839][334]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.07.46:906][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.46:942][810]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.07.46:942][810]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo17638C904884EEE02442A394CFC2B966.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.07.46:949][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 13.2 sec)
+[2024.10.14-11.07.46:950][810]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.07.46:951][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.07.47:701][873]BlueprintLog: New page: Compile AC_CollectibleInfo
+[2024.10.14-11.07.47:747][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-11.07.48:286][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.48:330][910]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.07.48:331][910]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo0393E395461B1ECD926E76A4B5F95CC7.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.07.48:337][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 13.2 sec)
+[2024.10.14-11.07.48:339][910]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.07.48:339][910]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.07.51:344][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.07.51:379][162]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.07.51:380][162]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible9553AF9C4D4C91EA0C4DB3AED92E1AB4.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.07.51:386][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 13.3 sec)
+[2024.10.14-11.07.51:388][162]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.07.51:388][162]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.08.01:346][183]LogViewport: Scene viewport resized to 2086x1235, mode Windowed.
+[2024.10.14-11.08.01:389][184]LogViewport: Scene viewport resized to 2098x1235, mode Windowed.
+[2024.10.14-11.08.01:419][185]LogViewport: Scene viewport resized to 2109x1235, mode Windowed.
+[2024.10.14-11.08.01:460][186]LogViewport: Scene viewport resized to 2125x1235, mode Windowed.
+[2024.10.14-11.08.01:500][187]LogViewport: Scene viewport resized to 2144x1235, mode Windowed.
+[2024.10.14-11.08.01:547][188]LogViewport: Scene viewport resized to 2157x1235, mode Windowed.
+[2024.10.14-11.08.01:589][189]LogViewport: Scene viewport resized to 2176x1235, mode Windowed.
+[2024.10.14-11.08.01:638][190]LogViewport: Scene viewport resized to 2213x1235, mode Windowed.
+[2024.10.14-11.08.01:683][191]LogViewport: Scene viewport resized to 2234x1235, mode Windowed.
+[2024.10.14-11.08.01:726][192]LogViewport: Scene viewport resized to 2247x1235, mode Windowed.
+[2024.10.14-11.08.01:769][193]LogViewport: Scene viewport resized to 2254x1235, mode Windowed.
+[2024.10.14-11.08.01:826][194]LogViewport: Scene viewport resized to 2264x1235, mode Windowed.
+[2024.10.14-11.08.01:868][195]LogViewport: Scene viewport resized to 2268x1235, mode Windowed.
+[2024.10.14-11.08.01:928][196]LogViewport: Scene viewport resized to 2270x1235, mode Windowed.
+[2024.10.14-11.08.02:080][208]LogViewport: Scene viewport resized to 2268x1235, mode Windowed.
+[2024.10.14-11.08.02:124][209]LogViewport: Scene viewport resized to 2263x1235, mode Windowed.
+[2024.10.14-11.08.02:163][210]LogViewport: Scene viewport resized to 2252x1235, mode Windowed.
+[2024.10.14-11.08.02:203][211]LogViewport: Scene viewport resized to 2242x1235, mode Windowed.
+[2024.10.14-11.08.02:244][212]LogViewport: Scene viewport resized to 2234x1235, mode Windowed.
+[2024.10.14-11.08.02:285][213]LogViewport: Scene viewport resized to 2229x1235, mode Windowed.
+[2024.10.14-11.08.02:326][214]LogViewport: Scene viewport resized to 2222x1235, mode Windowed.
+[2024.10.14-11.08.02:367][215]LogViewport: Scene viewport resized to 2221x1235, mode Windowed.
+[2024.10.14-11.08.02:406][216]LogViewport: Scene viewport resized to 2219x1235, mode Windowed.
+[2024.10.14-11.08.02:460][219]LogViewport: Scene viewport resized to 2217x1235, mode Windowed.
+[2024.10.14-11.08.33:307][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.08.33:316][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.08.33:316][229]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:08:33)
+[2024.10.14-11.08.33:343][229]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.08.33:347][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003715s)
+[2024.10.14-11.08.33:347][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003757s)
+[2024.10.14-11.08.33:364][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.10.14-11.08.33:367][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.08.33:367][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.08.33:368][229]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.08.33:368][229]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.10.14-11.08.33:368][229]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.08.33:368][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.08.33:368][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.08.33:369][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.08.33:369][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.08.33:369][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.08.33:371][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.08.33:398][229]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.08.33:398][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.08.33:398][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.08.33:398][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.08.33:399][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.10.14-11.08.33:399][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.10.14-11.08.33:401][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.10.14-11.08.33:401][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.10.14-11.08.33:401][229]LogInit: FAudioDevice initialized with ID 24.
+[2024.10.14-11.08.33:401][229]LogAudio: Display: Audio Device (ID: 24) registered with world 'LiamDevLevel'.
+[2024.10.14-11.08.33:401][229]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.10.14-11.08.33:403][229]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.08.33:405][229]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.08.33
+[2024.10.14-11.08.33:405][229]LogWorld: Bringing up level for play took: 0.001226
+[2024.10.14-11.08.33:407][229]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.10.14-11.08.33:410][229]PIE: Server logged in
+[2024.10.14-11.08.33:411][229]PIE: Play in editor total start time 0.095 seconds.
+[2024.10.14-11.08.36:683][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.08.36:683][510]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.08.36:683][510]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.08.36:684][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.08.36:700][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.08.36:705][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.08.36:720][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-11.08.36:720][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.10.14-11.08.36:720][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.10.14-11.08.36:722][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.10.14-11.08.36:724][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.08.36:727][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-11.08.36:794][511]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.10.14-11.08.43:124][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.08.43:132][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.08.43:132][  6]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:08:43)
+[2024.10.14-11.08.43:153][  6]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.08.43:157][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003793s)
+[2024.10.14-11.08.43:157][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003839s)
+[2024.10.14-11.08.43:172][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.14-11.08.43:176][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.08.43:176][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.08.43:177][  6]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.08.43:177][  6]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2024.10.14-11.08.43:177][  6]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.08.43:177][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.08.43:177][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.08.43:178][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.08.43:178][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.08.43:178][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.08.43:180][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.08.43:215][  6]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.08.43:216][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.08.43:216][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.08.43:216][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.08.43:216][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.10.14-11.08.43:216][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.10.14-11.08.43:218][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.10.14-11.08.43:218][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.10.14-11.08.43:218][  6]LogInit: FAudioDevice initialized with ID 25.
+[2024.10.14-11.08.43:218][  6]LogAudio: Display: Audio Device (ID: 25) registered with world 'LiamDevLevel'.
+[2024.10.14-11.08.43:218][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.10.14-11.08.43:221][  6]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.08.43:222][  6]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.08.43
+[2024.10.14-11.08.43:222][  6]LogWorld: Bringing up level for play took: 0.001262
+[2024.10.14-11.08.43:224][  6]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.10.14-11.08.43:228][  6]PIE: Server logged in
+[2024.10.14-11.08.43:229][  6]PIE: Play in editor total start time 0.097 seconds.
+[2024.10.14-11.08.45:993][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.08.45:993][243]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.08.45:993][243]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.08.45:993][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.08.45:998][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.08.46:004][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.08.46:017][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-11.08.46:018][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.10.14-11.08.46:018][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.10.14-11.08.46:019][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.10.14-11.08.46:022][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.08.46:025][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.14-11.08.46:093][244]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.10.14-11.09.34:672][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.09.34:713][725]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.09.34:714][725]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible48747C644B954B00B23F7A83132A453F.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.09.34:722][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 13.3 sec)
+[2024.10.14-11.09.34:724][725]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.09.34:724][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.09.40:242][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.09.40:294][149]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.09.40:295][149]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleCBBD6B9B499B8A4DFD3F12BE4E9CA650.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.09.40:303][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 13.4 sec)
+[2024.10.14-11.09.40:304][149]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.09.40:304][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.09.41:900][279]BlueprintLog: New page: Compile BP_Collectible
+[2024.10.14-11.09.41:943][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.14-11.09.48:479][699]LogEditorTransaction: Undo Modify Component(s)
+[2024.10.14-11.09.49:276][729]BlueprintLog: New page: Compile BP_Collectible
+[2024.10.14-11.09.49:327][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.10.14-11.09.49:966][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.09.50:015][756]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.09.50:015][756]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleD6DA4E1D43A63F09F28E76A54F472E09.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.09.50:025][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 13.4 sec)
+[2024.10.14-11.09.50:025][756]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.09.50:025][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.10.04:354][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.10.04:454][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.14-11.10.04:474][877]LogSavePackage: Moving output files for package: /Game/Levels/DevLevels/Liam/LiamDevLevel
+[2024.10.14-11.10.04:474][877]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/LiamDevLevel6F91BCC741685ED4EE8845AC4CC8E555.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap'
+[2024.10.14-11.10.04:482][877]LogFileHelpers: Saving map 'LiamDevLevel' took 0.075
+[2024.10.14-11.10.04:497][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 13.6 sec)
+[2024.10.14-11.10.04:499][877]AssetCheck: New page: Asset Save: LiamDevLevel
+[2024.10.14-11.10.04:499][877]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel
+[2024.10.14-11.10.57:939][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.10.57:989][703]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.10.57:990][703]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible281E506F48FC22B371CCCB9FA98811C8.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.10.57:996][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 13.6 sec)
+[2024.10.14-11.10.57:998][703]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.10.57:998][703]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.11.01:134][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.11.01:144][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.11.01:144][958]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:11:01)
+[2024.10.14-11.11.01:144][958]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.01:148][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003752s)
+[2024.10.14-11.11.01:148][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003786s)
+[2024.10.14-11.11.01:163][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.14-11.11.01:167][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.11.01:168][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.11.01:168][958]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.11.01:168][958]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2024.10.14-11.11.01:168][958]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.11.01:168][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.11.01:168][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.11.01:169][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.11.01:169][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.11.01:169][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.11.01:171][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.11.01:199][958]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.11.01:199][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.11.01:199][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.11.01:199][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.11.01:200][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.10.14-11.11.01:200][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.10.14-11.11.01:201][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.10.14-11.11.01:201][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.10.14-11.11.01:201][958]LogInit: FAudioDevice initialized with ID 26.
+[2024.10.14-11.11.01:201][958]LogAudio: Display: Audio Device (ID: 26) registered with world 'LiamDevLevel'.
+[2024.10.14-11.11.01:201][958]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.10.14-11.11.01:204][958]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.11.01:205][958]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.11.01
+[2024.10.14-11.11.01:205][958]LogWorld: Bringing up level for play took: 0.001379
+[2024.10.14-11.11.01:207][958]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.10.14-11.11.01:210][958]PIE: Server logged in
+[2024.10.14-11.11.01:210][958]PIE: Play in editor total start time 0.067 seconds.
+[2024.10.14-11.11.08:283][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.08:283][579]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.08:283][579]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.11.08:284][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.08:291][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.11.08:297][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.08:312][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.08:312][579]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.10.14-11.11.08:312][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.14-11.11.08:313][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.10.14-11.11.08:320][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.14-11.11.08:387][580]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.10.14-11.11.16:575][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.11.16:583][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.11.16:583][194]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:11:16)
+[2024.10.14-11.11.16:584][194]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.16:587][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003909s)
+[2024.10.14-11.11.16:588][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003945s)
+[2024.10.14-11.11.16:604][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.14-11.11.16:607][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.11.16:607][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.11.16:607][194]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.11.16:608][194]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2024.10.14-11.11.16:608][194]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.11.16:608][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.11.16:608][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.11.16:608][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.11.16:608][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.11.16:608][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.11.16:610][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.11.16:640][194]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.11.16:640][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.11.16:640][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.11.16:640][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.11.16:641][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.10.14-11.11.16:641][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.10.14-11.11.16:643][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.10.14-11.11.16:643][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.10.14-11.11.16:643][194]LogInit: FAudioDevice initialized with ID 27.
+[2024.10.14-11.11.16:643][194]LogAudio: Display: Audio Device (ID: 27) registered with world 'LiamDevLevel'.
+[2024.10.14-11.11.16:643][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.10.14-11.11.16:645][194]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.11.16:647][194]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.11.16
+[2024.10.14-11.11.16:647][194]LogWorld: Bringing up level for play took: 0.001413
+[2024.10.14-11.11.16:649][194]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.10.14-11.11.16:651][194]PIE: Server logged in
+[2024.10.14-11.11.16:652][194]PIE: Play in editor total start time 0.068 seconds.
+[2024.10.14-11.11.18:213][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.18:213][319]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.18:213][319]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.11.18:213][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.18:219][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.11.18:225][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.18:239][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.18:239][319]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.10.14-11.11.18:239][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.10.14-11.11.18:241][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.10.14-11.11.18:247][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.10.14-11.11.18:323][320]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.10.14-11.11.27:207][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.11.27:214][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.11.27:215][ 44]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:11:27)
+[2024.10.14-11.11.27:253][ 44]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.27:257][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003656s)
+[2024.10.14-11.11.27:257][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003692s)
+[2024.10.14-11.11.27:272][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.14-11.11.27:275][ 44]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.11.27:275][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.11.27:275][ 44]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.11.27:275][ 44]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2024.10.14-11.11.27:275][ 44]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.11.27:275][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.11.27:275][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.11.27:276][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.11.27:276][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.11.27:276][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.11.27:278][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.11.27:306][ 44]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.11.27:306][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.11.27:306][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.11.27:306][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.11.27:307][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.10.14-11.11.27:307][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.10.14-11.11.27:308][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.10.14-11.11.27:308][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.10.14-11.11.27:308][ 44]LogInit: FAudioDevice initialized with ID 28.
+[2024.10.14-11.11.27:308][ 44]LogAudio: Display: Audio Device (ID: 28) registered with world 'LiamDevLevel'.
+[2024.10.14-11.11.27:308][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.10.14-11.11.27:311][ 44]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.11.27:312][ 44]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.11.27
+[2024.10.14-11.11.27:313][ 44]LogWorld: Bringing up level for play took: 0.001407
+[2024.10.14-11.11.27:314][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.10.14-11.11.27:317][ 44]PIE: Server logged in
+[2024.10.14-11.11.27:318][ 44]PIE: Play in editor total start time 0.104 seconds.
+[2024.10.14-11.11.29:013][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.29:013][179]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.29:013][179]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.11.29:014][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.29:019][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.11.29:026][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.29:041][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.29:042][179]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.10.14-11.11.29:042][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.10.14-11.11.29:043][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.10.14-11.11.29:049][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.14-11.11.29:117][180]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.10.14-11.11.38:173][899]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.11.38:181][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.11.38:181][899]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:11:38)
+[2024.10.14-11.11.38:182][899]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.38:187][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005207s)
+[2024.10.14-11.11.38:187][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.005290s)
+[2024.10.14-11.11.38:203][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.14-11.11.38:206][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.11.38:206][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.11.38:207][899]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.11.38:207][899]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2024.10.14-11.11.38:207][899]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.11.38:207][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.11.38:207][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.11.38:208][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.11.38:208][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.11.38:208][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.11.38:210][899]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.11.38:238][899]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.11.38:238][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.11.38:238][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.11.38:238][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.11.38:239][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.10.14-11.11.38:239][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.10.14-11.11.38:240][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.10.14-11.11.38:240][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.10.14-11.11.38:240][899]LogInit: FAudioDevice initialized with ID 29.
+[2024.10.14-11.11.38:240][899]LogAudio: Display: Audio Device (ID: 29) registered with world 'LiamDevLevel'.
+[2024.10.14-11.11.38:240][899]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.10.14-11.11.38:243][899]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.11.38:245][899]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.11.38
+[2024.10.14-11.11.38:245][899]LogWorld: Bringing up level for play took: 0.001417
+[2024.10.14-11.11.38:247][899]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.14-11.11.38:250][899]PIE: Server logged in
+[2024.10.14-11.11.38:250][899]PIE: Play in editor total start time 0.07 seconds.
+[2024.10.14-11.11.40:604][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.40:604][ 91]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.11.40:604][ 91]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.11.40:604][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.40:608][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.11.40:614][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.11.40:627][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.11.40:628][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.10.14-11.11.40:628][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.10.14-11.11.40:629][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.10.14-11.11.40:636][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.14-11.11.40:705][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.14-11.11.44:605][273]LogEditorTransaction: Undo Edit Collectible Type
+[2024.10.14-11.11.45:460][303]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2024.10.14-11.11.46:038][330]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.14-11.11.46:434][350]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.14-11.11.46:982][380]LogEditorTransaction: Undo Edit Collectible Type
+[2024.10.14-11.11.56:370][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.11.56:414][ 79]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.11.56:415][ 79]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleF447ED4848643DBC88BE658C388D0B7C.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.11.56:423][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 13.7 sec)
+[2024.10.14-11.11.56:423][ 79]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.11.56:423][ 79]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.11.56:852][108]BlueprintLog: New page: Compile BP_Collectible
+[2024.10.14-11.11.56:895][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-11.11.57:437][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.11.57:485][144]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.11.57:485][144]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleD0CEAC5547701100301439BE6C2EE3D7.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.11.57:492][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 13.7 sec)
+[2024.10.14-11.11.57:494][144]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.11.57:494][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.11.59:992][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.12.00:000][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.12.00:000][340]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:12:00)
+[2024.10.14-11.12.00:000][340]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.12.00:004][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004068s)
+[2024.10.14-11.12.00:004][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.004102s)
+[2024.10.14-11.12.00:020][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.14-11.12.00:023][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.12.00:023][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.12.00:024][340]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.12.00:024][340]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2024.10.14-11.12.00:024][340]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.12.00:024][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.12.00:024][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.12.00:025][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.12.00:025][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.12.00:025][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.12.00:027][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.12.00:055][340]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.12.00:055][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.12.00:055][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.12.00:055][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.12.00:056][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.10.14-11.12.00:056][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.10.14-11.12.00:057][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.10.14-11.12.00:057][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.10.14-11.12.00:057][340]LogInit: FAudioDevice initialized with ID 30.
+[2024.10.14-11.12.00:057][340]LogAudio: Display: Audio Device (ID: 30) registered with world 'LiamDevLevel'.
+[2024.10.14-11.12.00:057][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.10.14-11.12.00:060][340]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.12.00:061][340]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.12.00
+[2024.10.14-11.12.00:061][340]LogWorld: Bringing up level for play took: 0.001385
+[2024.10.14-11.12.00:063][340]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.10.14-11.12.00:066][340]PIE: Server logged in
+[2024.10.14-11.12.00:066][340]PIE: Play in editor total start time 0.067 seconds.
+[2024.10.14-11.12.04:413][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.12.04:413][715]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.12.04:414][715]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.12.04:414][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.12.04:427][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.12.04:434][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.12.04:450][715]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-11.12.04:450][715]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.10.14-11.12.04:450][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.10.14-11.12.04:452][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.10.14-11.12.04:455][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.12.04:458][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.14-11.12.04:531][716]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.10.14-11.12.09:094][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.12.09:181][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.14-11.12.09:200][ 50]LogSavePackage: Moving output files for package: /Game/Levels/DevLevels/Liam/LiamDevLevel
+[2024.10.14-11.12.09:201][ 50]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/LiamDevLevelF85348DB4EF5CA8D7D46779920DEF0EC.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap'
+[2024.10.14-11.12.09:208][ 50]LogFileHelpers: Saving map 'LiamDevLevel' took 0.081
+[2024.10.14-11.12.09:217][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 13.9 sec)
+[2024.10.14-11.12.09:219][ 50]AssetCheck: New page: Asset Save: LiamDevLevel
+[2024.10.14-11.12.09:219][ 50]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel
+[2024.10.14-11.12.52:165][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.12.52:204][369]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.12.52:205][369]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible5F876A264B02C0A77E73D1BCEEA27739.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.12.52:213][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 13.9 sec)
+[2024.10.14-11.12.52:215][369]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.12.52:215][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.12.53:430][446]BlueprintLog: New page: Compile BP_Collectible
+[2024.10.14-11.12.53:482][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.14-11.12.54:139][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.12.54:180][467]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.12.54:180][467]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleB4B5D1E346A5E9E682CBE4A18243815C.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.12.54:188][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 14.0 sec)
+[2024.10.14-11.12.54:190][467]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.12.54:190][467]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.12.56:461][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.12.56:471][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.12.56:471][625]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:12:56)
+[2024.10.14-11.12.56:471][625]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.12.56:476][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004705s)
+[2024.10.14-11.12.56:476][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.004736s)
+[2024.10.14-11.12.56:491][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.14-11.12.56:494][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.12.56:494][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.12.56:494][625]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.12.56:495][625]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2024.10.14-11.12.56:495][625]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.12.56:495][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.12.56:495][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.12.56:495][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.12.56:495][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.12.56:495][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.12.56:497][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.12.56:525][625]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.12.56:525][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.12.56:525][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.12.56:525][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.12.56:526][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.10.14-11.12.56:526][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.10.14-11.12.56:527][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.10.14-11.12.56:527][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.10.14-11.12.56:527][625]LogInit: FAudioDevice initialized with ID 31.
+[2024.10.14-11.12.56:527][625]LogAudio: Display: Audio Device (ID: 31) registered with world 'LiamDevLevel'.
+[2024.10.14-11.12.56:527][625]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.10.14-11.12.56:530][625]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.12.56:532][625]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.12.56
+[2024.10.14-11.12.56:532][625]LogWorld: Bringing up level for play took: 0.001491
+[2024.10.14-11.12.56:533][625]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.10.14-11.12.56:536][625]PIE: Server logged in
+[2024.10.14-11.12.56:537][625]PIE: Play in editor total start time 0.066 seconds.
+[2024.10.14-11.12.57:483][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.12.57:483][699]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.12.57:483][699]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.12.57:484][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.12.57:489][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.12.57:494][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.12.57:510][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-11.12.57:510][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.10.14-11.12.57:510][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.10.14-11.12.57:512][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.10.14-11.12.57:515][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.12.57:518][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.10.14-11.12.57:590][700]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.10.14-11.12.59:906][806]LogEditorTransaction: Undo Set Location
+[2024.10.14-11.13.00:549][822]LogEditorTransaction: Undo Modify Component(s)
+[2024.10.14-11.13.07:225][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.13.07:264][218]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.13.07:264][218]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible40D56F60407053EA43D2FD889D27DE65.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.13.07:271][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 14.0 sec)
+[2024.10.14-11.13.07:272][218]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.13.07:272][218]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.13.07:941][260]BlueprintLog: New page: Compile BP_Collectible
+[2024.10.14-11.13.07:988][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.14-11.13.08:500][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.13.08:538][275]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.13.08:538][275]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleA2CCF5054B89164798942D93CF7FB766.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.13.08:546][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 14.0 sec)
+[2024.10.14-11.13.08:548][275]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.13.08:548][275]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.13.10:308][402]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.13.10:318][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.13.10:318][402]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:13:10)
+[2024.10.14-11.13.10:318][402]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.13.10:322][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003813s)
+[2024.10.14-11.13.10:322][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003846s)
+[2024.10.14-11.13.10:339][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.14-11.13.10:341][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.13.10:341][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.13.10:342][402]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.13.10:342][402]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2024.10.14-11.13.10:342][402]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.13.10:342][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.13.10:342][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.13.10:343][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.13.10:343][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.13.10:343][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.13.10:345][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.13.10:373][402]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.13.10:373][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.13.10:373][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.13.10:373][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.13.10:374][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.10.14-11.13.10:374][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.10.14-11.13.10:376][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.10.14-11.13.10:376][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.10.14-11.13.10:376][402]LogInit: FAudioDevice initialized with ID 32.
+[2024.10.14-11.13.10:376][402]LogAudio: Display: Audio Device (ID: 32) registered with world 'LiamDevLevel'.
+[2024.10.14-11.13.10:376][402]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.10.14-11.13.10:378][402]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.13.10:380][402]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.13.10
+[2024.10.14-11.13.10:380][402]LogWorld: Bringing up level for play took: 0.001357
+[2024.10.14-11.13.10:382][402]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.10.14-11.13.10:384][402]PIE: Server logged in
+[2024.10.14-11.13.10:385][402]PIE: Play in editor total start time 0.067 seconds.
+[2024.10.14-11.14.39:933][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.14.39:933][785]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.14.39:933][785]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.14.39:933][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.14.39:939][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.14.39:944][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.14.39:959][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-11.14.39:959][785]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.10.14-11.14.39:959][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.10.14-11.14.39:961][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.10.14-11.14.39:964][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.14.39:967][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.10.14-11.14.40:036][786]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.10.14-11.14.46:402][307]Cmd: DELETE
+[2024.10.14-11.14.46:402][307]Cmd: ACTOR DELETE
+[2024.10.14-11.14.46:404][307]LogEditorActor: Deleted Actor: BP_Collectible_C
+[2024.10.14-11.14.46:423][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.10.14-11.14.46:427][307]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.10.14-11.14.46:987][351]Cmd: DELETE
+[2024.10.14-11.14.46:987][351]Cmd: ACTOR DELETE
+[2024.10.14-11.14.46:989][351]LogEditorActor: Deleted Actor: BP_Collectible_C
+[2024.10.14-11.14.47:005][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.14-11.14.47:009][351]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.14-11.14.47:424][381]Cmd: DELETE
+[2024.10.14-11.14.47:424][381]Cmd: ACTOR DELETE
+[2024.10.14-11.14.47:426][381]LogEditorActor: Deleted Actor: BP_Collectible_C
+[2024.10.14-11.14.47:442][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.14-11.14.47:446][381]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.10.14-11.14.58:428][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.14.58:513][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.10.14-11.14.58:531][305]LogSavePackage: Moving output files for package: /Game/Levels/DevLevels/Liam/LiamDevLevel
+[2024.10.14-11.14.58:532][305]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/LiamDevLevelD8A7AADF42B37D2E0DD2ED8B5031580B.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap'
+[2024.10.14-11.14.58:538][305]LogFileHelpers: Saving map 'LiamDevLevel' took 0.069
+[2024.10.14-11.14.58:546][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 14.2 sec)
+[2024.10.14-11.14.58:546][305]AssetCheck: New page: Asset Save: LiamDevLevel
+[2024.10.14-11.14.58:546][305]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel
+[2024.10.14-11.14.59:038][349]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-11.14.59:045][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-11.14.59:045][349]PIE: New page: PIE session: LiamDevLevel (14 Oct 2024, 13:14:59)
+[2024.10.14-11.14.59:073][349]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.14.59:076][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003323s)
+[2024.10.14-11.14.59:076][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/Liam/LiamDevLevel.LiamDevLevel to /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel (0.003365s)
+[2024.10.14-11.14.59:092][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.14-11.14.59:094][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.14.59:094][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.14.59:094][349]LogAIModule: Creating AISystem for world LiamDevLevel
+[2024.10.14-11.14.59:094][349]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2024.10.14-11.14.59:094][349]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.10.14-11.14.59:094][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-11.14.59:094][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-11.14.59:094][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-11.14.59:094][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-11.14.59:094][349]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-11.14.59:094][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-11.14.59:095][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-11.14.59:095][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-11.14.59:095][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-11.14.59:095][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-11.14.59:095][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-11.14.59:097][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-11.14.59:128][349]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2024.10.14-11.14.59:128][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-11.14.59:128][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-11.14.59:128][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-11.14.59:129][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.10.14-11.14.59:129][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.10.14-11.14.59:130][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.10.14-11.14.59:130][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.10.14-11.14.59:130][349]LogInit: FAudioDevice initialized with ID 33.
+[2024.10.14-11.14.59:130][349]LogAudio: Display: Audio Device (ID: 33) registered with world 'LiamDevLevel'.
+[2024.10.14-11.14.59:130][349]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.10.14-11.14.59:133][349]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-11.14.59:134][349]LogWorld: Bringing World /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel.LiamDevLevel up for play (max tick rate 0) at 2024.10.14-12.14.59
+[2024.10.14-11.14.59:134][349]LogWorld: Bringing up level for play took: 0.001203
+[2024.10.14-11.14.59:136][349]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.10.14-11.14.59:139][349]PIE: Server logged in
+[2024.10.14-11.14.59:139][349]PIE: Play in editor total start time 0.094 seconds.
+[2024.10.14-11.15.00:723][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.15.00:723][480]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/Liam/UEDPIE_0_LiamDevLevel
+[2024.10.14-11.15.00:723][480]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.15.00:723][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.15.00:726][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-11.15.00:732][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.15.00:748][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-11.15.00:749][480]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.10.14-11.15.00:749][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.10.14-11.15.00:750][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.10.14-11.15.00:756][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.14-11.15.00:829][481]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.10.14-11.15.06:941][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.14-11.15.09:514][961]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.14-11.15.17:014][483]LogContentBrowser: Attempting asset rename: BrokenKeyCollectible -> OLD_DEL
+[2024.10.14-11.15.17:055][483]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DEL.OLD_DEL_C' ref from Metadata '/Game/Blueprints/Collectibles/BrokenKeyCollectible.PackageMetaData'
+[2024.10.14-11.15.17:055][483]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DEL.OLD_DEL:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Collectibles/BrokenKeyCollectible.PackageMetaData'
+[2024.10.14-11.15.17:055][483]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DEL.SKEL_OLD_DEL_C:ReceiveHit' ref from Metadata '/Game/Blueprints/Collectibles/BrokenKeyCollectible.PackageMetaData'
+[2024.10.14-11.15.17:055][483]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DEL.SKEL_OLD_DEL_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Collectibles/BrokenKeyCollectible.PackageMetaData'
+[2024.10.14-11.15.17:055][483]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DEL.SKEL_OLD_DEL_C' ref from Metadata '/Game/Blueprints/Collectibles/BrokenKeyCollectible.PackageMetaData'
+[2024.10.14-11.15.17:055][483]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DEL.OLD_DEL_C:ReceiveHit' ref from Metadata '/Game/Blueprints/Collectibles/BrokenKeyCollectible.PackageMetaData'
+[2024.10.14-11.15.17:072][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.15.17:109][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Collectibles/OLD_DEL" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/OLD_DEL.uasset" SILENT=true
+[2024.10.14-11.15.17:109][483]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/Collectibles/OLD_DEL does not exist, will not scan.
+[2024.10.14-11.15.17:116][483]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/OLD_DEL
+[2024.10.14-11.15.17:116][483]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/OLD_DEL38A2B5404FD539E13DDDE6B1A2785B78.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/OLD_DEL.uasset'
+[2024.10.14-11.15.17:139][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 14.2 sec)
+[2024.10.14-11.15.17:164][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.10.14-11.15.17:180][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-11.15.17:197][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.10.14-11.15.17:200][483]AssetCheck: New page: Asset Save: OLD_DEL
+[2024.10.14-11.15.17:200][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/OLD_DEL.OLD_DEL
+[2024.10.14-11.15.17:200][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.15.21:812][785]LogContentBrowser: Attempting asset rename: CurrencyCollectible -> OLD_DELETE
+[2024.10.14-11.15.21:843][785]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DELETE.OLD_DELETE_C' ref from Metadata '/Game/Blueprints/Collectibles/CurrencyCollectible.PackageMetaData'
+[2024.10.14-11.15.21:843][785]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DELETE.OLD_DELETE:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Collectibles/CurrencyCollectible.PackageMetaData'
+[2024.10.14-11.15.21:843][785]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DELETE.SKEL_OLD_DELETE_C' ref from Metadata '/Game/Blueprints/Collectibles/CurrencyCollectible.PackageMetaData'
+[2024.10.14-11.15.21:843][785]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DELETE.SKEL_OLD_DELETE_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Collectibles/CurrencyCollectible.PackageMetaData'
+[2024.10.14-11.15.21:843][785]LogMetaData: Removing '/Game/Blueprints/Collectibles/OLD_DELETE.SKEL_OLD_DELETE_C:BndEvt__CurrencyCollectible_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Collectibles/CurrencyCollectible.PackageMetaData'
+[2024.10.14-11.15.21:861][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.15.21:883][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Collectibles/OLD_DELETE" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/OLD_DELETE.uasset" SILENT=true
+[2024.10.14-11.15.21:889][785]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/OLD_DELETE
+[2024.10.14-11.15.21:889][785]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/OLD_DELETEBB6AAB274C7758B00DEF5998E47A2237.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/OLD_DELETE.uasset'
+[2024.10.14-11.15.21:896][785]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/CurrencyCollectible
+[2024.10.14-11.15.21:897][785]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/CurrencyCollectible2C5942C94738014D150DBC87FBB0A180.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/CurrencyCollectible.uasset'
+[2024.10.14-11.15.21:908][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 14.3 sec)
+[2024.10.14-11.15.21:909][785]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.14-11.15.21:909][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/OLD_DELETE.OLD_DELETE
+[2024.10.14-11.15.21:909][785]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Collectibles/CurrencyCollectible.CurrencyCollectible
+[2024.10.14-11.15.21:909][785]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Collectibles/CurrencyCollectible.CurrencyCollectible_C
+[2024.10.14-11.15.21:910][785]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Collectibles/CurrencyCollectible.Default__CurrencyCollectible_C
+[2024.10.14-11.15.21:910][785]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.15.22:757][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.15.22:789][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Collectibles/OLD_DELETE" FILE="../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/OLD_DELETE.uasset" SILENT=true
+[2024.10.14-11.15.22:793][838]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/OLD_DELETE
+[2024.10.14-11.15.22:794][838]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/OLD_DELETEB60C69914A2381C49A2C8D9C5ABA2828.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/OLD_DELETE.uasset'
+[2024.10.14-11.15.22:802][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 14.3 sec)
+[2024.10.14-11.15.22:804][838]AssetCheck: New page: Asset Save: OLD_DELETE
+[2024.10.14-11.15.22:804][838]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/OLD_DELETE.OLD_DELETE
+[2024.10.14-11.15.30:623][301]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.15.30:623][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.15.38:862][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.15.38:920][899]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.15.38:921][899]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo89BDEE8541C0823669CE30A7640CA516.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.15.38:930][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 14.4 sec)
+[2024.10.14-11.15.38:931][899]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.15.38:931][899]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.15.39:750][957]BlueprintLog: New page: Compile AC_CollectibleInfo
+[2024.10.14-11.15.39:791][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.10.14-11.15.40:335][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.15.40:393][993]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.15.40:394][993]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo1C480AFD4F6531B9512D4C956C8737FB.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.15.40:401][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 14.5 sec)
+[2024.10.14-11.15.40:402][993]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.15.40:402][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.15.42:770][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.15.42:815][177]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.15.42:815][177]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo95D09ADF428F28802A1D5380DE757679.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.15.42:823][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 14.5 sec)
+[2024.10.14-11.15.42:825][177]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.15.42:825][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.15.55:161][144]LogEditorTransaction: Undo Move Node
+[2024.10.14-11.15.56:048][189]LogEditorTransaction: Undo Create Reroute Node
+[2024.10.14-11.16.10:459][293]LogEditorTransaction: Undo Move Nodes
+[2024.10.14-11.17.06:931][615]LogBlueprint: Warning: Cannot name local variable 'hitActor'. The name is already used.
+[2024.10.14-11.17.17:048][396]LogBlueprint: Warning: Cannot name local variable 'hitActor'. The name is already used.
+[2024.10.14-11.18.07:305][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.18.07:368][195]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.18.07:368][195]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo5DB051BB4B97913936EC9D97CD6DE2EE.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.18.07:375][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 14.6 sec)
+[2024.10.14-11.18.07:376][195]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.18.07:376][195]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.18.18:829][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.18.18:881][ 99]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.18.18:881][ 99]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo608CC21B486167BB0E673287603C212B.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.18.18:888][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 14.6 sec)
+[2024.10.14-11.18.18:889][ 99]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.18.18:889][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.19.05:955][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.19.06:006][827]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.19.06:007][827]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfoA94809614BE914862E62FFBD886812BD.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.19.06:014][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 14.7 sec)
+[2024.10.14-11.19.06:015][827]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.19.06:015][827]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.19.07:538][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.19.07:587][944]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.19.07:587][944]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo17DAFF1840E0E65BFEECBA9DD8ADC1F6.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.19.07:594][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 14.8 sec)
+[2024.10.14-11.19.07:595][944]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.19.07:595][944]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.19.30:872][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.19.30:930][814]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.19.30:931][814]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo62D467264FF9661BBFDFF0A1E1D898E4.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.19.30:938][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 14.8 sec)
+[2024.10.14-11.19.30:939][814]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.19.30:939][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.19.32:788][959]BlueprintLog: New page: Compile AC_CollectibleInfo
+[2024.10.14-11.19.32:839][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.10.14-11.19.33:474][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.19.33:525][  3]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.19.33:525][  3]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo9754E371441BB434D06709BE0F984D35.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.19.33:533][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.9 sec)
+[2024.10.14-11.19.33:535][  3]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.19.33:535][  3]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.19.55:119][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.19.55:170][748]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.19.55:171][748]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfo521CFF8A4C91B5BE5B8E9C940F306205.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.19.55:177][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.9 sec)
+[2024.10.14-11.19.55:179][748]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.19.55:179][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.19.55:984][808]BlueprintLog: New page: Compile AC_CollectibleInfo
+[2024.10.14-11.19.56:021][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.10.14-11.19.56:748][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.19.56:796][860]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo
+[2024.10.14-11.19.56:797][860]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/AC_CollectibleInfoDCDEB96448252CA36AAA05BFEA5F1C1A.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset'
+[2024.10.14-11.19.56:803][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 15.0 sec)
+[2024.10.14-11.19.56:804][860]AssetCheck: New page: Asset Save: AC_CollectibleInfo
+[2024.10.14-11.19.56:805][860]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/Components/AC_CollectibleInfo.AC_CollectibleInfo
+[2024.10.14-11.20.01:082][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.20.01:122][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.20.01:123][171]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible0725E9AA49159E50709B818DB45156CF.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.20.01:130][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 15.0 sec)
+[2024.10.14-11.20.01:131][171]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.20.01:131][171]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.20.07:311][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.20.07:363][625]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.20.07:364][625]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_Collectible3636587B4D1A3CEE40D62AA9F51D5FD2.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.20.07:371][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 15.1 sec)
+[2024.10.14-11.20.07:373][625]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.20.07:373][625]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.20.14:386][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.20.14:424][175]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.20.14:425][175]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleF8FD2816491FBBBF21489E8CAFD319E0.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.20.14:432][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 15.1 sec)
+[2024.10.14-11.20.14:433][175]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.20.14:433][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.20.15:749][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.20.15:788][278]LogSavePackage: Moving output files for package: /Game/Blueprints/Collectibles/BP_Collectible
+[2024.10.14-11.20.15:789][278]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Saved/BP_CollectibleB90A06584491505436144084864DF46F.tmp' to '../../../../../../Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset'
+[2024.10.14-11.20.15:795][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 15.2 sec)
+[2024.10.14-11.20.15:796][278]AssetCheck: New page: Asset Save: BP_Collectible
+[2024.10.14-11.20.15:796][278]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible
+[2024.10.14-11.20.21:728][633]LogSlate: Window 'BP_Collectible' being destroyed
+[2024.10.14-11.20.21:731][633]LogSlate: Window 'BP_Collectible' being destroyed
+[2024.10.14-11.20.21:823][633]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.21:823][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.20.21:908][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.14-11.20.21:908][633]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.21:908][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.20.23:094][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.10.14-11.20.23:104][735]LogStall: Shutdown...
+[2024.10.14-11.20.23:109][735]LogStall: Shutdown complete.
+[2024.10.14-11.20.23:160][735]LogSlate: Window 'Game - Unreal Editor' being destroyed
+[2024.10.14-11.20.23:343][736]Cmd: QUIT_EDITOR
+[2024.10.14-11.20.23:343][736]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.14-11.20.23:353][736]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.14-11.20.23:353][736]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.10.14-11.20.23:353][736]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.10.14-11.20.23:356][736]LogWorld: UWorld::CleanupWorld for LiamDevLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.23:356][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.20.23:371][736]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.10.14-11.20.24:294][736]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.14-11.20.24:294][736]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.14-11.20.24:294][736]LogAudio: Display: Audio Device unregistered from world 'LiamDevLevel'.
+[2024.10.14-11.20.24:294][736]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.10.14-11.20.24:294][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.14-11.20.24:297][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.10.14-11.20.24:305][736]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.14-11.20.24:306][736]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.10.14-11.20.24:314][736]LogExit: Preparing to exit.
+[2024.10.14-11.20.24:354][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.10.14-11.20.24:373][736]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:373][736]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:377][736]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:378][736]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:379][736]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:380][736]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.24:380][736]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.14-11.20.25:095][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.14-11.20.25:096][736]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.20.25:171][736]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.10.14-11.20.25:278][736]LogExit: Editor shut down
+[2024.10.14-11.20.25:284][736]LogExit: Transaction tracking system shut down
+[2024.10.14-11.20.25:647][736]LogExit: Object subsystem successfully closed.
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: ================================================
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: Total job queries 6, among them cache hits 4 (66.67%)
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: RAM used: 46.18 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.14-11.20.25:656][736]LogShaderCompilers: Display: ================================================
+[2024.10.14-11.20.25:722][736]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.10.14-11.20.25:761][736]LogVirtualization: UE::Virtualization was shutdown
+[2024.10.14-11.20.25:846][736]LogModuleManager: Shutting down and abandoning module DataTableEditor (1058)
+[2024.10.14-11.20.25:846][736]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1056)
+[2024.10.14-11.20.25:846][736]LogModuleManager: Shutting down and abandoning module Voice (1054)
+[2024.10.14-11.20.25:847][736]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1052)
+[2024.10.14-11.20.25:847][736]LogModuleManager: Shutting down and abandoning module AddContentDialog (1050)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1049)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1046)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module SceneOutliner (1044)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module StatusBar (1042)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1040)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1038)
+[2024.10.14-11.20.25:849][736]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1036)
+[2024.10.14-11.20.25:850][736]LogModuleManager: Shutting down and abandoning module StatsViewer (1034)
+[2024.10.14-11.20.25:850][736]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1032)
+[2024.10.14-11.20.25:850][736]LogModuleManager: Shutting down and abandoning module AutomationWorker (1030)
+[2024.10.14-11.20.25:850][736]LogModuleManager: Shutting down and abandoning module SmartSnapping (1028)
+[2024.10.14-11.20.25:850][736]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1026)
+[2024.10.14-11.20.25:851][736]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1024)
+[2024.10.14-11.20.25:851][736]LogModuleManager: Shutting down and abandoning module RigVMEditor (1022)
+[2024.10.14-11.20.25:852][736]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1020)
+[2024.10.14-11.20.25:852][736]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1018)
+[2024.10.14-11.20.25:852][736]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1016)
+[2024.10.14-11.20.25:852][736]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1014)
+[2024.10.14-11.20.25:852][736]LogModuleManager: Shutting down and abandoning module IKRigEditor (1012)
+[2024.10.14-11.20.25:854][736]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1010)
+[2024.10.14-11.20.25:855][736]LogModuleManager: Shutting down and abandoning module PlanarCut (1008)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module FractureEngine (1006)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module CharacterAI (1004)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1002)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1000)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (998)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (996)
+[2024.10.14-11.20.25:856][736]LogModuleManager: Shutting down and abandoning module WebMMedia (994)
+[2024.10.14-11.20.25:857][736]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (992)
+[2024.10.14-11.20.25:857][736]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (990)
+[2024.10.14-11.20.25:857][736]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (988)
+[2024.10.14-11.20.25:857][736]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (986)
+[2024.10.14-11.20.25:858][736]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (984)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module SequenceRecorder (983)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (980)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (978)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (976)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (974)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (972)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module TextureAlignMode (970)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module BspMode (968)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module GeometryMode (966)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (964)
+[2024.10.14-11.20.25:859][736]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (962)
+[2024.10.14-11.20.25:860][736]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (960)
+[2024.10.14-11.20.25:861][736]LogModuleManager: Shutting down and abandoning module SessionServices (958)
+[2024.10.14-11.20.25:864][736]LogModuleManager: Shutting down and abandoning module MeshPaint (956)
+[2024.10.14-11.20.25:865][736]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (954)
+[2024.10.14-11.20.25:865][736]LogModuleManager: Shutting down and abandoning module PlacementMode (953)
+[2024.10.14-11.20.25:866][736]LogModuleManager: Shutting down and abandoning module FoliageEdit (950)
+[2024.10.14-11.20.25:867][736]LogModuleManager: Shutting down and abandoning module LandscapeEditor (948)
+[2024.10.14-11.20.25:869][736]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (946)
+[2024.10.14-11.20.25:869][736]LogModuleManager: Shutting down and abandoning module ActorPickerMode (944)
+[2024.10.14-11.20.25:869][736]LogModuleManager: Shutting down and abandoning module ViewportSnapping (942)
+[2024.10.14-11.20.25:869][736]LogModuleManager: Shutting down and abandoning module EditorWidgets (940)
+[2024.10.14-11.20.25:869][736]LogModuleManager: Shutting down and abandoning module ViewportInteraction (938)
+[2024.10.14-11.20.25:869][736]LogModuleManager: Shutting down and abandoning module ClothPainter (936)
+[2024.10.14-11.20.25:870][736]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (935)
+[2024.10.14-11.20.25:870][736]LogModuleManager: Shutting down and abandoning module WidgetRegistration (932)
+[2024.10.14-11.20.25:871][736]LogModuleManager: Shutting down and abandoning module LogVisualizer (930)
+[2024.10.14-11.20.25:872][736]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (928)
+[2024.10.14-11.20.25:872][736]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (926)
+[2024.10.14-11.20.25:872][736]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (925)
+[2024.10.14-11.20.25:873][736]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (923)
+[2024.10.14-11.20.26:060][736]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (920)
+[2024.10.14-11.20.26:060][736]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (918)
+[2024.10.14-11.20.26:060][736]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (916)
+[2024.10.14-11.20.26:060][736]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (914)
+[2024.10.14-11.20.26:060][736]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (912)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (910)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module AnimationSettings (908)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (906)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module CSVtoSVG (904)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (902)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module EditorConfig (900)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module EditorFramework (898)
+[2024.10.14-11.20.26:061][736]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (896)
+[2024.10.14-11.20.26:062][736]LogModuleManager: Shutting down and abandoning module TraceInsights (894)
+[2024.10.14-11.20.26:065][736]MemoryProfiler: Shutdown
+[2024.10.14-11.20.26:065][736]NetworkingProfiler: Shutdown
+[2024.10.14-11.20.26:066][736]LoadingProfiler: Shutdown
+[2024.10.14-11.20.26:066][736]TimingProfiler: Shutdown
+[2024.10.14-11.20.26:068][736]LogModuleManager: Shutting down and abandoning module TraceServices (893)
+[2024.10.14-11.20.26:069][736]LogModuleManager: Shutting down and abandoning module TraceAnalysis (892)
+[2024.10.14-11.20.26:069][736]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (888)
+[2024.10.14-11.20.26:069][736]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (887)
+[2024.10.14-11.20.26:069][736]LogModuleManager: Shutting down and abandoning module InputBindingEditor (884)
+[2024.10.14-11.20.26:069][736]LogModuleManager: Shutting down and abandoning module MergeActors (882)
+[2024.10.14-11.20.26:070][736]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (880)
+[2024.10.14-11.20.26:070][736]LogModuleManager: Shutting down and abandoning module LocalizationService (879)
+[2024.10.14-11.20.26:070][736]LogModuleManager: Shutting down and abandoning module HardwareTargeting (876)
+[2024.10.14-11.20.26:070][736]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (874)
+[2024.10.14-11.20.26:070][736]LogModuleManager: Shutting down and abandoning module UndoHistory (872)
+[2024.10.14-11.20.26:070][736]LogModuleManager: Shutting down and abandoning module XmlParser (870)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module Blutility (868)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (866)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (865)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (862)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (861)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module SettingsEditor (858)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module ProjectLauncher (856)
+[2024.10.14-11.20.26:071][736]LogModuleManager: Shutting down and abandoning module SessionFrontend (854)
+[2024.10.14-11.20.26:072][736]LogModuleManager: Shutting down and abandoning module ProfilerClient (852)
+[2024.10.14-11.20.26:072][736]LogModuleManager: Shutting down and abandoning module DeviceManager (850)
+[2024.10.14-11.20.26:072][736]LogModuleManager: Shutting down and abandoning module AutomationController (848)
+[2024.10.14-11.20.26:072][736]LogModuleManager: Shutting down and abandoning module AutomationWindow (846)
+[2024.10.14-11.20.26:074][736]LogModuleManager: Shutting down and abandoning module Layers (844)
+[2024.10.14-11.20.26:075][736]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (842)
+[2024.10.14-11.20.26:075][736]LogModuleManager: Shutting down and abandoning module DetailCustomizations (840)
+[2024.10.14-11.20.26:075][736]LogModuleManager: Shutting down and abandoning module PackagesDialog (838)
+[2024.10.14-11.20.26:075][736]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (836)
+[2024.10.14-11.20.26:076][736]LogModuleManager: Shutting down and abandoning module Persona (834)
+[2024.10.14-11.20.26:077][736]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (833)
+[2024.10.14-11.20.26:077][736]LogModuleManager: Shutting down and abandoning module Kismet (830)
+[2024.10.14-11.20.26:087][736]LogModuleManager: Shutting down and abandoning module KismetWidgets (829)
+[2024.10.14-11.20.26:087][736]LogModuleManager: Shutting down and abandoning module GraphEditor (826)
+[2024.10.14-11.20.26:087][736]LogModuleManager: Shutting down and abandoning module StructViewer (824)
+[2024.10.14-11.20.26:088][736]LogModuleManager: Shutting down and abandoning module ClassViewer (822)
+[2024.10.14-11.20.26:090][736]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (820)
+[2024.10.14-11.20.26:090][736]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (818)
+[2024.10.14-11.20.26:090][736]LogModuleManager: Shutting down and abandoning module SourceControlWindows (816)
+[2024.10.14-11.20.26:091][736]LogModuleManager: Shutting down and abandoning module OutputLog (814)
+[2024.10.14-11.20.26:093][736]LogModuleManager: Shutting down and abandoning module Documentation (812)
+[2024.10.14-11.20.26:094][736]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (810)
+[2024.10.14-11.20.26:094][736]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (808)
+[2024.10.14-11.20.26:094][736]LogModuleManager: Shutting down and abandoning module MovieScene (806)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (804)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (802)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (800)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module AudioMixer (799)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module AudioMixerCore (798)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module LauncherPlatform (794)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module AnalyticsET (792)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module PortalServices (790)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module PortalRpc (788)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module MessagingRpc (786)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module AIModule (784)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module GameplayDebugger (783)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module AITestSuite (781)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module NavigationSystem (779)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (776)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (774)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module TypedElementFramework (772)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (770)
+[2024.10.14-11.20.26:095][736]LogModuleManager: Shutting down and abandoning module ProfilerService (768)
+[2024.10.14-11.20.26:236][736]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (766)
+[2024.10.14-11.20.26:237][736]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (764)
+[2024.10.14-11.20.26:237][736]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2024.10.14-11.20.26:237][736]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2024.10.14-11.20.26:237][736]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2024.10.14-11.20.26:238][736]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2024.10.14-11.20.26:238][736]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2024.10.14-11.20.26:238][736]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2024.10.14-11.20.26:238][736]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (750)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module LightMixer (748)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (746)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (742)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (738)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module VariantManager (736)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (735)
+[2024.10.14-11.20.26:240][736]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (732)
+[2024.10.14-11.20.26:241][736]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (730)
+[2024.10.14-11.20.26:241][736]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (728)
+[2024.10.14-11.20.26:241][736]LogModuleManager: Shutting down and abandoning module Paper2DEditor (726)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (724)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (722)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (720)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeExport (718)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeMessages (716)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module GLTFCore (714)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (712)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (710)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module InterchangeEditor (708)
+[2024.10.14-11.20.26:242][736]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (706)
+[2024.10.14-11.20.26:244][736]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (704)
+[2024.10.14-11.20.26:244][736]LogModuleManager: Shutting down and abandoning module InterchangeTests (702)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (700)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module AlembicImporter (696)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module AlembicLibrary (695)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module SynthesisEditor (692)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module ResonanceAudio (690)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (688)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (686)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (684)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module ModelingOperators (682)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (680)
+[2024.10.14-11.20.26:245][736]LogModuleManager: Shutting down and abandoning module ModelingComponents (678)
+[2024.10.14-11.20.26:246][736]LogModuleManager: Shutting down and abandoning module GeometryFramework (677)
+[2024.10.14-11.20.26:246][736]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (674)
+[2024.10.14-11.20.26:246][736]LogModuleManager: Shutting down and abandoning module MeshModelingTools (672)
+[2024.10.14-11.20.26:246][736]LogModuleManager: Shutting down and abandoning module DynamicMesh (670)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (668)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (666)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module InputDebugging (664)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GooglePAD (662)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (660)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GeometryCache (658)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (656)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (654)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (652)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module AssetTags (650)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module AudioCapture (648)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (647)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (644)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (642)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module AppleImageUtils (640)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module AndroidPermission (638)
+[2024.10.14-11.20.26:247][736]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (636)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (634)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (632)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (630)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module ControlRigSpline (628)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module TakeSequencer (626)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module TakeMovieScene (624)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (622)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (620)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (618)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (616)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (614)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (612)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (610)
+[2024.10.14-11.20.26:248][736]LogModuleManager: Shutting down and abandoning module RawInput (608)
+[2024.10.14-11.20.26:248][736]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (606)
+[2024.10.14-11.20.26:249][736]LogOpenImageDenoise: OIDN shutting down
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (604)
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module LocalizableMessage (602)
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module MeshLODToolset (600)
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (598)
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (596)
+[2024.10.14-11.20.26:249][736]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (594)
+[2024.10.14-11.20.26:250][736]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (592)
+[2024.10.14-11.20.26:250][736]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (590)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (588)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (586)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (585)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (583)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (580)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (578)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (576)
+[2024.10.14-11.20.26:251][736]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (574)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module DataflowNodes (572)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (570)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module DataflowEditor (568)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (566)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module ChaosNiagara (564)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (562)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (560)
+[2024.10.14-11.20.26:252][736]LogModuleManager: Shutting down and abandoning module FractureEditor (558)
+[2024.10.14-11.20.26:253][736]LogModuleManager: Shutting down and abandoning module BackChannel (556)
+[2024.10.14-11.20.26:253][736]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (554)
+[2024.10.14-11.20.26:253][736]LogModuleManager: Shutting down and abandoning module AutomationUtils (552)
+[2024.10.14-11.20.26:253][736]LogModuleManager: Shutting down and abandoning module ImgMedia (550)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (548)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module MediaPlate (546)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (542)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (540)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module UVEditorTools (538)
+[2024.10.14-11.20.26:254][736]LogModuleManager: Shutting down and abandoning module UVEditor (536)
+[2024.10.14-11.20.26:255][736]LogModuleManager: Shutting down and abandoning module EditorDebugTools (534)
+[2024.10.14-11.20.26:255][736]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (532)
+[2024.10.14-11.20.26:255][736]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (530)
+[2024.10.14-11.20.26:255][736]LogModuleManager: Shutting down and abandoning module PluginBrowser (528)
+[2024.10.14-11.20.26:256][736]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (526)
+[2024.10.14-11.20.26:258][736]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (524)
+[2024.10.14-11.20.26:258][736]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (522)
+[2024.10.14-11.20.26:258][736]LogModuleManager: Shutting down and abandoning module UObjectPlugin (520)
+[2024.10.14-11.20.26:258][736]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (518)
+[2024.10.14-11.20.26:258][736]LogModuleManager: Shutting down and abandoning module CurveEditorTools (516)
+[2024.10.14-11.20.26:259][736]LogModuleManager: Shutting down and abandoning module ChangelistReview (514)
+[2024.10.14-11.20.26:259][736]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (512)
+[2024.10.14-11.20.26:260][736]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (510)
+[2024.10.14-11.20.26:260][736]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (508)
+[2024.10.14-11.20.26:260][736]LogModuleManager: Shutting down and abandoning module CryptoKeys (506)
+[2024.10.14-11.20.26:260][736]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (504)
+[2024.10.14-11.20.26:260][736]LogModuleManager: Shutting down and abandoning module PluginUtils (502)
+[2024.10.14-11.20.26:260][736]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (500)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (498)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (496)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module GitSourceControl (494)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (492)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (490)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module DumpGPUServices (488)
+[2024.10.14-11.20.26:261][736]LogModuleManager: Shutting down and abandoning module TemplateSequence (486)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (484)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module SequencerScripting (482)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module InputEditor (480)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (478)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module TraceUtilities (476)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (474)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (472)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module Paper2D (470)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module InterchangePipelines (468)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module InterchangeImport (466)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (464)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module InterchangeNodes (462)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (460)
+[2024.10.14-11.20.26:262][736]LogModuleManager: Shutting down and abandoning module Niagara (458)
+[2024.10.14-11.20.26:263][736]LogModuleManager: Shutting down and abandoning module NiagaraEditor (457)
+[2024.10.14-11.20.26:264][736]LogModuleManager: Shutting down and abandoning module NiagaraCore (454)
+[2024.10.14-11.20.26:264][736]LogModuleManager: Shutting down and abandoning module TcpMessaging (452)
+[2024.10.14-11.20.26:365][736]LogModuleManager: Shutting down and abandoning module UdpMessaging (450)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module GameplayCameras (448)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module Synthesis (446)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module SoundFields (444)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module SignificanceManager (442)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (440)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module RigVM (438)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (436)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (434)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (432)
+[2024.10.14-11.20.26:466][736]LogModuleManager: Shutting down and abandoning module MetasoundEditor (430)
+[2024.10.14-11.20.26:468][736]LogModuleManager: Shutting down and abandoning module AudioWidgets (429)
+[2024.10.14-11.20.26:468][736]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (428)
+[2024.10.14-11.20.26:468][736]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (424)
+[2024.10.14-11.20.26:469][736]LogModuleManager: Shutting down and abandoning module MetasoundEngine (422)
+[2024.10.14-11.20.26:469][736]LogModuleManager: Shutting down and abandoning module WaveTable (421)
+[2024.10.14-11.20.26:469][736]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (419)
+[2024.10.14-11.20.26:469][736]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (416)
+[2024.10.14-11.20.26:469][736]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (414)
+[2024.10.14-11.20.26:469][736]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (412)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (410)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (408)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (404)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (402)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (401)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (398)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module SignalProcessing (397)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (394)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module IKRig (392)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (390)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module ControlRig (388)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module Constraints (387)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module AnimationData (384)
+[2024.10.14-11.20.26:470][736]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (382)
+[2024.10.14-11.20.26:471][736]LogModuleManager: Shutting down and abandoning module StructUtils (380)
+[2024.10.14-11.20.26:471][736]LogModuleManager: Shutting down and abandoning module PBIK (378)
+[2024.10.14-11.20.26:471][736]LogModuleManager: Shutting down and abandoning module FullBodyIK (376)
+[2024.10.14-11.20.26:471][736]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (374)
+[2024.10.14-11.20.26:471][736]LogModuleManager: Shutting down and abandoning module TakeRecorder (373)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module ChaosCaching (370)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module LevelSequence (369)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (366)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (364)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (362)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module FacialAnimation (360)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module DataValidation (358)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (356)
+[2024.10.14-11.20.26:472][736]LogModuleManager: Shutting down and abandoning module LevelEditor (355)
+[2024.10.14-11.20.26:485][736]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (354)
+[2024.10.14-11.20.26:485][736]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (352)
+[2024.10.14-11.20.26:485][736]LogModuleManager: Shutting down and abandoning module MainFrame (350)
+[2024.10.14-11.20.26:486][736]LogModuleManager: Shutting down and abandoning module HotReload (349)
+[2024.10.14-11.20.26:487][736]LogModuleManager: Shutting down and abandoning module ContentBrowser (345)
+[2024.10.14-11.20.26:487][736]LogModuleManager: Shutting down and abandoning module ToolMenus (344)
+[2024.10.14-11.20.26:487][736]LogModuleManager: Shutting down and abandoning module ContentBrowserData (342)
+[2024.10.14-11.20.26:487][736]LogModuleManager: Shutting down and abandoning module TreeMap (339)
+[2024.10.14-11.20.26:487][736]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (336)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (334)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module AnimationSharing (332)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (328)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.10.14-11.20.26:488][736]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.10.14-11.20.26:515][736]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.10.14-11.20.26:516][736]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.10.14-11.20.26:516][736]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.10.14-11.20.26:516][736]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.10.14-11.20.26:516][736]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.10.14-11.20.26:517][736]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.10.14-11.20.26:518][736]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.10.14-11.20.26:518][736]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.10.14-11.20.26:519][736]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.10.14-11.20.26:519][736]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.10.14-11.20.26:519][736]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.10.14-11.20.26:520][736]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.10.14-11.20.26:520][736]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.10.14-11.20.26:520][736]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.10.14-11.20.26:521][736]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.10.14-11.20.26:521][736]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.10.14-11.20.26:522][736]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.10.14-11.20.26:522][736]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.10.14-11.20.26:524][736]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.10.14-11.20.26:534][736]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.10.14-11.20.26:534][736]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.10.14-11.20.26:534][736]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.10.14-11.20.26:534][736]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.10.14-11.20.26:535][736]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.10.14-11.20.26:536][736]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.10.14-11.20.26:538][736]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.10.14-11.20.26:538][736]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.10.14-11.20.26:538][736]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.10.14-11.20.26:539][736]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.10.14-11.20.26:539][736]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.10.14-11.20.26:540][736]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.10.14-11.20.26:540][736]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.10.14-11.20.26:540][736]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.10.14-11.20.26:540][736]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.10.14-11.20.26:540][736]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.10.14-11.20.26:540][736]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.10.14-11.20.26:542][736]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.10.14-11.20.26:542][736]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.10.14-11.20.26:542][736]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.10.14-11.20.26:553][736]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.10.14-11.20.26:553][736]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.10.14-11.20.26:553][736]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.10.14-11.20.26:553][736]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.10.14-11.20.26:571][736]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.10.14-11.20.26:571][736]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.10.14-11.20.26:571][736]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.10.14-11.20.26:572][736]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.10.14-11.20.26:573][736]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.10.14-11.20.26:573][736]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.10.14-11.20.26:573][736]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.10.14-11.20.26:573][736]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.10.14-11.20.26:573][736]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.10.14-11.20.26:573][736]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.10.14-11.20.26:574][736]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.10.14-11.20.26:575][736]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.10.14-11.20.26:575][736]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.10.14-11.20.26:575][736]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.10.14-11.20.26:575][736]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.10.14-11.20.26:575][736]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.10.14-11.20.26:576][736]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.10.14-11.20.26:576][736]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.10.14-11.20.26:576][736]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.10.14-11.20.26:576][736]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.10.14-11.20.26:577][736]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.10.14-11.20.26:577][736]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.10.14-11.20.26:577][736]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.10.14-11.20.26:577][736]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module VariantManagerContent (122)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module GLTFExporter (120)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module DatasmithContent (118)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (116)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module NiagaraShader (114)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (110)
+[2024.10.14-11.20.26:578][736]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (108)
+[2024.10.14-11.20.26:579][736]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (106)
+[2024.10.14-11.20.26:582][736]LogModuleManager: Shutting down and abandoning module XMPP (101)
+[2024.10.14-11.20.26:582][736]LogModuleManager: Shutting down and abandoning module WebSockets (100)
+[2024.10.14-11.20.26:605][736]LogModuleManager: Shutting down and abandoning module HTTP (97)
+[2024.10.14-11.20.26:605][736]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.10.14-11.20.26:605][736]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BBFDF25-4DF7-F31C-0B1A-4694F159C016%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=7f36063b4645dcc84a42248f8eb83fc5%7C856398fa8e82413daea31c698a5c13d9%7Cafd76f37-5eb2-40ac-8e03-de0b127a1cfc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.10.14-11.20.26:612][736]LogModuleManager: Shutting down and abandoning module SSL (96)
+[2024.10.14-11.20.26:613][736]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (86)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module ChunkDownloader (82)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module ACLPlugin (80)
+[2024.10.14-11.20.26:614][736]LogModuleManager: Shutting down and abandoning module ChaosCloth (78)
+[2024.10.14-11.20.26:615][736]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2024.10.14-11.20.26:619][736]LogModuleManager: Shutting down and abandoning module Media (75)
+[2024.10.14-11.20.26:620][736]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2024.10.14-11.20.26:620][736]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (70)
+[2024.10.14-11.20.26:620][736]RenderDocPlugin: plugin has been unloaded.
+[2024.10.14-11.20.26:620][736]LogModuleManager: Shutting down and abandoning module PixWinPlugin (68)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.10.14-11.20.26:621][736]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (54)
+[2024.10.14-11.20.26:622][736]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (52)
+[2024.10.14-11.20.26:623][736]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.10.14-11.20.26:623][736]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.10.14-11.20.26:623][736]LogXGEController: Cleaning working directory: C:/Users/liam1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.10.14-11.20.26:623][736]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.10.14-11.20.26:624][736]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.10.14-11.20.26:624][736]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.10.14-11.20.26:625][736]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.10.14-11.20.26:626][736]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.10.14-11.20.26:627][736]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.10.14-11.20.26:629][736]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.10.14-11.20.26:629][736]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.10.14-11.20.26:630][736]LogPakFile: Destroying PakPlatformFile
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.10.14-11.20.26:630][736]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.10.14-11.20.26:631][736]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.10.14-11.20.27:008][736]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.14-11.20.27:049][736]LogExit: Exiting.
+[2024.10.14-11.20.27:106][736]Log file closed, 10/14/24 12:20:27
