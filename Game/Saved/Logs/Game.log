@@ -1,4 +1,4 @@
-﻿Log file open, 10/14/24 15:03:34
+Log file open, 10/14/24 15:03:34
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -46,7 +46,7 @@ LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
-LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin Paper2D
@@ -153,6 +153,8 @@ LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
 LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
 LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
 LogPluginManager: Mounting Engine plugin MaterialAnalyzer
@@ -200,7 +202,6 @@ LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin Synthesis
 LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
-LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
@@ -215,13 +216,13 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUt
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
-LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
@@ -230,6 +231,10 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animati
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
@@ -335,6 +340,7 @@ LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B):
 LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogCoreRedirects: AddRedirect(C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj/TimeHavenGames/Game/Saved/Config/WindowsEditor/NiagaraFluids.ini) has substring redirect /NiagaraSimulationStages/, these are very slow and should be resolved as soon as possible!
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
