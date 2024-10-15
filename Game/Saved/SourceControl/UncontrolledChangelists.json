@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Joseph/PrePreAlphaJoseph.umap",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Data/Input/Actions/IA_Sprint.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Data/Input/IMC_Default.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Data/Input/Actions/IA_MoveKeyReleased.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/DevelopmentLevels/James/AudioTesting.umap",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/James/AudioTest.umap",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps.uasset",
@@ -22,8 +27,7 @@
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/slowAmbeince.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/cozy-house-188001.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/Ambience_Cue.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/Ambience.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Joseph/PrePreAlphaJoseph.umap"
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/Ambience.uasset"
 			]
 		}
 	]
