@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/DevelopmentLevels/James/AudioTesting.umap",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/James/AudioTest.umap",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Animation/Player/Walking__2_.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Animation/Player/Running.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477390__nuff3__steps-dirt_2a.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477391__nuff3__steps-dirt_1b.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477392__nuff3__steps-dirt_1a.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477393__nuff3__steps-dirt-falling_1a.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477394__nuff3__steps-dirt_3b.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477395__nuff3__steps-dirt_3a.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/477396__nuff3__steps-dirt_2b.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/Footsteps.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Footsteps/Footsteps_Cue.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/slowAmbeince.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/cozy-house-188001.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/Ambience_Cue.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Ambience/Ambience.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Joseph/PrePreAlphaJoseph.umap"
 			]
 		}
