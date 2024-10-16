@@ -14,7 +14,9 @@
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Data/Input/Actions/IA_DevRespawn.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Data/Input/IMC_Default.uasset"
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Data/Input/IMC_Default.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/ParticleEffects/Respawn/NE_Respawn.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/ParticleEffects/Respawn/NS_Respawn.uasset"
 			]
 		}
 	]
