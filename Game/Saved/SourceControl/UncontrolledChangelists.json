@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_Checkpoint.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/DT_CollectibleType.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/s_Runes.uasset",
