@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset",
+=======
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Animation/PlayerAnim_BP.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Animation/Player/Freehang_Climb.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
+>>>>>>> origin/main
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_Checkpoint.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/DT_CollectibleType.uasset",
