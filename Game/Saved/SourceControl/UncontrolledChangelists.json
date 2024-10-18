@@ -5,38 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/PrePreAlphaBen.umap",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Climbing/Footsteps_Cue.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Climbing/Climbing_Cue.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Animation/Player/Climbing_Down_Wall.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Animation/Player/Climbing_Left.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Animation/Player/Climbing_Up_Wall.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Animation/Player/Climbing_Right.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Sound/Jump/mixkit-arrow-shot-through-air-2771.uasset",
->>>>>>> James
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset",
-=======
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Animation/PlayerAnim_BP.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Animation/Player/Freehang_Climb.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
->>>>>>> origin/main
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_Checkpoint.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/DT_CollectibleType.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/s_Runes.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/DT_Runes.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Models/Map/Collectables/Runes/Rune1.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/James/AudioTest.umap"
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Animation/PlayerAnim_BP.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Animation/Player/Freehang_Climb.uasset"
 			]
 		}
 	]
