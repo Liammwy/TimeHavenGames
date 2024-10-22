@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Joseph/PrePreAlphaJoseph.umap",
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Animation/PlayerAnim_BP.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Animation/Player/Freehang_Climb.uasset",
