@@ -1,0 +1,97 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/DevLevels/James/MovingBallTest
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:07356F044451BE98AB9303B25E63A5F9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC13EB4DF052402_1354144397 Label:Torus2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1450.000 Y=6450.000 Z=50.000), Max=(X=6550.000 Y=11550.000 Z=150.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0EA7781D4AACAC7F36CA10B6B9027BB8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC13EB4DF052402_1362339398 Label:Cylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1000.000 Y=4000.000 Z=0.000), Max=(X=9000.000 Y=14000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2B61C0BD44821632DD83C0B48F955B1F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:359A709241552D1E31B0038FABDD2F65 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:3EB4BE1B4C7A8DDB724208B4A3B3CDCA BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3410.000 Y=9280.000 Z=170.013), Max=(X=3490.000 Y=9360.000 Z=354.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:47E934804A18D7C440D1248C57463E47 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:5D769955423B3DDD274AC39488AC142A BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:7F1C31A44879079E5F4477BBB9EEDA39 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:975E950C4A149242B30201AD73E4BBA5 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F4C164CC4B52D2257B6DDAA032195AE5 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:07356F044451BE98AB9303B25E63A5F9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC13EB4DF052402_1354144397 Label:Torus2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1450.000 Y=6450.000 Z=50.000), Max=(X=6550.000 Y=11550.000 Z=150.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0EA7781D4AACAC7F36CA10B6B9027BB8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC13EB4DF052402_1362339398 Label:Cylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1000.000 Y=4000.000 Z=0.000), Max=(X=9000.000 Y=14000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:2B61C0BD44821632DD83C0B48F955B1F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:359A709241552D1E31B0038FABDD2F65 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:3EB4BE1B4C7A8DDB724208B4A3B3CDCA BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3410.000 Y=9280.000 Z=170.013), Max=(X=3490.000 Y=9360.000 Z=354.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:47E934804A18D7C440D1248C57463E47 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:5D769955423B3DDD274AC39488AC142A BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:7F1C31A44879079E5F4477BBB9EEDA39 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:975E950C4A149242B30201AD73E4BBA5 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:F4C164CC4B52D2257B6DDAA032195AE5 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/DevLevels/James/MovingBallTest
+----------------------------------------------------------------------------------------------------------------
+MovingBallTest - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MovingBallTest Persistent Level
+ |- Always loaded Actor Count: 17 
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Levels/DevLevels/James/MovingBallTest
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Levels/DevLevels/James/MovingBallTest
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Levels/DevLevels/James/MovingBallTest
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/1/K9/8FK1JKKJAXXQENAV79AAVC
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/6/F5/O4SURUQW2NZ5HDCPB06AIB
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Levels/DevLevels/James/MovingBallTest
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.MovingBallTesst_C_1
+ |- Actor Package: /Game/Levels/DevLevels/James/MovingBallTest
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/6/L7/2X1Z1WLNGIPDUXJR80PWC3
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/9/4W/1CF0JFRHS0VNL9KGQCSZXC
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/D/LX/IOQ3NS227Q6BI9QXUSQN4T
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/B/BX/94BSYNGOVZNK73I8PYMD62
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.StaticMeshActor_UAID_D8BBC13EB4DF052402_1354144397
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/9/F9/GJ7XAH6FH8A4VW2TU8NRKF
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.StaticMeshActor_UAID_D8BBC13EB4DF052402_1362339398
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/5/XO/5BLUCVG5SBIA97KLYEP7AR
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/6/Q4/I2EABRKBQEWQHKHZU8JA4B
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/2/KE/BEQENH9838K3RFPDEA561C
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Levels/DevLevels/James/MovingBallTest
+ |- Actor Path: /Game/Levels/DevLevels/James/MovingBallTest.MovingBallTest:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/8/YK/86GKDG5KAQ4Q0O8K43KP3V
+
+----------------------------------------------------------------------------------------------------------------
+MovingBallTest - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
