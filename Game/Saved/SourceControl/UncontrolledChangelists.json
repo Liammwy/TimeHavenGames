@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/DevLevels/Ash/PrePreAlphaAsh.umap",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/DevelopmentLevels/Ash/WaterfallLogs/untitled.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/DevelopmentLevels/Ash/WaterfallLogs/RockyOutcrops.uasset",
@@ -19,6 +20,10 @@
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Animation/Player/Freehang_Climb.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Joseph/PrePreAlphaJoseph.umap",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
+=======
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/BP_Snowball.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Materials/Level/PhysMat_Snowball.uasset"
+>>>>>>> James
 			]
 		}
 	]
