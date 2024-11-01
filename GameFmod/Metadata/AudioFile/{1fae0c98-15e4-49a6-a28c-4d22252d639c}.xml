@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1fae0c98-15e4-49a6-a28c-4d22252d639c}">
+		<property name="assetPath">
+			<value>Footsteps/477390__nuff3__steps-dirt_2a.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.37485260770975054</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6d8f8ae2-be06-4c6d-8dd1-9d20633f4698}</destination>
+		</relationship>
+	</object>
+</objects>
