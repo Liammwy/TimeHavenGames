@@ -1163,3 +1163,482 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.04-15.29.53:680][313]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2024.11.04-15.29.53:680][313]LogDirectoryWatcher: A directory notification for '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Plugins/' was aborted.
 [2024.11.04-15.31.48:988][823]LogDerivedDataCache: C:/Users/TheRe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.168 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4376 files in 5988 folders with total size 186 MiB.
+[2024.11.04-15.37.58:604][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.04-15.37.58:773][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.37.58:786][211]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/DevLevels/James/AudioTest.AudioTest
+[2024.11.04-15.37.58:786][211]LightingResults: New page: Lighting Build
+[2024.11.04-15.37.58:786][211]LoadErrors: New page: Loading map: AudioTest.umap
+[2024.11.04-15.37.58:823][211]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.37.58:823][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.37.58:824][211]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.04-15.37.58:824][211]MapCheck: New page: Map Check
+[2024.11.04-15.37.58:824][211]LightingResults: New page: Lighting Build
+[2024.11.04-15.37.58:829][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-15.37.58:831][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.04-15.37.58:836][211]LogWorld: UWorld::CleanupWorld for AudioTest, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.37.58:836][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.37.58:843][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.04-15.37.58:849][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.04-15.37.58:861][211]LogAudio: Display: Audio Device (ID: 1) registered with world 'AudioTest'.
+[2024.11.04-15.37.58:861][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.37.58:862][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-15.37.58:862][211]LogAIModule: Creating AISystem for world AudioTest
+[2024.11.04-15.37.58:893][211]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.04-15.37.58:900][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.04-15.37.58:908][211]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.04-15.37.58:908][211]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: ================================================
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 10 distinct outputs (83.33%)
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: RAM used: 245.22 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.11.04-15.37.59:019][212]LogShaderCompilers: Display: ================================================
+[2024.11.04-15.38.02:251][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.04-15.38.02:253][375]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/DevLevels/James/AudioTest.AudioTest
+[2024.11.04-15.38.02:253][375]LightingResults: New page: Lighting Build
+[2024.11.04-15.38.02:253][375]LoadErrors: New page: Loading map: AudioTest.umap
+[2024.11.04-15.38.02:330][375]LogWorld: UWorld::CleanupWorld for AudioTest, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.38.02:330][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.38.02:330][375]MapCheck: New page: Map Check
+[2024.11.04-15.38.02:330][375]LightingResults: New page: Lighting Build
+[2024.11.04-15.38.02:333][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-15.38.02:336][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.04-15.38.02:346][375]LogAudio: Display: Audio Device (ID: 1) registered with world 'AudioTest'.
+[2024.11.04-15.38.02:346][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.38.02:346][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-15.38.02:348][375]LogAIModule: Creating AISystem for world AudioTest
+[2024.11.04-15.38.02:385][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.04-15.38.02:393][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.04-15.38.02:399][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.04-15.38.02:399][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2024.11.04-15.38.09:069][115]Cmd: DELETE
+[2024.11.04-15.38.09:069][115]Cmd: ACTOR DELETE
+[2024.11.04-15.38.09:072][115]LogEditorActor: Deleted Actor: AmbientSound
+[2024.11.04-15.38.09:076][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.04-15.38.09:078][115]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.11.04-15.39.20:918][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-15.39.20:960][756]LogFMOD: Display: Loaded bank lookup
+[2024.11.04-15.39.20:960][756]LogFMOD: Error: Failed to load asset lookup
+[2024.11.04-15.39.20:965][756]LogFMOD: Default sample rate = 48000
+[2024.11.04-15.39.20:965][756]LogFMOD: System sample rate = 48000
+[2024.11.04-15.39.20:965][756]LogFMOD: Matching system sample rate 48000
+[2024.11.04-15.39.20:977][756]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2024.11.04-15.39.21:019][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-15.39.21:019][756]PIE: New page: PIE session: AudioTest (4 Nov 2024, 15:39:21)
+[2024.11.04-15.39.21:022][756]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.11.04-15.39.21:022][756]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.11.04-15.39.21:022][756]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.39.21:029][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007340s)
+[2024.11.04-15.39.21:029][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/James/AudioTest.AudioTest to /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest (0.007378s)
+[2024.11.04-15.39.21:033][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.04-15.39.21:034][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.39.21:034][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-15.39.21:035][756]LogAIModule: Creating AISystem for world AudioTest
+[2024.11.04-15.39.21:035][756]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2024.11.04-15.39.21:035][756]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-15.39.21:035][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.04-15.39.21:035][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-15.39.21:036][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-15.39.21:036][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-15.39.21:036][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-15.39.21:037][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-15.39.21:055][756]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (GameDAC Chat)
+[2024.11.04-15.39.21:055][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-15.39.21:055][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-15.39.21:055][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-15.39.21:056][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.11.04-15.39.21:056][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.11.04-15.39.21:057][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.11.04-15.39.21:057][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.11.04-15.39.21:057][756]LogInit: FAudioDevice initialized with ID 2.
+[2024.11.04-15.39.21:057][756]LogAudio: Display: Audio Device (ID: 2) registered with world 'AudioTest'.
+[2024.11.04-15.39.21:057][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.04-15.39.21:060][756]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.04-15.39.21:063][756]LogWorld: Bringing World /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest up for play (max tick rate 0) at 2024.11.04-15.39.21
+[2024.11.04-15.39.21:064][756]LogWorld: Bringing up level for play took: 0.003186
+[2024.11.04-15.39.21:066][756]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.11.04-15.39.21:073][756]PIE: Server logged in
+[2024.11.04-15.39.21:073][756]PIE: Play in editor total start time 0.146 seconds.
+[2024.11.04-15.39.24:069][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.39.24:069][ 66]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.39.24:070][ 66]LogWorld: UWorld::CleanupWorld for AudioTest, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.39.24:070][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.39.24:073][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-15.39.24:076][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.39.24:079][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.39.24:080][ 66]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.11.04-15.39.24:080][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.04-15.39.24:082][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.11.04-15.39.24:088][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.04-15.39.24:090][ 66]LogActorComponent: ReregisterComponent: (/Game/Levels/DevLevels/James/AudioTest.AudioTest:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2024.11.04-15.39.24:137][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.11.04-15.42.39:533][177]LogFMOD: Sent studio message: studio.version
+[2024.11.04-15.42.39:534][177]LogFMOD: Received studio message: log(): Connected to FMOD Studio on ::ffff:127.0.0.1:3663.
+
+[2024.11.04-15.42.39:534][177]LogFMOD: Received studio message: out(): Version 2.02.24, 64-bit, Build #146338
+
+
+[2024.11.04-15.42.39:534][177]LogFMOD: Received studio version: Version 2.02.24, 64-bit, Build #146338
+[2024.11.04-15.42.39:534][177]LogFMOD: Sent studio message: studio.project.filePath
+[2024.11.04-15.42.39:534][177]LogFMOD: Received studio message: out(): C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/THG-Fmod.fspro
+
+
+[2024.11.04-15.42.39:534][177]LogFMOD: Sent studio message: studio.project.filePath
+[2024.11.04-15.42.39:536][177]LogFMOD: Received studio message: out(): C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/THG-Fmod.fspro
+
+
+[2024.11.04-15.42.39:536][177]LogFMOD: Sent studio message: studio.project.workspace.builtBanksOutputDirectory
+[2024.11.04-15.42.39:536][177]LogFMOD: Received studio message: out(): .
+
+
+[2024.11.04-15.42.41:948][177]LogSlate: Window 'Message' being destroyed
+[2024.11.04-15.42.41:954][177]Message dialog closed, result: Yes, title: Message, text: FMOD Studio build path should be set up.
+
+Current Studio build path: .
+New build path: ../
+
+Do you want to fix up the project now?
+[2024.11.04-15.42.41:954][177]LogFMOD: Sent studio message: studio.project.workspace.builtBanksOutputDirectory = "../";
+[2024.11.04-15.42.41:955][177]LogFMOD: Received studio message: out(): ../
+
+
+[2024.11.04-15.42.41:955][177]LogFMOD: Sent studio message: studio.project.workspace.builtBanksOutputDirectory
+[2024.11.04-15.42.41:955][177]LogFMOD: Received studio message: out(): ../
+
+
+[2024.11.04-15.42.43:970][177]LogSlate: Window 'Message' being destroyed
+[2024.11.04-15.42.43:975][177]Message dialog closed, result: Ok, title: Message, text: Please go to FMOD Studio, save your project and build banks.
+[2024.11.04-15.42.43:975][177]LogFMOD: Sent studio message: studio.project.save()
+[2024.11.04-15.42.44:054][177]LogFMOD: Received studio message: out(): true
+
+
+[2024.11.04-15.42.44:054][177]LogFMOD: Sent studio message: studio.project.build()
+[2024.11.04-15.42.44:124][177]LogFMOD: Received studio message: out(): true
+
+
+[2024.11.04-15.42.44:124][177]LogFMOD: Sent studio message: studio.project.workspace.locales.length
+[2024.11.04-15.42.44:132][177]LogFMOD: Received studio message: out(): 0
+
+
+[2024.11.04-15.42.45:702][177]LogSlate: Window 'Message' being destroyed
+[2024.11.04-15.42.45:708][177]Message dialog closed, result: Ok, title: Message, text: The FMOD Content directory does not have any bank files in them.  Please make sure FMOD Studio is exporting banks into the correct location.
+
+Banks should be exported to: C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD
+Banks files should exist in: C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop
+
+[2024.11.04-15.42.46:858][177]LogSlate: Window 'Message' being destroyed
+[2024.11.04-15.42.46:865][177]Message dialog closed, result: Ok, title: Message, text: Finished validation.
+
+[2024.11.04-15.42.46:903][179]LogFMOD: BankLookup modified.
+
+[2024.11.04-15.42.46:903][179]LogFMOD: ===== BankLookup =====
+
+[2024.11.04-15.42.46:903][179]LogFMOD: GUID: {FD941ED5-B826-46B6-BAC7-D45961ABD7D2}
+
+[2024.11.04-15.42.46:903][179]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Ambience.bank
+
+[2024.11.04-15.42.46:903][179]LogFMOD: GUID: {B7A69EB0-2CAE-4E9C-B50C-5CFE0AA583C1}
+
+[2024.11.04-15.42.46:903][179]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Master.bank
+
+[2024.11.04-15.42.46:903][179]LogFMOD: GUID: {2FBBBE64-5DD5-02DE-3345-D600FB568559}
+
+[2024.11.04-15.42.46:903][179]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Master.strings.bank
+
+[2024.11.04-15.42.46:903][179]LogFMOD: Loading strings bank: ../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop/Master.strings.bank
+[2024.11.04-15.42.46:906][179]LogFMOD: Adding asset: /Game/FMOD/Events/Ambience
+[2024.11.04-15.42.46:906][179]LogFMOD: Warning: C:\buildagent2\work\570ad728b1678096\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {537615b1-a60b-48a9-99bd-08a14b33a53d}
+
+[2024.11.04-15.42.46:908][179]LogFMOD: Adding asset: /Game/FMOD/Banks/Master
+[2024.11.04-15.42.46:908][179]LogFMOD: Adding asset: /Game/FMOD/Banks/Ambience
+[2024.11.04-15.42.46:908][179]LogFMOD: Adding asset: /Game/FMOD/Buses/Reverb
+[2024.11.04-15.42.46:911][179]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/FMOD/PrivateIntegrationData/BankLookup
+/Game/FMOD/Events/Ambience
+/Game/FMOD/Banks/Master
+/Game/FMOD/Banks/Ambience
+/Game/FMOD/Buses/Reverb
+/Game/FMOD/PrivateIntegrationData/AssetLookup
+[2024.11.04-15.42.46:911][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-15.42.47:045][179]LogPackageLocalizationCache: Processed 50 localized package path(s) for 1 prioritized culture(s) in 0.006156 seconds
+[2024.11.04-15.42.47:047][179]LogSavePackage: Moving output files for package: /Game/FMOD/PrivateIntegrationData/BankLookup
+[2024.11.04-15.42.47:047][179]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/BankLookupEEC133CC4D33FCC0637FF39C044BA82F.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2024.11.04-15.42.47:048][179]LogFMOD: Warning: C:\buildagent2\work\570ad728b1678096\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {537615b1-a60b-48a9-99bd-08a14b33a53d}
+
+[2024.11.04-15.42.47:049][179]LogFMOD: Warning: C:\buildagent2\work\570ad728b1678096\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {537615b1-a60b-48a9-99bd-08a14b33a53d}
+
+[2024.11.04-15.42.47:049][179]LogFMOD: Warning: C:\buildagent2\work\570ad728b1678096\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {537615b1-a60b-48a9-99bd-08a14b33a53d}
+
+[2024.11.04-15.42.47:049][179]LogSavePackage: Moving output files for package: /Game/FMOD/Events/Ambience
+[2024.11.04-15.42.47:049][179]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/Ambience59212815446CCA38DF86928C478FE994.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Events/Ambience.uasset'
+[2024.11.04-15.42.47:052][179]LogSavePackage: Moving output files for package: /Game/FMOD/Banks/Master
+[2024.11.04-15.42.47:052][179]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/MasterD4E3DC1A46FA0222426CE5A622B537E9.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Banks/Master.uasset'
+[2024.11.04-15.42.47:054][179]LogSavePackage: Moving output files for package: /Game/FMOD/Banks/Ambience
+[2024.11.04-15.42.47:054][179]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/AmbienceB3F7BA5442724A10085114857ED172A3.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Banks/Ambience.uasset'
+[2024.11.04-15.42.47:056][179]LogSavePackage: Moving output files for package: /Game/FMOD/Buses/Reverb
+[2024.11.04-15.42.47:056][179]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/Reverb843E974143AB963A8B64B299C2CD88C1.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Buses/Reverb.uasset'
+[2024.11.04-15.42.47:058][179]LogSavePackage: Moving output files for package: /Game/FMOD/PrivateIntegrationData/AssetLookup
+[2024.11.04-15.42.47:058][179]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/AssetLookupA62F424843A77846C6D4E9AC0E3676E4.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2024.11.04-15.42.47:068][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms
+[2024.11.04-15.42.47:069][179]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/FMOD/PrivateIntegrationData/BankLookup
+/Game/FMOD/Events/Ambience
+/Game/FMOD/Banks/Master
+/Game/FMOD/Banks/Ambience
+/Game/FMOD/Buses/Reverb
+/Game/FMOD/PrivateIntegrationData/AssetLookup
+[2024.11.04-15.42.47:168][179]LogFMOD: Display: Loaded bank lookup
+[2024.11.04-15.42.47:168][179]LogFMOD: Display: Loaded asset lookup
+[2024.11.04-15.42.47:168][179]LogFMOD: Loading bank: ../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.04-15.42.47:211][179]LogFMOD: Default sample rate = 48000
+[2024.11.04-15.42.47:211][179]LogFMOD: System sample rate = 48000
+[2024.11.04-15.42.47:211][179]LogFMOD: Matching system sample rate 48000
+[2024.11.04-15.42.47:241][179]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-15.42.47:241][179]LogContentValidation: Display: Validating /Script/FMODStudio.FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2024.11.04-15.42.47:242][179]LogContentValidation: Display: Validating /Script/FMODStudio.FMODEvent /Game/FMOD/Events/Ambience.Ambience
+[2024.11.04-15.42.47:242][179]LogContentValidation: Display: Validating /Script/FMODStudio.FMODBank /Game/FMOD/Banks/Master.Master
+[2024.11.04-15.42.47:242][179]LogContentValidation: Display: Validating /Script/FMODStudio.FMODBank /Game/FMOD/Banks/Ambience.Ambience
+[2024.11.04-15.42.47:242][179]LogContentValidation: Display: Validating /Script/FMODStudio.FMODBus /Game/FMOD/Buses/Reverb.Reverb
+[2024.11.04-15.42.47:242][179]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2024.11.04-15.42.54:507][363]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-15.42.54:548][363]LogFMOD: Display: Loaded bank lookup
+[2024.11.04-15.42.54:548][363]LogFMOD: Display: Loaded asset lookup
+[2024.11.04-15.42.54:552][363]LogFMOD: Default sample rate = 48000
+[2024.11.04-15.42.54:552][363]LogFMOD: System sample rate = 48000
+[2024.11.04-15.42.54:552][363]LogFMOD: Matching system sample rate 48000
+[2024.11.04-15.42.54:564][363]LogFMOD: Loading bank: ../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.04-15.42.54:608][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-15.42.54:608][363]PIE: New page: PIE session: AudioTest (4 Nov 2024, 15:42:54)
+[2024.11.04-15.42.54:657][363]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.42.54:664][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007348s)
+[2024.11.04-15.42.54:664][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/James/AudioTest.AudioTest to /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest (0.007389s)
+[2024.11.04-15.42.54:668][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.04-15.42.54:669][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.42.54:669][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-15.42.54:669][363]LogAIModule: Creating AISystem for world AudioTest
+[2024.11.04-15.42.54:670][363]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2024.11.04-15.42.54:670][363]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-15.42.54:670][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.04-15.42.54:670][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-15.42.54:670][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-15.42.54:670][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-15.42.54:670][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-15.42.54:672][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-15.42.54:690][363]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (GameDAC Chat)
+[2024.11.04-15.42.54:690][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-15.42.54:690][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-15.42.54:690][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-15.42.54:692][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.04-15.42.54:692][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.04-15.42.54:693][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.04-15.42.54:694][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.04-15.42.54:694][363]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.04-15.42.54:694][363]LogAudio: Display: Audio Device (ID: 3) registered with world 'AudioTest'.
+[2024.11.04-15.42.54:694][363]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.04-15.42.54:696][363]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.04-15.42.54:700][363]LogWorld: Bringing World /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest up for play (max tick rate 0) at 2024.11.04-15.42.54
+[2024.11.04-15.42.54:700][363]LogWorld: Bringing up level for play took: 0.003420
+[2024.11.04-15.42.54:702][363]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.11.04-15.42.54:706][363]PIE: Server logged in
+[2024.11.04-15.42.54:706][363]PIE: Play in editor total start time 0.19 seconds.
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: ================================================
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: Total job queries 90, among them cache hits 70 (77.78%)
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 16 distinct outputs (80.00%)
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: RAM used: 437.78 KiB of 1.60 GiB budget. Usage: 0.03%
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.11.04-15.42.54:811][365]LogShaderCompilers: Display: ================================================
+[2024.11.04-15.42.55:618][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.42.55:618][431]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.42.55:618][431]LogWorld: UWorld::CleanupWorld for AudioTest, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.42.55:619][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.42.55:621][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-15.42.55:624][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.42.55:628][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.42.55:629][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.04-15.42.55:629][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.04-15.42.55:630][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.04-15.42.55:636][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.04-15.42.55:638][431]LogActorComponent: ReregisterComponent: (/Game/Levels/DevLevels/James/AudioTest.AudioTest:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2024.11.04-15.42.55:683][432]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.11.04-15.42.56:688][548]LogFMOD: Sent studio message: studio.version
+[2024.11.04-15.42.56:689][548]LogFMOD: Received studio message: log(): Connected to FMOD Studio on ::ffff:127.0.0.1:3663.
+
+[2024.11.04-15.42.56:689][548]LogFMOD: Received studio message: out(): Version 2.02.24, 64-bit, Build #146338
+
+
+[2024.11.04-15.42.56:689][548]LogFMOD: Received studio version: Version 2.02.24, 64-bit, Build #146338
+[2024.11.04-15.42.56:689][548]LogFMOD: Sent studio message: studio.project.filePath
+[2024.11.04-15.42.56:689][548]LogFMOD: Received studio message: out(): C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/THG-Fmod.fspro
+
+
+[2024.11.04-15.42.56:689][548]LogFMOD: Sent studio message: studio.project.filePath
+[2024.11.04-15.42.56:690][548]LogFMOD: Received studio message: out(): C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/THG-Fmod.fspro
+
+
+[2024.11.04-15.42.56:690][548]LogFMOD: Sent studio message: studio.project.workspace.builtBanksOutputDirectory
+[2024.11.04-15.42.56:690][548]LogFMOD: Received studio message: out(): ../
+
+
+[2024.11.04-15.42.56:690][548]LogFMOD: Sent studio message: studio.project.workspace.locales.length
+[2024.11.04-15.42.56:690][548]LogFMOD: Received studio message: out(): 0
+
+
+[2024.11.04-15.42.57:670][548]LogSlate: Window 'Message' being destroyed
+[2024.11.04-15.42.57:691][548]Message dialog closed, result: Ok, title: Message, text: Finished validation.  No problems detected.
+
+[2024.11.04-15.43.15:637][583]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.04-15.43.18:776][939]LogViewport: Scene viewport resized to 1080x482, mode Windowed.
+[2024.11.04-15.43.23:023][410]LogActorFactory: Actor Factory attempting to spawn Class /Script/FMODStudio.FMODAmbientSound
+[2024.11.04-15.43.23:024][410]LogActorFactory: Actor Factory attempting to spawn Class /Script/FMODStudio.FMODAmbientSound
+[2024.11.04-15.43.23:554][457]LogActorFactory: Actor Factory attempting to spawn Class /Script/FMODStudio.FMODAmbientSound
+[2024.11.04-15.43.23:554][457]LogActorFactory: Actor Factory attempting to spawn Class /Script/FMODStudio.FMODAmbientSound
+[2024.11.04-15.43.28:874][ 41]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.04-15.43.31:434][330]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-15.43.31:478][330]LogFMOD: Display: Loaded bank lookup
+[2024.11.04-15.43.31:478][330]LogFMOD: Display: Loaded asset lookup
+[2024.11.04-15.43.31:483][330]LogFMOD: Default sample rate = 48000
+[2024.11.04-15.43.31:483][330]LogFMOD: System sample rate = 48000
+[2024.11.04-15.43.31:483][330]LogFMOD: Matching system sample rate 48000
+[2024.11.04-15.43.31:496][330]LogFMOD: Loading bank: ../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.04-15.43.31:538][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-15.43.31:538][330]PIE: New page: PIE session: AudioTest (4 Nov 2024, 15:43:31)
+[2024.11.04-15.43.31:538][330]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.43.31:545][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007443s)
+[2024.11.04-15.43.31:545][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/James/AudioTest.AudioTest to /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest (0.007480s)
+[2024.11.04-15.43.31:549][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.04-15.43.31:550][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.43.31:550][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-15.43.31:550][330]LogAIModule: Creating AISystem for world AudioTest
+[2024.11.04-15.43.31:551][330]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2024.11.04-15.43.31:551][330]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-15.43.31:551][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.04-15.43.31:551][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-15.43.31:551][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-15.43.31:551][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-15.43.31:551][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-15.43.31:553][330]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-15.43.31:570][330]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (GameDAC Chat)
+[2024.11.04-15.43.31:570][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-15.43.31:570][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-15.43.31:570][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-15.43.31:571][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.04-15.43.31:571][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.04-15.43.31:573][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.04-15.43.31:573][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.04-15.43.31:573][330]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.04-15.43.31:573][330]LogAudio: Display: Audio Device (ID: 4) registered with world 'AudioTest'.
+[2024.11.04-15.43.31:573][330]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.04-15.43.31:576][330]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.04-15.43.31:580][330]LogWorld: Bringing World /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest up for play (max tick rate 0) at 2024.11.04-15.43.31
+[2024.11.04-15.43.31:581][330]LogWorld: Bringing up level for play took: 0.003625
+[2024.11.04-15.43.31:583][330]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.11.04-15.43.31:586][330]PIE: Server logged in
+[2024.11.04-15.43.31:588][330]PIE: Play in editor total start time 0.145 seconds.
+[2024.11.04-15.43.36:678][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.43.36:678][904]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.43.36:678][904]LogWorld: UWorld::CleanupWorld for AudioTest, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.43.36:678][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.43.36:681][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-15.43.36:684][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.43.36:687][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.43.36:688][904]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.04-15.43.36:688][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.04-15.43.36:689][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.04-15.43.36:694][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.04-15.43.36:698][904]LogActorComponent: ReregisterComponent: (/Game/Levels/DevLevels/James/AudioTest.AudioTest:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2024.11.04-15.43.36:744][905]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.11.04-15.43.37:860][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-15.43.37:928][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.04-15.43.37:960][ 31]LogSavePackage: Moving output files for package: /Game/Levels/DevLevels/James/AudioTest
+[2024.11.04-15.43.37:961][ 31]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/AudioTestBB011F1546C149B718B23784654BBA21.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/James/AudioTest.umap'
+[2024.11.04-15.43.37:971][ 31]LogFileHelpers: Saving map 'AudioTest' took 0.076
+[2024.11.04-15.43.37:979][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 277 ms)
+[2024.11.04-15.43.37:981][ 31]AssetCheck: New page: Asset Save: AudioTest
+[2024.11.04-15.43.37:981][ 31]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DevLevels/James/AudioTest.AudioTest
+[2024.11.04-15.43.51:090][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-15.43.51:148][293]LogFMOD: Display: Loaded bank lookup
+[2024.11.04-15.43.51:148][293]LogFMOD: Display: Loaded asset lookup
+[2024.11.04-15.43.51:152][293]LogFMOD: Default sample rate = 48000
+[2024.11.04-15.43.51:152][293]LogFMOD: System sample rate = 48000
+[2024.11.04-15.43.51:152][293]LogFMOD: Matching system sample rate 48000
+[2024.11.04-15.43.51:164][293]LogFMOD: Loading bank: ../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.04-15.43.51:208][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-15.43.51:208][293]PIE: New page: PIE session: AudioTest (4 Nov 2024, 15:43:51)
+[2024.11.04-15.43.51:208][293]LogPlayLevel: Creating play world package: /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.43.51:216][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007648s)
+[2024.11.04-15.43.51:216][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevLevels/James/AudioTest.AudioTest to /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest (0.007688s)
+[2024.11.04-15.43.51:220][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.04-15.43.51:220][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-15.43.51:220][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-15.43.51:221][293]LogAIModule: Creating AISystem for world AudioTest
+[2024.11.04-15.43.51:221][293]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2024.11.04-15.43.51:221][293]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-15.43.51:221][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.04-15.43.51:221][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-15.43.51:222][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-15.43.51:222][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-15.43.51:222][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-15.43.51:224][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-15.43.51:240][293]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (GameDAC Chat)
+[2024.11.04-15.43.51:241][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-15.43.51:241][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-15.43.51:241][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-15.43.51:241][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.04-15.43.51:241][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.04-15.43.51:243][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.04-15.43.51:243][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.04-15.43.51:243][293]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.04-15.43.51:243][293]LogAudio: Display: Audio Device (ID: 5) registered with world 'AudioTest'.
+[2024.11.04-15.43.51:243][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.04-15.43.51:245][293]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.04-15.43.51:249][293]LogWorld: Bringing World /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest.AudioTest up for play (max tick rate 0) at 2024.11.04-15.43.51
+[2024.11.04-15.43.51:249][293]LogWorld: Bringing up level for play took: 0.003016
+[2024.11.04-15.43.51:251][293]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.11.04-15.43.51:254][293]PIE: Server logged in
+[2024.11.04-15.43.51:255][293]PIE: Play in editor total start time 0.156 seconds.
+[2024.11.04-15.43.52:368][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.43.52:368][401]LogWorld: BeginTearingDown for /Game/Levels/DevLevels/James/UEDPIE_0_AudioTest
+[2024.11.04-15.43.52:368][401]LogWorld: UWorld::CleanupWorld for AudioTest, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-15.43.52:368][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.43.52:371][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-15.43.52:374][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-15.43.52:376][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-15.43.52:376][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.04-15.43.52:376][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.04-15.43.52:379][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.04-15.43.52:383][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-15.43.52:385][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.04-15.43.52:388][401]LogActorComponent: ReregisterComponent: (/Game/Levels/DevLevels/James/AudioTest.AudioTest:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2024.11.04-15.43.52:433][402]LogPlayLevel: Display: Destroying online subsystem :Context_4
