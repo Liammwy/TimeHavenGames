@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Mechanics/RopeSwing/BP_Rope.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
 				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/JackLevel.umap",
 				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_ZKillVolume.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/ENUM_AreaNames.uasset",
