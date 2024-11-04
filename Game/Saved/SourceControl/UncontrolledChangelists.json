@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Levels/DevLevels/Cam/NewWorld.umap",
+				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Levels/DevLevels/Cam/Harveylvl.umap",
+				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Blueprints/Level/BP_Fan.uasset",
+				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/SimpleEnemy/BP_NPC.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Mechanics/SimpleEnemy/BP_SpawnOrb.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
