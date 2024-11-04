@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/ENUM_AreaNames.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap",
 				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Levels/DevLevels/Cam/NewWorld.umap",
 				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Levels/DevLevels/Cam/Harveylvl.umap",
 				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Blueprints/Level/BP_Fan.uasset",
