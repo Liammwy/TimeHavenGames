@@ -3272,3 +3272,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-12.22.11:622][328]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.11.07-12.23.15:828][351]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
 [2024.11.07-12.23.15:926][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.07-12.26.36:830][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.07-12.26.37:858][895]LogSlate: Window 'Save Content' being destroyed
+[2024.11.07-12.26.37:871][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-12.26.37:935][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.07-12.26.37:952][895]LogSavePackage: Moving output files for package: /Game/Levels/DevLevels/Harvey/Harveylvl
+[2024.11.07-12.26.37:952][895]LogSavePackage: Moving '../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Saved/Harveylvl9848B8694A2E52CC6D8C2AA107CADB43.tmp' to '../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap'
+[2024.11.07-12.26.37:959][895]LogFileHelpers: Saving map 'Harveylvl' took 0.058
+[2024.11.07-12.26.37:970][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.45 sec)
+[2024.11.07-12.26.37:972][895]AssetCheck: New page: Asset Save: Harveylvl
+[2024.11.07-12.26.37:972][895]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DevLevels/Harvey/Harveylvl.Harveylvl
