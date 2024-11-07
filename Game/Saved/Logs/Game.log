@@ -1269,4 +1269,7 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2024.11.07-00.49.02:013][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.11.07-00.49.02:014][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
 [2024.11.07-00.49.02:087][559]LogPlayLevel: Display: Destroying online subsystem :Context_1
+<<<<<<< HEAD
 [2024.11.07-00.50.42:636][941]LogDerivedDataCache: C:/Users/Harvey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.276 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3944 files in 5675 folders with total size 262 MiB.
+=======
+>>>>>>> HarveyF

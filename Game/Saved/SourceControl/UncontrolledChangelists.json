@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/CharacterRiggedOct25_2.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/Materials/M_Boots.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/Materials/M_Shirt.uasset",
@@ -63,6 +64,16 @@
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Button2.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Button1.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Belt.uasset"
+=======
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/F3/QN12JUW4U56PIIY3920X8S.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IH/TH3551FB3U6QT5O5EVSZT7.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Mechanics/RopeSwing/BP_HookPoint.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Mechanics/RopeSwing/WBP_HookIcon.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XH/YUY25QQ993YBOFXK1TIHGT.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Data/Input/Actions/IA_Hook.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Data/Input/IMC_Default.uasset"
+>>>>>>> HarveyF
 			]
 		}
 	]
