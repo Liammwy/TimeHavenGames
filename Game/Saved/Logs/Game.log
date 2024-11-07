@@ -3258,3 +3258,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-12.20.14:509][386]AssetCheck: New page: Asset Save: multiple assets
 [2024.11.07-12.20.14:509][386]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DevLevels/Harvey/Harveylvl.Harveylvl
 [2024.11.07-12.20.14:509][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.11.07-12.22.04:239][848]LogEditorTransaction: Undo Delete current selection
+[2024.11.07-12.22.04:424][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.07-12.22.08:881][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.07-12.22.11:430][327]LogSlate: Window 'Save Content' being destroyed
+[2024.11.07-12.22.11:442][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-12.22.11:530][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_ThirdPersonCharacter" FILE="../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.11.07-12.22.11:598][327]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_ThirdPersonCharacter
+[2024.11.07-12.22.11:599][327]LogSavePackage: Moving '../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Saved/BP_ThirdPersonCharacter0D3D862A43F0926B3CD8B5813B20CDCA.tmp' to '../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset'
+[2024.11.07-12.22.11:612][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 1.35 sec)
+[2024.11.07-12.22.11:613][327]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.11.07-12.22.11:613][327]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.11.07-12.22.11:622][328]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.07-12.23.15:828][351]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.11.07-12.23.15:926][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
