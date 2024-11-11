@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
+<<<<<<< HEAD
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset"
 =======
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/CharacterRiggedOct25_2.uasset",
@@ -79,6 +80,16 @@
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Button1.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Belt.uasset"
 >>>>>>> David2
+=======
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimableCeiling.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Materials/Level/MAT_ClimableCeiling.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimbableWall.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_StateSystem.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset"
+>>>>>>> BenDev
 			]
 		}
 	]
