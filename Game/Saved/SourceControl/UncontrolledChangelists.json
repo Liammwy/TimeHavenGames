@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset"
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimableCeiling.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Materials/Level/MAT_ClimableCeiling.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimbableWall.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_StateSystem.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset"
 			]
 		}
 	]
