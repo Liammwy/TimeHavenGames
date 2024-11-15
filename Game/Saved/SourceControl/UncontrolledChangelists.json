@@ -5,22 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/BP_PhysicsSnowball.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/BP_Snowball.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/BP_PathedSnowball.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/Snowball/BP_PathedSnowball.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/Snowball/BP_PhysicsSnowball.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/Snowball/BP_SnowballPath.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/3/ZS/FI4XL72BWISHPGU1V4MNSC.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/7/EJ/CVODJOKBM0F17Y0IMG7SEW.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/Snowball/BP_SplineSnowball.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/E/VK/LB50JMNXVC0QV8V819A9U5.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/MovingBallTest/6/XX/778VMXWMSF99TJ68ENTBH2.uasset"
-=======
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Mechanics/MovingPlats/SteponPlat.uasset",
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/2994W4INP18RCDTNV86DGO.uasset"
->>>>>>> Harvey
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_PowerSystem.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlowTint.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset"
 			]
 		}
 	]
