@@ -5,18 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_PowerSystem.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlowTint.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset"
-=======
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/DemoLevels/CaveSecondSection.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/DemoLevels/CaveFirstSection.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/DemoLevels/CaveFirstHalf.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/DemoLevels/IceWorld.umap"
->>>>>>> 3b2c1c2 (Linear Level design Glacier Run)
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldDavid.umap",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_UnlockingBridge.uasset"
 			]
 		}
 	]
