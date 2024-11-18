@@ -5,8 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldDavid.umap",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_UnlockingBridge.uasset"
+=======
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_DropShadow.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Textures/Player/DropShadow.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Materials/Player/M_DropShadow.uasset"
+>>>>>>> James
 			]
 		}
 	]
