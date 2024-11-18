@@ -1802,3 +1802,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.18-11.11.52:787][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_ThirdPersonCharacter_Auto1
 [2024.11.18-11.11.52:788][485]LogSavePackage: Moving '../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Saved/BP_ThirdPersonCharacter_Auto1F27A11874EEFF733FFB2A0A887488A9E.tmp' to '../../../../UWE/Year 3/CGD/TimeHavenGames/Game/Saved/Autosaves/Game/Blueprints/Player/BP_ThirdPersonCharacter_Auto1.uasset'
 [2024.11.18-11.11.52:788][485]LogFileHelpers: Auto-saving content packages took 0.098
+[2024.11.18-11.12.59:931][687]AssetReimport: New page: Outstanding source content changes 11:12:59
+[2024.11.18-11.13.00:054][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
