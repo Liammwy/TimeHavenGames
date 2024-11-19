@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_DropShadow.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Textures/Player/DropShadow.uasset",
@@ -12,6 +13,26 @@
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Data/Input/IMC_Default.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Data/Input/Actions/IA_Pause.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
+=======
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/JackLevel.umap",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CameraTest.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CameraReposition.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CamPos.uasset",
+				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CameraReposition.uasset",
+				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CamPos.uasset",
+				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/JackLevel.umap",
+				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CamPos1.uasset",
+				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CameraTest.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_DropShadow.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Materials/Player/M_DropShadow.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Textures/Player/DropShadow.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesDevLevel/B/KU/89F7VQHCJ6YWWTEMLMB5LN.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesDevLevel/7/ND/OZEUQVTHVDW0RYGBR4NTSY.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesDevLevel/A/1Q/F45ZK5ANCX1IN6YDGXBA13.uasset"
+>>>>>>> JackDev
 			]
 		}
 	]
