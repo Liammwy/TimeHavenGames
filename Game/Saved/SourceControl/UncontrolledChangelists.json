@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_DropShadow.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Textures/Player/DropShadow.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Data/Input/IMC_Default.uasset",
