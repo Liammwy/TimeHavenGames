@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/TimeHavenGames/Game/Content/Blueprints/Level/BP_Fan.uasset",
 				"D:/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"D:/TimeHavenGames/Game/Content/Blueprints/Camera/PCM_PlayerCamera.uasset",
@@ -63,6 +64,17 @@
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Button2.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Button1.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Meshes/Player/M_Belt.uasset",
+=======
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/SlipperyMovement.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_StateSystem.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Data/Player/Enum_PlayerState.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_SlipperSurface.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/JackLevel.umap",
+>>>>>>> Arun_2
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/LiamDevLevel.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/jetPack.uasset",
