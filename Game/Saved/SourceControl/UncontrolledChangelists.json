@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/_GENERATED/b5lane/Box_B5F4E410.uasset",
+				"D:/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset",
 				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Refule.uasset",
 				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
