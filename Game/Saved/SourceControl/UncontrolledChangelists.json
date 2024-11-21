@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
 				"D:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
 				"D:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
@@ -18,6 +19,17 @@
 				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+=======
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/Level_Mechanics/Materials/MF_OcclusionMarking.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/JackLevel.umap",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/Level_Mechanics/Materials/M_TestMasking.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/Level_Mechanics/Materials/MI_TestMasking_Inst.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/Level_Mechanics/Materials/MPC_PlayerLocation.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Island.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Blueprints/Camera/PCM_PlayerCamera.uasset",
+				"F:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/Level_Mechanics/Materials/M_Solid.uasset",
+>>>>>>> JackDev
 				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Blueprints/Level/BP_Fan.uasset",
 				"D:/Documents/_UWE/Yr3/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorld2.umap",
