@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/SlipperyMovement.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Slipping_Blendspace.uasset",
