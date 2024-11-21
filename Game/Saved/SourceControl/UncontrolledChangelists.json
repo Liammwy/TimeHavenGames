@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/SlipperyMovement.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Slipping_Blendspace.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_StateSystem.uasset",
 				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
 				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_SlipperSurface.uasset",
