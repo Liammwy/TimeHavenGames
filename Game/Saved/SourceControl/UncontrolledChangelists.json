@@ -7,7 +7,11 @@
 			"files": [
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalEffect.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap"
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/UI/Time_Slow_Overlay.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset"
 			]
 		}
 	]
