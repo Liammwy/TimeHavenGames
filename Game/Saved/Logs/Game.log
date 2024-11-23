@@ -4196,3 +4196,691 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.23-22.18.04:596][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 588 ms)
 [2024.11.23-22.18.04:599][647]AssetCheck: New page: Asset Save: HoverALPHA
 [2024.11.23-22.18.04:599][647]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA
+[2024.11.23-22.19.12:999][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.23-22.19.13:068][880]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.23-22.19.14:834][  1]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible_C
+[2024.11.23-22.19.14:834][  1]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible_C
+[2024.11.23-22.19.14:837][  1]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible as actor: BP_Collectible_C /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA:PersistentLevel.BP_Collectible_C_0
+[2024.11.23-22.19.14:838][  1]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible as actor: BP_Collectible_C /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA:PersistentLevel.BP_Collectible_C_0
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: ================================================
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Total job queries 168, among them cache hits 87 (51.79%)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Tracking 81 distinct input hashes that result in 54 distinct outputs (66.67%)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: RAM used: 1.96 MiB of 1.60 GiB budget. Usage: 0.12%
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Average time worker was idle: 49.44 s
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.85 s
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 1.23 s
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Job life time (pending + execution): average 1.12 s, max 1.24
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Shader code size: average 56.003 KiB, min 29.625 KiB, max 74.645 KiB
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.67 s
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Average processing rate: 5.24 jobs/sec
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Total thread time: 7.07 s
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Total thread preprocess time: 0.935 s
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Percentage time preprocessing: 13.22%
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Effective parallelization: 2.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.64 sec, max 0.81 sec, min 0.38 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.52 sec, max 0.62 sec, min 0.41 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 45.19% of total time (compiled    5 times, average 0.64 sec, max 0.81 sec, min 0.38 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.56% of total time (compiled    4 times, average 0.52 sec, max 0.62 sec, min 0.41 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.50% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.09% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display:                                            FDistortionMeshVS - 4.27% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.11.23-22.19.14:967][  3]LogShaderCompilers: Display: ================================================
+[2024.11.23-22.19.15:485][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible_C
+[2024.11.23-22.19.15:485][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible_C
+[2024.11.23-22.19.15:488][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible as actor: BP_Collectible_C /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA:PersistentLevel.BP_Collectible_C_1
+[2024.11.23-22.19.15:490][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Collectibles/BP_Collectible.BP_Collectible as actor: BP_Collectible_C /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA:PersistentLevel.BP_Collectible_C_1
+[2024.11.23-22.19.32:574][121]Cmd: DUPLICATE
+[2024.11.23-22.19.32:574][121]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.19.32:618][121]LogClass: Warning: Short type name "BP_Collectible_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.19.32:630][121]LogClass: Warning: Short type name "BP_Collectible_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.19.49:621][293]Cmd: DUPLICATE
+[2024.11.23-22.19.49:622][293]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.19.49:639][293]LogClass: Warning: Short type name "BP_Collectible_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.19.49:650][293]LogClass: Warning: Short type name "BP_Collectible_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.11:254][784]Cmd: DUPLICATE
+[2024.11.23-22.20.11:254][784]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.20.11:272][784]LogClass: Warning: Short type name "BP_Collectible_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.11:288][784]LogClass: Warning: Short type name "BP_Collectible_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.20:000][366]Cmd: DUPLICATE
+[2024.11.23-22.20.20:000][366]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.20.20:017][366]LogClass: Warning: Short type name "BP_Collectible_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.20:028][366]LogClass: Warning: Short type name "BP_Collectible_C_4" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.40:693][758]Cmd: DUPLICATE
+[2024.11.23-22.20.40:693][758]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.20.40:711][758]LogClass: Warning: Short type name "BP_Collectible_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.40:720][758]LogClass: Warning: Short type name "BP_Collectible_C_5" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.56:524][859]Cmd: DUPLICATE
+[2024.11.23-22.20.56:524][859]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.20.56:540][859]LogClass: Warning: Short type name "BP_Collectible_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.20.56:551][859]LogClass: Warning: Short type name "BP_Collectible_C_6" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.21.06:220][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.23-22.21.06:275][493]LogFMOD: Display: Loaded bank lookup
+[2024.11.23-22.21.06:275][493]LogFMOD: Display: Loaded asset lookup
+[2024.11.23-22.21.06:281][493]LogFMOD: Default sample rate = 48000
+[2024.11.23-22.21.06:281][493]LogFMOD: System sample rate = 48000
+[2024.11.23-22.21.06:281][493]LogFMOD: Matching system sample rate 48000
+[2024.11.23-22.21.06:301][493]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.23-22.21.06:301][493]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Movement.bank
+[2024.11.23-22.21.06:301][493]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Mechanics.bank
+[2024.11.23-22.21.06:335][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.23-22.21.06:335][493]PIE: New page: PIE session: HoverALPHA (23 Nov 2024, 22:21:06)
+[2024.11.23-22.21.06:335][493]LogPlayLevel: Creating play world package: /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA
+[2024.11.23-22.21.06:343][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009059s)
+[2024.11.23-22.21.06:344][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA to /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA.HoverALPHA (0.009110s)
+[2024.11.23-22.21.06:384][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.11.23-22.21.06:387][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.23-22.21.06:387][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.23-22.21.06:387][493]LogAIModule: Creating AISystem for world HoverALPHA
+[2024.11.23-22.21.06:388][493]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2024.11.23-22.21.06:388][493]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.23-22.21.06:388][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.23-22.21.06:388][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.23-22.21.06:389][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.23-22.21.06:389][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.23-22.21.06:389][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.23-22.21.06:392][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.23-22.21.06:418][493]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.23-22.21.06:418][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.23-22.21.06:418][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.23-22.21.06:418][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.23-22.21.06:419][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.11.23-22.21.06:419][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.11.23-22.21.06:422][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.11.23-22.21.06:422][493]LogInit: FAudioDevice initialized with ID 14.
+[2024.11.23-22.21.06:422][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.11.23-22.21.06:422][493]LogAudio: Display: Audio Device (ID: 14) registered with world 'HoverALPHA'.
+[2024.11.23-22.21.06:422][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.23-22.21.06:425][493]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.23-22.21.06:428][493]LogWorld: Bringing World /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA.HoverALPHA up for play (max tick rate 0) at 2024.11.23-22.21.06
+[2024.11.23-22.21.06:428][493]LogWorld: Bringing up level for play took: 0.003080
+[2024.11.23-22.21.06:431][493]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.11.23-22.21.06:438][493]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.21.06:438][493]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.21.06:438][493]PIE: Server logged in
+[2024.11.23-22.21.06:439][493]PIE: Play in editor total start time 0.193 seconds.
+[2024.11.23-22.21.06:469][494]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.21.06:470][494]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.21.15:573][240]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.21.15:573][240]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.21.16:399][309]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.21.16:399][309]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.21.21:865][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-22.21.21:865][783]LogWorld: BeginTearingDown for /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA
+[2024.11.23-22.21.21:865][783]LogWorld: UWorld::CleanupWorld for HoverALPHA, bSessionEnded=true, bCleanupResources=true
+[2024.11.23-22.21.21:866][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-22.21.21:870][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.23-22.21.21:879][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-22.21.21:895][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.23-22.21.21:895][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.23-22.21.21:895][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.23-22.21.21:898][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.23-22.21.21:903][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-22.21.21:907][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.11.23-22.21.21:988][784]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.11.23-22.22.05:811][692]Cmd: DUPLICATE
+[2024.11.23-22.22.05:811][692]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.05:829][692]LogClass: Warning: Short type name "BP_Collectible_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.05:840][692]LogClass: Warning: Short type name "BP_Collectible_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.27:804][144]Cmd: DUPLICATE
+[2024.11.23-22.22.27:804][144]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.27:821][144]LogClass: Warning: Short type name "BP_Collectible_C_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.27:832][144]LogClass: Warning: Short type name "BP_Collectible_C_8" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.31:558][390]Cmd: DUPLICATE
+[2024.11.23-22.22.31:558][390]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.31:574][390]LogClass: Warning: Short type name "BP_Collectible_C_9" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.31:586][390]LogClass: Warning: Short type name "BP_Collectible_C_9" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.33:943][533]Cmd: DUPLICATE
+[2024.11.23-22.22.33:944][533]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.33:961][533]LogClass: Warning: Short type name "BP_Collectible_C_10" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.33:972][533]LogClass: Warning: Short type name "BP_Collectible_C_10" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.39:441][908]Cmd: DUPLICATE
+[2024.11.23-22.22.39:441][908]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.39:460][908]LogClass: Warning: Short type name "BP_Collectible_C_11" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.39:472][908]LogClass: Warning: Short type name "BP_Collectible_C_11" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.48:486][529]Cmd: DUPLICATE
+[2024.11.23-22.22.48:486][529]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.48:503][529]LogClass: Warning: Short type name "BP_Collectible_C_12" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.48:515][529]LogClass: Warning: Short type name "BP_Collectible_C_12" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.52:541][794]Cmd: DUPLICATE
+[2024.11.23-22.22.52:541][794]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.22.52:558][794]LogClass: Warning: Short type name "BP_Collectible_C_13" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.22.52:568][794]LogClass: Warning: Short type name "BP_Collectible_C_13" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.23.03:604][561]Cmd: DUPLICATE
+[2024.11.23-22.23.03:604][561]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.23.03:621][561]LogClass: Warning: Short type name "BP_Collectible_C_14" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.23.03:632][561]LogClass: Warning: Short type name "BP_Collectible_C_14" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.23.14:737][286]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.23-22.23.14:784][286]LogFMOD: Display: Loaded bank lookup
+[2024.11.23-22.23.14:784][286]LogFMOD: Display: Loaded asset lookup
+[2024.11.23-22.23.14:790][286]LogFMOD: Default sample rate = 48000
+[2024.11.23-22.23.14:790][286]LogFMOD: System sample rate = 48000
+[2024.11.23-22.23.14:790][286]LogFMOD: Matching system sample rate 48000
+[2024.11.23-22.23.14:812][286]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.23-22.23.14:812][286]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Movement.bank
+[2024.11.23-22.23.14:812][286]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Mechanics.bank
+[2024.11.23-22.23.14:845][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.23-22.23.14:845][286]PIE: New page: PIE session: HoverALPHA (23 Nov 2024, 22:23:14)
+[2024.11.23-22.23.14:893][286]LogPlayLevel: Creating play world package: /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA
+[2024.11.23-22.23.14:905][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012028s)
+[2024.11.23-22.23.14:905][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA to /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA.HoverALPHA (0.012109s)
+[2024.11.23-22.23.14:946][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.11.23-22.23.14:950][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.23-22.23.14:950][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.23-22.23.14:951][286]LogAIModule: Creating AISystem for world HoverALPHA
+[2024.11.23-22.23.14:952][286]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2024.11.23-22.23.14:952][286]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.23-22.23.14:952][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.23-22.23.14:952][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.23-22.23.14:953][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.23-22.23.14:953][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.23-22.23.14:953][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.23-22.23.14:956][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.23-22.23.14:981][286]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.23-22.23.14:981][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.23-22.23.14:981][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.23-22.23.14:981][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.23-22.23.14:982][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.11.23-22.23.14:982][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.11.23-22.23.14:985][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.11.23-22.23.14:985][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.11.23-22.23.14:985][286]LogInit: FAudioDevice initialized with ID 15.
+[2024.11.23-22.23.14:985][286]LogAudio: Display: Audio Device (ID: 15) registered with world 'HoverALPHA'.
+[2024.11.23-22.23.14:985][286]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.23-22.23.14:988][286]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.23-22.23.14:993][286]LogWorld: Bringing World /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA.HoverALPHA up for play (max tick rate 0) at 2024.11.23-22.23.14
+[2024.11.23-22.23.14:993][286]LogWorld: Bringing up level for play took: 0.003961
+[2024.11.23-22.23.14:996][286]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.11.23-22.23.15:003][286]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.23.15:003][286]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.23.15:004][286]PIE: Server logged in
+[2024.11.23-22.23.15:005][286]PIE: Play in editor total start time 0.247 seconds.
+[2024.11.23-22.23.15:038][287]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.23.15:038][287]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.23.21:500][831]LogBlueprintUserMessages: [BPC_Jump] 6.515804
+[2024.11.23-22.23.21:500][831]LogBlueprintUserMessages: [BPC_Jump] 1676.190476
+[2024.11.23-22.23.21:621][842]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.23.21:621][842]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.23.22:462][912]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.23.22:462][912]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.23.28:177][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-22.23.28:177][370]LogWorld: BeginTearingDown for /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA
+[2024.11.23-22.23.28:177][370]LogWorld: UWorld::CleanupWorld for HoverALPHA, bSessionEnded=true, bCleanupResources=true
+[2024.11.23-22.23.28:178][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-22.23.28:183][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.23-22.23.28:196][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-22.23.28:214][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.23-22.23.28:215][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.23-22.23.28:215][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.11.23-22.23.28:218][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.11.23-22.23.28:226][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-22.23.28:232][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.11.23-22.23.28:338][371]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.11.23-22.23.30:668][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.23-22.23.30:725][506]LogFMOD: Display: Loaded bank lookup
+[2024.11.23-22.23.30:725][506]LogFMOD: Display: Loaded asset lookup
+[2024.11.23-22.23.30:731][506]LogFMOD: Default sample rate = 48000
+[2024.11.23-22.23.30:731][506]LogFMOD: System sample rate = 48000
+[2024.11.23-22.23.30:731][506]LogFMOD: Matching system sample rate 48000
+[2024.11.23-22.23.30:750][506]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Ambience.bank
+[2024.11.23-22.23.30:750][506]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Movement.bank
+[2024.11.23-22.23.30:750][506]LogFMOD: Loading bank: ../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/FMOD/Desktop/Mechanics.bank
+[2024.11.23-22.23.30:785][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.23-22.23.30:785][506]PIE: New page: PIE session: HoverALPHA (23 Nov 2024, 22:23:30)
+[2024.11.23-22.23.30:785][506]LogPlayLevel: Creating play world package: /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA
+[2024.11.23-22.23.30:796][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010498s)
+[2024.11.23-22.23.30:796][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA to /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA.HoverALPHA (0.010562s)
+[2024.11.23-22.23.30:812][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.11.23-22.23.30:814][506]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.23-22.23.30:814][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.23-22.23.30:815][506]LogAIModule: Creating AISystem for world HoverALPHA
+[2024.11.23-22.23.30:815][506]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2024.11.23-22.23.30:815][506]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.11.23-22.23.30:815][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.23-22.23.30:815][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.23-22.23.30:816][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.23-22.23.30:816][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.23-22.23.30:816][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.23-22.23.30:816][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.23-22.23.30:816][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.23-22.23.30:816][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.23-22.23.30:816][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.23-22.23.30:816][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.23-22.23.30:816][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.23-22.23.30:819][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.23-22.23.30:845][506]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.23-22.23.30:846][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.23-22.23.30:846][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.23-22.23.30:846][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.23-22.23.30:846][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.11.23-22.23.30:847][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.11.23-22.23.30:851][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.11.23-22.23.30:852][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.11.23-22.23.30:852][506]LogInit: FAudioDevice initialized with ID 16.
+[2024.11.23-22.23.30:852][506]LogAudio: Display: Audio Device (ID: 16) registered with world 'HoverALPHA'.
+[2024.11.23-22.23.30:852][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.11.23-22.23.30:855][506]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.23-22.23.30:859][506]LogWorld: Bringing World /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA.HoverALPHA up for play (max tick rate 0) at 2024.11.23-22.23.30
+[2024.11.23-22.23.30:859][506]LogWorld: Bringing up level for play took: 0.003723
+[2024.11.23-22.23.30:863][506]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.11.23-22.23.30:871][506]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.23.30:872][506]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.23.30:872][506]PIE: Server logged in
+[2024.11.23-22.23.30:873][506]PIE: Play in editor total start time 0.184 seconds.
+[2024.11.23-22.23.30:907][507]LogBlueprintUserMessages: [BPC_Jump] 3.665139
+[2024.11.23-22.23.30:907][507]LogBlueprintUserMessages: [BPC_Jump] 1257.142857
+[2024.11.23-22.23.31:675][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-22.23.31:675][538]LogWorld: BeginTearingDown for /Game/Levels/AlphaLevels/UEDPIE_0_HoverALPHA
+[2024.11.23-22.23.31:675][538]LogWorld: UWorld::CleanupWorld for HoverALPHA, bSessionEnded=true, bCleanupResources=true
+[2024.11.23-22.23.31:676][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-22.23.31:681][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.23-22.23.31:689][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-22.23.31:707][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-22.23.31:708][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.11.23-22.23.31:708][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.11.23-22.23.31:710][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.11.23-22.23.31:719][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.11.23-22.23.31:789][539]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.11.23-22.23.35:168][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.11.23-22.23.35:175][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.23-22.23.35:302][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.23-22.23.35:343][782]LogSavePackage: Moving output files for package: /Game/Levels/AlphaLevels/HoverALPHA
+[2024.11.23-22.23.35:344][782]LogSavePackage: Moving '../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Saved/HoverALPHA7CED3A024722A5CBFF7BABB60F3EC636.tmp' to '../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap'
+[2024.11.23-22.23.35:360][782]LogFileHelpers: Saving map 'HoverALPHA' took 0.135
+[2024.11.23-22.23.35:367][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 781 ms)
+[2024.11.23-22.23.35:371][782]AssetCheck: New page: Asset Save: HoverALPHA
+[2024.11.23-22.23.35:371][782]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA
+[2024.11.23-22.23.50:388][816]Cmd: DUPLICATE
+[2024.11.23-22.23.50:388][816]Cmd: ACTOR DUPLICATE
+[2024.11.23-22.23.50:406][816]LogClass: Warning: Short type name "BP_Collectible_C_11" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.23.50:418][816]LogClass: Warning: Short type name "BP_Collectible_C_11" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.11.23-22.24.05:830][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.11.23-22.24.05:836][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.23-22.24.05:966][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.23-22.24.06:017][764]LogSavePackage: Moving output files for package: /Game/Levels/AlphaLevels/HoverALPHA
+[2024.11.23-22.24.06:018][764]LogSavePackage: Moving '../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Saved/HoverALPHAC7C1A77F41109E76021E6B9839919F95.tmp' to '../../../../../../Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap'
+[2024.11.23-22.24.06:041][764]LogFileHelpers: Saving map 'HoverALPHA' took 0.156
+[2024.11.23-22.24.06:076][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 239 ms (total: 1.02 sec)
+[2024.11.23-22.24.06:081][764]AssetCheck: New page: Asset Save: HoverALPHA
+[2024.11.23-22.24.06:081][764]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/AlphaLevels/HoverALPHA.HoverALPHA
