@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap"
+=======
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Ice.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Materials/Snow.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Materials/Schnee.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Materials/Ice.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/SpikeBedRandom.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/SpikeBedUniform.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/SpikeBall.uasset"
+>>>>>>> David2
 			]
 		}
 	]
