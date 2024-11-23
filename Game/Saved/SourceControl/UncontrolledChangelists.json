@@ -5,26 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_FallingIcicle.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/TimeSlowALPHA.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_MovablePlatform.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Plat.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_NoJetpackZone.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/BouncePadALPHA.umap",
-=======
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
->>>>>>> HarveyF
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalEffect.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/UI/Time_Slow_Overlay.uasset",
-				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlow.uasset"
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Ice.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Materials/Snow.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Materials/Schnee.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/Materials/Ice.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/SpikeBedRandom.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/SpikeBedUniform.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Spikes/SpikeBall.uasset"
 			]
 		}
 	]
