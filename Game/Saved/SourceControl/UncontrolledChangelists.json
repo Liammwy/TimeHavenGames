@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap",
+=======
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+>>>>>>> JamesDev
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_SlipperSurface.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_StateSystem.uasset",
