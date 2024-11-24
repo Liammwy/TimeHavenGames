@@ -5,34 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_InvisibleBarrier.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_DeathBarrier.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_InvisibleRoof.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_PathStone.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/TimeSlowALPHA.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/_GENERATED/liam1/Cylinder_765D0A41.uasset"
-=======
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Events/Jetpack.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/733984__velcronator__jetpack-sfx-looped-04.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
-				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/SlipperyMovement.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Slipping_Blendspace.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_StateSystem.uasset",
-				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_SlipperSurface.uasset",
-				"H:/TimeHavenGames/TimeHavenGames/Game/Content/Animation/Player/SlipperyMovement.uasset"
->>>>>>> JamesDev
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/733984__velcronator__jetpack-sfx-looped-04.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_NoJetpackZone.uasset"
 			]
 		}
 	]
