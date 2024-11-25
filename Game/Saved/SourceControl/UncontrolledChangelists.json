@@ -5,36 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/404774__owlstorm__retro-video-game-sfx-collect-1.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/221488__lloydevans09__glug.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Events/Refuelling.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Refule.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_TempKey.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/BP_Checkpoint.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/classic-game-action-positive-4-224403.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Events/Waypoint.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-=======
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
-				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
->>>>>>> origin/main
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Blueprints/Level/BP_BouncePad.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Land-Block-L.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStoneRockL.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone2LBlock.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone4.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Land-Block-L-Purple.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/CeilingBlendspace.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/733984__velcronator__jetpack-sfx-looped-04.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_NoJetpackZone.uasset"
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimableCeiling.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset"
 			]
 		}
 	]
