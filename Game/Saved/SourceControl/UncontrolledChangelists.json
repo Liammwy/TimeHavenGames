@@ -5,12 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimableCeiling.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/WallClimbALPHA.umap",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/CeilingBlendspace.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Braced_To_Free_Hang.uasset"
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/WallClimbALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/TimeSlowALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CamPos.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CameraReposition.uasset"
 			]
 		}
 	]
