@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Blueprints/Level/BP_BouncePad.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Land-Block-L.uasset",
