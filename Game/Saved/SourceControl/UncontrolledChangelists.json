@@ -13,6 +13,7 @@
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalWin.uasset",
+<<<<<<< HEAD
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap"
 =======
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimableCeiling.uasset",
@@ -22,6 +23,17 @@
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/CeilingBlendspace.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Braced_To_Free_Hang.uasset"
 >>>>>>> Arun_2
+=======
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NE_SnowFalling.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_SnowFalling_System.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_ModSnow.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_LightSnow.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_HeavySnow.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_UnlockingBridge.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap"
+>>>>>>> Liam
 			]
 		}
 	]
