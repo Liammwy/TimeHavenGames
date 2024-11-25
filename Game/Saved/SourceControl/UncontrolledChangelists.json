@@ -5,32 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/AlphaLevels/WallClimbALPHA.umap",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset"
-=======
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/BP_ClimableCeiling.uasset",
-=======
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Blueprints/Level/BP_BouncePad.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Land-Block-L.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Land-Block-L-Purple.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Hat/M_Hat.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/BLOCKL2.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/BLOCKL3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Hat/Hat.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStoneRockL.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone2LBlock.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone4.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/CeilingBlendspace.uasset",
->>>>>>> David2
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/WallClimbALPHA.umap"
->>>>>>> Arun_2
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/BouncePadALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_TempKey.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/Collectibles/ENUM_AreaNames.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalWin.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap"
 			]
 		}
 	]
