@@ -5,24 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Blueprints/Level/BP_BouncePad.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Land-Block-L.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Land-Block-L-Purple.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Hat/M_Hat.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/BLOCKL2.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/BLOCKL3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Hat/Hat.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStoneRockL.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone2LBlock.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/PurpleStone4.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/CeilingBlendspace.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/NewPlayerAnim_BP.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/FMOD/THG-Fmod/Assets/733984__velcronator__jetpack-sfx-looped-04.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Level/BP_NoJetpackZone.uasset"
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/WallClimbALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/TimeSlowALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CamPos.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CameraReposition.uasset"
 			]
 		}
 	]
