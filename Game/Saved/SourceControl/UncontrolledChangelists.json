@@ -15,12 +15,16 @@
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NE_SnowFalling.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_SnowFalling_System.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_ModSnow.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_LightSnow.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_HeavySnow.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_UnlockingBridge.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap"
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Refule.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_SnowFalling_System.uasset"
 			]
 		}
 	]
