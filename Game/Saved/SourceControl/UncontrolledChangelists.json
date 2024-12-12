@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_TimeSlow.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
