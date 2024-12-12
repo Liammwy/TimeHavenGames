@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/THG/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
 				"D:/THG/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 =======
@@ -157,6 +158,11 @@
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Rock/Materials/T_Rock_P.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/Slope3_P.uasset"
 >>>>>>> main
+=======
+				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
+				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Levels/NewLevels/SuperJumpTestLevel.umap",
+				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_SuperJump.uasset"
+>>>>>>> BenUni
 			]
 		}
 	]
