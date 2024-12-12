@@ -14,6 +14,7 @@
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_FireBreath.uasset",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_GravityFlip.uasset",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+<<<<<<< HEAD
 =======
 				"D:/THG/Game/Content/Data/Input/IMC_Default.uasset",
 				"D:/THG/Game/Content/Blueprints/UI/StartingMenu/WBP_StartingMenu.uasset",
@@ -32,6 +33,9 @@
 				"D:/THG/Game/Content/Levels/AlphaLevels/BouncePadALPHA.umap",
 				"D:/THG/Game/Content/Models/Map/Objects/Icicles/Carrot.uasset",
 >>>>>>> Liam
+=======
+				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
+>>>>>>> BenUni
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/WallClimbALPHA.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/TimeSlowALPHA.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/BP_CamPos.uasset",
