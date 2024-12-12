@@ -5,11 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Level/PowerUps/BP_BreakableBlock.uasset",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Levels/NewLevels/SuperJumpTestLevel.umap",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_SuperJump.uasset",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
+=======
+				"D:/THG/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/THG/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
+				"D:/THG/Game/Content/Blueprints/UI/WBP_PopUp.uasset",
+				"D:/THG/Game/Content/Blueprints/Level/BP_Fan.uasset",
+				"D:/THG/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
+				"D:/THG/Game/Content/Blueprints/Player/Components/BPC_SuperJump.uasset",
+				"D:/THG/Game/Content/Blueprints/Player/Components/BPC_Climbing.uasset",
+				"D:/THG/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
+				"D:/THG/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset"
+>>>>>>> Liam
 			]
 		}
 	]
