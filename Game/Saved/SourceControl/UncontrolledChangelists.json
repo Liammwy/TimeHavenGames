@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset",
 				"C:/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/4/P9/NESDVRX0I8CQANS17RCTHC.uasset",
 				"C:/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/6/G4/JD615X1WU65HBABXWZ2YIB.uasset",
@@ -119,17 +120,37 @@
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/Old/T_Slope1.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Slope1.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Slope2.uasset",
+=======
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BlackWeightsTiled.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BlackWeightsTiledCannon.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BlackWeightsTiledWheel.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/CannonSnow.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/M_Black.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/M_Metal.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/M_MetalPure.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/M_Wheel.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/M_Wood.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/M_WoodBase.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/WoodDarkTiledBase.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/WoodDarkTiledFrames.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/BlackWeightsTiled.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/BlackWeightsTiledCannon.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/BlackWeightsTiledWheel.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/WoodDarkTiledBase.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/WoodDarkTiledFrames.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/M_WoodBase.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/M_Black.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/M_Metal.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/M_MetalPure.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/M_Wheel.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/M_Wood.uasset",
+>>>>>>> James
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/Slope2_P.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/Old/T_Slope2.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Slope2.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Slope2-P.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/M_Slope3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/Old/T_Slope3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/T_Slope3.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Rock/Materials/M_Rock.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Rock/Materials/T_Rock_P.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Materials/Slope3_P.uasset"
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_TimeSlow.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
+				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
