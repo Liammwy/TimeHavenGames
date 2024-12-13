@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Levels/AlphaLevels/HoverALPHA.umap",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/CGD Proj2/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BlackWeightsTiled.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BlackWeightsTiledCannon.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BlackWeightsTiledWheel.uasset",
