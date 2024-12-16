@@ -23,7 +23,6 @@
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalUnlocked.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalEffect.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalCompleted.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalWin.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalLocked.uasset",
@@ -32,9 +31,12 @@
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_TempKey.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_NoJetpackZone.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_IslandPropellors.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_Checkpoint.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalEffect.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_MovablePlatform1.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_MovingSpikes.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_IslandPropellors.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap"
 >>>>>>> Liam
 			]
