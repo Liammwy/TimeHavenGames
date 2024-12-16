@@ -5,43 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/9/I8/IE412AOBUGVC0J9UIW18AN.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/6/42/Q9H1QZ8J2K005NFU1KJZSJ.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/6/QE/CUI8WJ7EJCE3YWF8I3L8ZQ.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/4/4F/MQG6AJLAAJVR7RCBSS6WUN.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/3/OY/E3MUBKHUH6ARBEUZFXZUC5.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/9/AI/SWPOJBTT9RZSZ4NR9J4D34.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/9/3B/17Y9DU4YJLUMC52AHRRNJA.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Jump.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Burrow.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/D/LT/ZHRI6FPIJKRRCFWK8U3CP9.uasset"
-=======
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portal.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalUnlocked.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalCompleted.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalWin.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalLocked.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_TempKey.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_NoJetpackZone.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_IslandPropellors.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_Checkpoint.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_PopUp.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/DT_Font.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_PortalEffect.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_MovablePlatform1.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/BP_MovingSpikes.uasset",
-				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap"
->>>>>>> Liam
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Niagara/N_Burrowing.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/BP_BurrowingParticleHolder.uasset"
 			]
 		}
 	]
