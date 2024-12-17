@@ -8,6 +8,8 @@
 				"C:/TimeHavenGames/Game/Content/Levels/AlphaLevels/BurrowALPHA.umap",
 				"C:/TimeHavenGames/Game/Content/Blueprints/Level/LandChunks/BP_BurrowableWall.uasset",
 				"C:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Burrow.uasset",
+				"C:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/TimeHavenGames/Game/Content/Blueprints/Player/BP_BurrowingParticleHolder.uasset",
 				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_NewPopUp.uasset",
 				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_Snowball.uasset",
 				"D:/TimeHavenGames/Game/Content/Mechanics/SimpleEnemy/NS_Explosion.uasset",
