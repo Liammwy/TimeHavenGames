@@ -5,36 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/TimeHavenGames/Game/Content/Levels/AlphaLevels/BurrowALPHA.umap",
-				"C:/TimeHavenGames/Game/Content/Blueprints/Level/LandChunks/BP_BurrowableWall.uasset",
-				"C:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Burrow.uasset",
-				"C:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/TimeHavenGames/Game/Content/Blueprints/Player/BP_BurrowingParticleHolder.uasset",
-=======
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_NewPopUp.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_Snowball.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Currency.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_Runes.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/NS_SnowballExplosion.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/ShowCaseUIBGLevel.umap",
->>>>>>> James
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_NewPopUp.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_Snowball.uasset",
-				"D:/TimeHavenGames/Game/Content/Mechanics/SimpleEnemy/NS_Explosion.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/NS_SnowballExplosion.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/Icons/snowball.uasset",
-				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/ShowCaseUIBGLevel.umap",
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/Icons/snowman.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/Icons/snowmanarm_.uasset",
-				"D:/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap",
-				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
-				"D:/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BP_Cannon.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Currency.uasset"
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap"
 			]
 		}
 	]
