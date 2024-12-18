@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BP_Cannon.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Testing/TESTJOSEPH_ExplodingBallEmitter.uasset",
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/BP_Cannon.uasset",
+				"C:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_ScarfEquipped.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TimeSlowTint.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_DropShadow.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/AlphaLevels/BurrowALPHA.umap"
+=======
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/CannonSnow.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/BlackWeightsTiled.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Cannon/Materials/BlackWeightsTiledCannon.uasset",
@@ -80,6 +93,7 @@
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_TimeSlow.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
 				"D:/TimeHavenBen/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
+>>>>>>> David2
 			]
 		}
 	]
