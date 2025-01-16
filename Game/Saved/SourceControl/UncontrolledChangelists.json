@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
 				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/Level_Mechanics/Camera/CameraTrack/BP_CameraTrack.uasset",
 				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/Jack/JackLevel.umap",
 				"J:/JACK/Jack Uni Work/Jacks Uni Work Year 3/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
