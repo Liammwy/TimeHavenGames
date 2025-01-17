@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesParkourTest/0/VQ/CZPPTTD6MFLEFFG80NP1CU.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesParkourTest/2/S2/MKTSEJBUAMOXHIXZTV0BFJ.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesParkourTest/1/N2/3CPKHE9VVCS3UYEEU49Y5V.uasset",
@@ -115,10 +116,20 @@
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesDevLevel/E/XC/H4OLIYMY9QVMKGEQ5ZOHZY.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesDevLevel/9/IZ/6925LKVFFAS810SFQAZXCB.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesDevLevel/4/GP/81X5OPE767TGNZYJ4E54M7.uasset",
+=======
+<<<<<<< HEAD
+>>>>>>> origin/main
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/Material.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/PurpleMountain.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/_FinalLevels/Hub.umap",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Land-Chunks/PurpleMountain1.uasset"
+=======
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/Snowman_AnimBp.uasset"
+>>>>>>> Arun_2
 			]
 		}
 	]
