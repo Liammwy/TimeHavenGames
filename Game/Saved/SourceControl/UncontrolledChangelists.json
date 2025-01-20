@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesParkourTest/0/VQ/CZPPTTD6MFLEFFG80NP1CU.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesParkourTest/2/S2/MKTSEJBUAMOXHIXZTV0BFJ.uasset",
@@ -130,6 +131,11 @@
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/Animation/Snowman_AnimBp.uasset"
 >>>>>>> Arun_2
+=======
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_MovingSpikeBall.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_PatrolPath.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
