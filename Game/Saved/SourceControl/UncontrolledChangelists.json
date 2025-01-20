@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/JamesParkourTest/0/VQ/CZPPTTD6MFLEFFG80NP1CU.uasset",
@@ -136,6 +137,10 @@
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_PatrolPath.uasset"
 >>>>>>> Stashed changes
+=======
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_MovingSpikeBall.uasset"
+>>>>>>> Harvey3
 			]
 		}
 	]
