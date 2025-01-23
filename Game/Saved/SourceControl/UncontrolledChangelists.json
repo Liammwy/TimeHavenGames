@@ -12,7 +12,10 @@
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/__ExternalActors__/Levels/DevLevels/James/Burrowing/1/26/31EH9VR9CCIWCT7PDLFE2M.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Materials/Level/MAT_DarkBlue.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Materials/Level/MAT_LightGreen.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Scarf.uasset"
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Scarf.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Models/Map/Collectables/Jetpack-Fuel/Materials/M_Orange.uasset"
 			]
 		}
 	]
