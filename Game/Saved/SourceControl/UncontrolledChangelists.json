@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/UI/WBP_CustomHats.uasset",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Hats/BP_Hats.uasset",
@@ -72,6 +73,11 @@
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
 				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Models/Map/Collectables/Jetpack-Fuel/Materials/M_Orange.uasset"
+=======
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Pillar/Pillar.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
+				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Pillar/Materials/M_Pillar.uasset"
+>>>>>>> origin/main
 			]
 		}
 	]
