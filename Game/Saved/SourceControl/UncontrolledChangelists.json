@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Camera/PCM_PlayerCamera.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Pillar/Pillar.uasset",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
 				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Pillar/Materials/M_Pillar.uasset"
