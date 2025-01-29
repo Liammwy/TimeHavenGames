@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/UI/WBP_CustomHats.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Hats/BP_Hats.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/Blueprints/UI/WBP_Snowball.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_TimeSlow.uasset",
 				"C:/Users/TheRe/Documents/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
