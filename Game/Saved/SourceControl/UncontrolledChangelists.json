@@ -5,8 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
 				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_MultiPatrolPath.uasset",
+=======
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_SplashScreen.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_SnowUI.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TransitionScreen.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_BlizzardUI.uasset",
+				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/NS_Snowball.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_ScarfPowerManager.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_ScarfEquipped.uasset",
+				"D:/TimeHavenGames/Game/Content/Data/DT_PowerupFont.uasset",
+				"D:/TimeHavenGames/Game/Content/Mechanics/SimpleEnemy/WhiteGlow.uasset",
+				"D:/TimeHavenGames/Game/Content/Materials/Level/MAT_DarkBlue.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/NiagaraFX/NS_SnowUI.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/NiagaraFX/NS_SnowBlizzardUI.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/NiagaraFX/NS_BlizzardUI.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/NS_SnowUI.uasset",
+>>>>>>> origin/main
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_SplashScreen.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/Icons/Unreal_Engine_Logo_svg.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/Icons/THG_Logo01.uasset",
