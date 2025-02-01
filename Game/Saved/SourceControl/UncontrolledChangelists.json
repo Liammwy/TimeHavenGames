@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/BP_FallingPlat.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Mechanics/ShatterPlatforms/BP_DissPlat.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_PatrolPath.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_HatShop.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatShopUILevel.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_CharacterHat.uasset",
