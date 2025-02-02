@@ -5,9 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Pillar/Pillar.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Levels/DevLevels/David/HubWorldMain.umap",
-				"F:/PC/Education/UWE Repos/Year 3/TimeHavenGames/Game/Content/Models/Map/Objects/Pillar/Materials/M_Pillar.uasset"
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Levels/DevLevels/Harvey/Harveylvl.umap",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/BP_FallingPlat.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Mechanics/ShatterPlatforms/BP_DissPlat.uasset",
+				"D:/UWE/Year 3/CGD/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_PatrolPath.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_HatShop.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatShopUILevel.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_CharacterHat.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatRenderTarget.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/MAT_Render.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/ShowCaseUIBGLevel.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/S_Hats.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/DT_Hats.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/BP_HatCam.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/CameraRenderTarget.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/MAT_CameraRender.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_SlotInfo.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatShopUI.umap"
 			]
 		}
 	]
