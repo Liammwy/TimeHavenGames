@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_KEY.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Events/ScarfEquip.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_ScarfPowerManager.uasset",
