@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Events/ScarfEquip.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_ScarfPowerManager.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_HatShop.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatShopUILevel.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_CharacterHat.uasset",
