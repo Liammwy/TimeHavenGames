@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_KEY.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
@@ -12,6 +13,22 @@
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_ScarfPowerManager.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+=======
+				"D:/TimeHavenGames/Game/Content/UI/PauseScreen/WP_PauseMenu.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/TransitionScreens/WBP_FadeOut.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/TransitionScreens/WBP_FadeIn.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/TransitionScreens/WBP_BlizzardTransition.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NewHub/BP_Portal.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
+				"D:/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
+				"D:/TimeHavenGames/Game/Content/Levels/AlphaLevels/DoubleJumpALPHA.umap",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonGameMode.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/Hub/NS_BlizzardUI.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_NewPopUp.uasset",
+>>>>>>> Liam
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_HatShop.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatShopUILevel.umap",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_CharacterHat.uasset",
