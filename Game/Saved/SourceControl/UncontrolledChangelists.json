@@ -5,53 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_Portals_FUNCTIONAL_TO_SAVE_PLAYER_MODEL.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/NewHub/BP_RisingIsland.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Levels/_FinalLevels/Hub.umap",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Collectibles/OLD/BP_TempKey.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Levels/_FinalLevels/SuperJumpLevel.umap",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Levels/_FinalLevels/FireBreathLevel.umap",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Collectibles/OLD/BP_KEY.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Collectibles/BP_KEY.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_Portal.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/NewHub/BP_Portal.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/BP_Portals.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/Old/BP_Portal.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/Old/BP_Portals_FUNCTIONAL_TO_SAVE_PLAYER_MODEL.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/Old/BP_PortalsNEVER_USE_FROM_ALPHA.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/Old/BP_PortalsNEVER_USE_FROM_ALPHA_C.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/Old/Default__BP_PortalsNEVER_USE_FROM_ALPHA_C.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_PortalsNEVER_USE_FROM_ALPHA.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/NewHub/BP_Portals_FUNCTIONAL_TO_SAVE_PLAYER_MODEL.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/NewHub/BP_Portals.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/Old/BP_UnlockingBridge.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Blueprints/Level/Hub/BP_UnlockingBridge.uasset",
->>>>>>> David2
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Death.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Death_-_Snowman.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Banks/Player.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Grunt.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/NPCTalking.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Geyser.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/BreakingIcePlane.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/HatGetJingle.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/TorchJingle.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Banks/SFX.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/KeyGetJingle.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/WBP_DeathScreen.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBPs/WBP_Title.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBP_StartingMenu.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Data/DT_Font.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/_FinalLevels/Hub.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_Portals_FUNCTIONAL_TO_SAVE_PLAYER_MODEL.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/_FinalLevels/FireBreathLevel.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/_FinalLevels/SuperJumpLevel.umap",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_KEY.uasset"
-=======
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/FMOD/Events/Death.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/FMOD/Events/Death_-_Snowman.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/FMOD/Banks/Player.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/FMOD/Events/Grunt.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset"
->>>>>>> Arun_3
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
