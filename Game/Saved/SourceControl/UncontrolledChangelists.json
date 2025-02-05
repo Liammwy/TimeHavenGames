@@ -5,21 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_5_Hatless_.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_Portals_FUNCTIONAL_TO_SAVE_PLAYER_MODEL.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_PortalsNEVER_USE_FROM_ALPHA.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/HatShopUILevel.umap",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Models/Player/Hats/BlackFedora.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Refule.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Models/Player/Hats/HelicopterHat.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_5_Skeleton.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_5.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/CharacterRiggedOct25_2.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/CharacterRiggedOct25_2_Skeleton.uasset"
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Death.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Death_-_Snowman.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Banks/Player.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Grunt.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/_FinalLevels/Hub.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Level/Hub/OLDWhyItExist/BP_Portals_FUNCTIONAL_TO_SAVE_PLAYER_MODEL.uasset",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/_FinalLevels/FireBreathLevel.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Levels/_FinalLevels/SuperJumpLevel.umap",
+				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_KEY.uasset"
 			]
 		}
 	]
