@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2680b206-bd80-4df8-8adc-9606fcf68c5e}">
+		<property name="assetPath">
+			<value>Ambience/Ketsa - Snow-Dawn.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>187.1934693877551</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f877f120-0ad0-489b-a57b-47faa94bf17c}</destination>
+		</relationship>
+	</object>
+</objects>
