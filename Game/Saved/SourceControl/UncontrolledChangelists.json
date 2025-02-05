@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/DevLevels/Liam/TutorialLevel.umap",
 				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Levels/_FinalLevels/Hub.umap",
@@ -34,6 +35,17 @@
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_KEY.uasset"
+=======
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Levels/AlphaLevels/AlphaHUB.umap",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Snowman_FallIdle.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Snowman_JumpDown.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Animation/Player/Snowman_JumpUp.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_5.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_4.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_4_PhysicsAsset.uasset",
+				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Meshes/Player/Snowman_Rigged_V1_4_Skeleton.uasset"
+>>>>>>> origin/Arun_3
 			]
 		}
 	]
