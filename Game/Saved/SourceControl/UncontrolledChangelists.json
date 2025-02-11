@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/BP_TalkingSnowman.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/UI/WBP_TalkingBox.uasset",
+				"C:/Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/Blueprints/Level/PowerUps/BP_FireBreathLaunchGeyser.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/NPCTalking.uasset",
 				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/FMOD/Events/Geyser.uasset",
