@@ -11,9 +11,11 @@
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_Collectible.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Collectibles/Components/AC_CollectibleInfo.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_HatSpawner.uasset",
 				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Currency.uasset",
-				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/UI/WBP_NewPopUp.uasset"
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/UI/WBP_NewPopUp.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/UI/NS_SnowmanDeath.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_HatCollection.uasset",
+				"F:/YEAR 3 UNI/TimeHavenGames/Game/Content/Blueprints/Collectibles/BP_HatSpawner.uasset"
 			]
 		}
 	]
