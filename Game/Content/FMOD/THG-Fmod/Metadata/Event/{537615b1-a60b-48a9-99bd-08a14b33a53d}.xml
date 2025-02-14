@@ -29,7 +29,11 @@
 			<destination>{cb112e73-f01d-419d-a33c-7ad9bb0c47ae}</destination>
 		</relationship>
 		<relationship name="parameters">
+<<<<<<< HEAD
 			<destination>{b52d6417-3a08-4876-add0-dca838360698}</destination>
+=======
+			<destination>{0559daca-5f74-448f-8f24-6099f932cdfd}</destination>
+>>>>>>> origin/JamesDev
 		</relationship>
 		<relationship name="banks">
 			<destination>{fd941ed5-b826-46b6-bac7-d45961abd7d2}</destination>
@@ -42,10 +46,16 @@
 	</object>
 	<object class="MasterTrack" id="{e03055cd-7a80-488d-b3e1-61cc0acc2bdc}">
 		<relationship name="modules">
+<<<<<<< HEAD
 			<destination>{9155efab-415e-4646-8825-66fde09b5753}</destination>
 			<destination>{165ca9b7-af4d-487a-bcce-a1b15e986bf2}</destination>
 			<destination>{2ef91812-a8bc-48ce-971f-af7de0d1bc18}</destination>
 			<destination>{f9d696b9-252f-4bf8-bbd4-d8ecb93bdec7}</destination>
+=======
+			<destination>{bae08a18-d187-444e-8c01-adf5946bbb5e}</destination>
+			<destination>{bdabc167-ad5a-49fd-b1da-7d7b3b4e2cfd}</destination>
+			<destination>{f0baba35-bdfe-4671-b879-809955d09d48}</destination>
+>>>>>>> origin/JamesDev
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{fed08b5b-5619-4ae2-830f-23dfcc073f2d}</destination>
@@ -76,6 +86,7 @@
 			<value>false</value>
 		</property>
 	</object>
+<<<<<<< HEAD
 	<object class="ParameterProxy" id="{b52d6417-3a08-4876-add0-dca838360698}">
 		<relationship name="modules">
 			<destination>{9155efab-415e-4646-8825-66fde09b5753}</destination>
@@ -85,6 +96,16 @@
 		</relationship>
 		<relationship name="preset">
 			<destination>{53916ff0-6175-4505-89f9-8d8f600f0494}</destination>
+=======
+	<object class="ParameterProxy" id="{0559daca-5f74-448f-8f24-6099f932cdfd}">
+		<relationship name="modules">
+			<destination>{bae08a18-d187-444e-8c01-adf5946bbb5e}</destination>
+			<destination>{bdabc167-ad5a-49fd-b1da-7d7b3b4e2cfd}</destination>
+			<destination>{f0baba35-bdfe-4671-b879-809955d09d48}</destination>
+		</relationship>
+		<relationship name="preset">
+			<destination>{c758ea41-9271-4982-a128-18b5529538cc}</destination>
+>>>>>>> origin/JamesDev
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{fed08b5b-5619-4ae2-830f-23dfcc073f2d}">
@@ -101,7 +122,11 @@
 			<destination>{e53eb655-895a-458a-80e9-efb878106b6c}</destination>
 		</relationship>
 	</object>
+<<<<<<< HEAD
 	<object class="SingleSound" id="{9155efab-415e-4646-8825-66fde09b5753}">
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{92add56b-4ea3-41b3-834c-9bdab633419b}</destination>
 		</relationship>
@@ -110,13 +135,30 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+=======
+	<object class="SingleSound" id="{bae08a18-d187-444e-8c01-adf5946bbb5e}">
+		<relationship name="audioFile">
+			<destination>{5e13088d-83f4-430a-a6d3-25184ef90c1c}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{bdabc167-ad5a-49fd-b1da-7d7b3b4e2cfd}">
+		<property name="start">
+			<value>1</value>
+>>>>>>> origin/JamesDev
+		</property>
 		<relationship name="audioFile">
 			<destination>{0d9ee93f-e413-45a2-96ca-90add0bb3357}</destination>
 		</relationship>
 	</object>
+<<<<<<< HEAD
 	<object class="SingleSound" id="{2ef91812-a8bc-48ce-971f-af7de0d1bc18}">
 		<property name="start">
 			<value>2</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{2680b206-bd80-4df8-8adc-9606fcf68c5e}</destination>
@@ -126,8 +168,19 @@
 		<property name="start">
 			<value>3</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{f3711ba0-a894-4d67-8beb-a82464e0f910}</destination>
+=======
+	<object class="SingleSound" id="{f0baba35-bdfe-4671-b879-809955d09d48}">
+		<property name="start">
+			<value>2</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{ba641486-e4fc-451a-9e2f-2f1d17a8cbc8}</destination>
+>>>>>>> origin/JamesDev
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{e897d50d-aed9-40b8-92f3-1216b781f520}">
