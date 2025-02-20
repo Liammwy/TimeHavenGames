@@ -11,7 +11,16 @@
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset",
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/PauseMenu/WBP_PauseMenu.uasset",
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBPs/WBP_ExitButton.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/X_Button.uasset"
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/X_Button.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/UI_SaveMenu.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/UI_SaveSlot.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/UI_SaveSlotStack.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/s_levels.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/BP_SaveGame.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/BP_SaveManager.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
