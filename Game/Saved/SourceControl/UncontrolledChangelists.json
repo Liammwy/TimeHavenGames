@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/Checkpoint.uasset",
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/LockedCheckpoint.uasset",
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/M_LockedCheckpoint.uasset",
@@ -17,6 +18,17 @@
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/UnlockedCheckpoint.uasset",
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/BadWood.uasset",
 				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/CheckeredPattern.uasset"
+=======
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Levels/_FinalLevels/SuperJumpLevel.umap",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_SuperJump.uasset",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Blueprints/Player/Components/BPC_Hover.uasset",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BPC_ConnectionVisual.uasset",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Blueprints/Level/Spikes/BP_SpikeCuboidBarrier_BottomPivot.uasset",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Levels/DevLevels/Ben/BenDevMap.umap",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Blueprints/HatShop/BP_HatCollectible.uasset",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Levels/_FinalLevels/Hub.umap",
+				"D:/TimeHaven/TimeHavenGames/Game/Content/Blueprints/Hats/HatSequencer.uasset"
+>>>>>>> BenUni
 			]
 		}
 	]
