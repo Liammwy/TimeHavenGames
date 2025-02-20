@@ -5,20 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBPs/WBP_ArrowButton.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/Icons/arrowOld.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/Icons/arrow.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/PauseMenu/WBP_PauseMenu.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBPs/WBP_ExitButton.uasset",
-				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/X_Button.uasset"
-=======
-				"D:/TimeHavenGames/Game/Content/Blueprints/Level/PowerUps/General/BP_ScarfRemovalZone.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_ScarfEquipped.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/HatShop/HatShopUILevel.umap"
->>>>>>> Liam
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/Checkpoint.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/LockedCheckpoint.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/M_LockedCheckpoint.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Levels/DevLevels/David/DavidTestLevel2.umap",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/M_UnlockedCheckpoint.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/Flag.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/M_CheckeredPattern.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/M_BadWood.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/UnlockedCheckpoint_Mat.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Collectables/Checkpoint/UnlockedCheckpoint.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/BadWood.uasset",
+				"C:/Users/David (Uni)/Desktop/Everything/_ Year 3/Commercial Games Development/Repo/3/TimeHavenGames/Game/Content/Models/Map/Objects/Flag/CheckeredPattern.uasset"
 			]
 		}
 	]
