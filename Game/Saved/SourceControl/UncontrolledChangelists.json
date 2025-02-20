@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/TimeHavenGames/Game/Content/Blueprints/HatShop/BP_HatCollectible.uasset"
+				"D:/TimeHavenGames/Game/Content/Blueprints/HatShop/BP_HatCollectible.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/UI_SaveMenu.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/PauseMenu/WBP_PauseMenu.uasset",
+				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
