@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBPs/WBP_ArrowButton.uasset",
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/Icons/arrowOld.uasset",
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/Icons/arrow.uasset",
@@ -12,6 +13,12 @@
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/PauseMenu/WBP_PauseMenu.uasset",
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/StartingMenu/WBPs/WBP_ExitButton.uasset",
 				"D:/TH_Games/TimeHavenGames/Game/Content/Blueprints/UI/X_Button.uasset"
+=======
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/PowerUps/General/BP_ScarfRemovalZone.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/UI/WBP_ScarfEquipped.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/Level/BP_SnowmanScarfCollectible.uasset",
+				"D:/TimeHavenGames/Game/Content/Blueprints/HatShop/HatShopUILevel.umap"
+>>>>>>> Liam
 			]
 		}
 	]
