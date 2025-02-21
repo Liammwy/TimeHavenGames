@@ -5,12 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Breakable-Rock/Full-Block/BreakableBlockFull.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/IceFloor/M_TexturedIce.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Breakable-Rock/Materials/M_BlockExterior.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Breakable-Rock/Materials/M_BlockInterior.uasset",
-				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Breakable-Rock/Full-Block/M_BreakableBlockFull.uasset",
-				"D:/TimeHavenGames/Game/Content/Blueprints/HatShop/BP_HatCollectible.uasset"
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
