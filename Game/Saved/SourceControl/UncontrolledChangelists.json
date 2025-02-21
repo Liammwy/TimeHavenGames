@@ -5,18 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/liam1/Downloads/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/HatShop/DT_Hats.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/HatShop/HatShopUILevel.umap",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/HatShop/BP_HatCollectible.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Models/Player/Hats/DrinksHat.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/HatShop/ENUM_HatNames.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/HatShop/S_Hats.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/UI/WBP_CollectedItem.uasset",
-				"D:/UWE Final Year All Module Works/Commercial Games/TimeHavenGames/Game/Content/Blueprints/UI/HatShop/WBP_Test.uasset"
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
