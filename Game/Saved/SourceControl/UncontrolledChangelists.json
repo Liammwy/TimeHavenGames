@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/1/4W/6LKHQ46JAVICHN2690PS0U.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Levels/_FinalLevels/StartingCutsceneLevel.umap",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Tree/SpruceTree.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Sign/Materials/M_Arrow.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Sign/BP_ArrowSign.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/8/K7/Q5WQEHWJPDJRY36MLQ68R5.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Sign/Materials/Arrow.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
 			]
 		}
