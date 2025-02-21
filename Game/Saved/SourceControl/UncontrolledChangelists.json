@@ -5,11 +5,33 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/BP_SaveManager.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/SaveData/UI_SaveSlot.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/BP_Global_GameInstance.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Levels/_FinalLevels/Hub.umap"
+=======
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/1/4W/6LKHQ46JAVICHN2690PS0U.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Levels/_FinalLevels/StartingCutsceneLevel.umap",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Tree/SpruceTree.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Sign/Materials/M_Arrow.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Sign/BP_ArrowSign.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/8/K7/Q5WQEHWJPDJRY36MLQ68R5.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Objects/Sign/Materials/Arrow.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/T_Tall-Land-Block.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/TallLandBlock.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/Material.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/Materials/PurpleMountain1.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/Materials/T_Tall-Land-Block.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/PurpleMountain1.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/M_Tall-Land-Block.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/Models/Map/Land-Chunks/T_Land-Block-L.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/C/2I/ZYMACPP08TWGODLU6619QH.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/0/J0/ZQ6141PGRDNHWGWQY9H2NI.uasset",
+				"F:/PC/Education/UWE Repos/Year 3/THG2/Game/Content/__ExternalActors__/Levels/_FinalLevels/StartingCutsceneLevel/C/49/2ETB4CE6GZBM63HLPGTDF8.uasset",
+				"C:/Users/thebe/Desktop/UWE - Stuff/3rd Year/Latest Group/TimeHavenGames/Game/Content/Blueprints/Player/BP_ThirdPersonCharacter.uasset"
+>>>>>>> David2
 			]
 		}
 	]
