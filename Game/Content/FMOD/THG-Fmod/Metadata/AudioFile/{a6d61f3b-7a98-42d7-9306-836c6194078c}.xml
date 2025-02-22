@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a6d61f3b-7a98-42d7-9306-836c6194078c}">
+		<property name="assetPath">
+			<value>thin-ice-290826.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>18.2334693877551</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f877f120-0ad0-489b-a57b-47faa94bf17c}</destination>
+		</relationship>
+	</object>
+</objects>
