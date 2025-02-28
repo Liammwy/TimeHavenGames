@@ -31,4 +31,8 @@ SFX
 - Bllrr-text-loop - Sound Effect by freesound_community from Pixabay
 - Short-fireball-whoosh - Sound Effect by freesound_community from Pixabay
 - short success sound - Sound Effect by freesound_community from Pixabay
-- ice slippin - Sound Effect by Spin Opel from Pixabay
+- ice cracking - Sound Effect by Spin Opel from Pixabay
+- dog barking - Sound Effect byfreesound_community from Pixabay
+- clang - Sound Effect by David Dumais from Pixabay
+- firelight - Sound Effect by Alice_soundz from Pixabay
+- melting - Sound Effect by Alice_soundz from Pixabay

@@ -63,8 +63,11 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{46ccfd20-0a60-4554-875b-4d427be04bd5}">
+		<property name="isPersistent">
+			<value>true</value>
+		</property>
 		<property name="maxVoices">
-			<value>2</value>
+			<value>1</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{35976de9-5f5c-4d9e-b8d1-f30ba318f491}" />
@@ -105,6 +108,9 @@
 		<property name="volume">
 			<value>-20.5</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{92add56b-4ea3-41b3-834c-9bdab633419b}</destination>
 		</relationship>
@@ -115,6 +121,9 @@
 		</property>
 		<property name="volume">
 			<value>-20.5</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{0d9ee93f-e413-45a2-96ca-90add0bb3357}</destination>
@@ -127,6 +136,9 @@
 		<property name="volume">
 			<value>-20.5</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{ba641486-e4fc-451a-9e2f-2f1d17a8cbc8}</destination>
 		</relationship>
@@ -137,6 +149,9 @@
 		</property>
 		<property name="volume">
 			<value>-20.5</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{f3711ba0-a894-4d67-8beb-a82464e0f910}</destination>
