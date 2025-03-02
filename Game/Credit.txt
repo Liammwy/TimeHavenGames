@@ -37,3 +37,5 @@ SFX
 - firelight - Sound Effect by Alice_soundz from Pixabay
 - water splash - Sound Effect by Universfield from Pixabay
 - chimes - Sound Effect by Mikhail from Pixabay
+- block break - Sound Effect by freesound_community from Pixabay
+- pink noise for wind - Sound Effect by Rik from Pixabay
