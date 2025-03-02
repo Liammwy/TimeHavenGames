@@ -5,7 +5,7 @@
 			<value>IceSlipping</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{553c693e-f4d3-4afd-8e2f-e09a0721673e}</destination>
@@ -39,7 +39,7 @@
 	</object>
 	<object class="MasterTrack" id="{3dde51de-4f61-44d9-bda5-1d282182d0ed}">
 		<relationship name="modules">
-			<destination>{79866a39-6434-4e63-8dee-2fe978ed6af1}</destination>
+			<destination>{ed8e05a9-0a0c-4dfd-bc4f-e03491eba5d1}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{aaa43b33-724d-419c-8b05-c6cf7448686a}</destination>
@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{63363136-6a1c-4437-9679-5965be8d222c}" />
 	<object class="Timeline" id="{7298f631-8671-46de-b3ab-4bc9e2f98b9f}">
 		<relationship name="modules">
-			<destination>{79866a39-6434-4e63-8dee-2fe978ed6af1}</destination>
+			<destination>{ed8e05a9-0a0c-4dfd-bc4f-e03491eba5d1}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{aaa43b33-724d-419c-8b05-c6cf7448686a}">
@@ -77,12 +77,18 @@
 			<destination>{4eaec884-0d3a-47d6-b3b7-3182f4e595bf}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{79866a39-6434-4e63-8dee-2fe978ed6af1}">
+	<object class="SingleSound" id="{ed8e05a9-0a0c-4dfd-bc4f-e03491eba5d1}">
 		<property name="length">
-			<value>18.2334693877551</value>
+			<value>43</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>2.6000000000000001</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{a6d61f3b-7a98-42d7-9306-836c6194078c}</destination>
+			<destination>{520217d8-9710-41da-ad9c-3ab26895a14b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{710b31b2-b844-4b58-a31e-93d45e7c1b34}">
