@@ -36,3 +36,4 @@ SFX
 - clang - Sound Effect by David Dumais from Pixabay
 - firelight - Sound Effect by Alice_soundz from Pixabay
 - water splash - Sound Effect by Universfield from Pixabay
+- chimes - Sound Effect by Mikhail from Pixabay
