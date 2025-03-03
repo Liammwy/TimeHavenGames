@@ -3586,3 +3586,48 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.03-06.07.15:583][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 953.029541
 [2025.03.03-06.07.16:581][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.03-06.07.16:581][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 953.695312, Update Interval: 345.303497
+[2025.03.03-06.08.41:624][995]LogFMOD: ===== BankLookup =====
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {FD941ED5-B826-46B6-BAC7-D45961ABD7D2}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Ambience.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {B7A69EB0-2CAE-4E9C-B50C-5CFE0AA583C1}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Master.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {2FBBBE64-5DD5-02DE-3345-D600FB568559}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Master.strings.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {1079FC49-9E18-4C45-8A5F-FBE1D025D4E6}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Movement.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {1E74CC25-D211-429E-8324-CA2F9B0FD38E}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Mechanics.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {A4EF763A-CF4B-4EE7-90E9-26FB0302401F}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Player.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: GUID: {EE48A2B2-36DD-45CC-9435-498705CA4DCE}
+
+[2025.03.03-06.08.41:624][995]LogFMOD:   Locale: <NON-LOCALIZED>   Path: SFX.bank
+
+[2025.03.03-06.08.41:624][995]LogFMOD: Loading strings bank: ../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/Desktop/Master.strings.bank
+[2025.03.03-06.08.41:626][995]LogFMOD: 'Death - Snowman' cannot be used as a UE4 asset name. Name may not contain whitespace characters (space). Using 'Death_-_Snowman' instead.
+[2025.03.03-06.08.41:627][995]LogFMOD: 'melting Block' cannot be used as a UE4 asset name. Name may not contain whitespace characters (space). Using 'melting_Block' instead.
+[2025.03.03-06.08.41:627][995]LogFMOD: Deleting stale asset /Game/FMOD/Events/CutsceneOne/CutsceneOne.
+[2025.03.03-06.08.41:627][995]LogFMOD: Deleting stale asset /Game/FMOD/Events/BarkingOne/BarkingOne.
+[2025.03.03-06.08.41:627][995]LogFMOD: Deleting stale asset /Game/FMOD/Events/BarkingTwo/BarkingTwo.
+[2025.03.03-06.08.41:627][995]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/FMOD/PrivateIntegrationData/AssetLookup
+[2025.03.03-06.08.41:627][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.03-06.08.41:656][995]LogSavePackage: Moving output files for package: /Game/FMOD/PrivateIntegrationData/AssetLookup
+[2025.03.03-06.08.41:657][995]LogSavePackage: Moving '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Saved/AssetLookup6767C5E24AD7F1301C056999008F5512.tmp' to '../../../../../../Users/TheRe/OneDrive - UWE Bristol/ThirdYear/CommericalGamesDevelopment/TimeHavenGames/Game/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2025.03.03-06.08.41:661][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 190 ms)
+[2025.03.03-06.08.41:661][995]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/FMOD/PrivateIntegrationData/AssetLookup
+[2025.03.03-06.08.41:669][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
