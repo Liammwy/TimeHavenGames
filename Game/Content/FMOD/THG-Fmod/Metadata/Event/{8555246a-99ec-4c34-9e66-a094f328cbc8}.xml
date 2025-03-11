@@ -53,7 +53,7 @@
 			<destination>{e5f038d7-5567-4d80-9a9b-5e5bbc1512ec}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{b54fa583-7574-4ce1-9545-9a917a4d579f}</destination>
+			<destination>{29fac8d3-baf2-47e3-a4fc-ed637cbefee4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{1a5913b7-780e-4667-8289-5b3448a26ee0}" />
@@ -65,7 +65,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{412569f3-19f3-4aee-92d7-e7f2a7e11905}">
 		<property name="volume">
-			<value>-10.5</value>
+			<value>-17.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{e38993dd-5405-4ca5-a111-ab0f7a40d119}</destination>

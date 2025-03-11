@@ -4,7 +4,7 @@ player
 - ough-47202 - Sound Effect by freesound_community from Pixabay
 - snowball hit 1 & 2- Sound Effect by Alexander Jauk from Pixabay
 - Wilhelm scream
-
+- ice skating - https://www.youtube.com/watch?v=Uc3p-6tfE6E
 - Boing Raw Copyright 2005 cfork <http://freesound.org/people/cfork/> Boing Jump Copyright 2012 Iwan Gabovitch <http://qubodup.net>
 - 3 up 2 - Sound Effect from Pixabay
 - Brick Debris Fall 06.wav by Debsound -- https://freesound.org/s/437602/ -- License: Attribution NonCommercial 4.0
@@ -31,4 +31,11 @@ SFX
 - Bllrr-text-loop - Sound Effect by freesound_community from Pixabay
 - Short-fireball-whoosh - Sound Effect by freesound_community from Pixabay
 - short success sound - Sound Effect by freesound_community from Pixabay
-- ice slippin - Sound Effect by Spin Opel from Pixabay
+- ice cracking - Sound Effect by Spin Opel from Pixabay
+- dog barking - Sound Effect by Ribhav Agrawal from Pixabay
+- clang - Sound Effect by David Dumais from Pixabay
+- firelight - Sound Effect by Alice_soundz from Pixabay
+- water splash - Sound Effect by Universfield from Pixabay
+- chimes - Sound Effect by Mikhail from Pixabay
+- block break - Sound Effect by freesound_community from Pixabay
+- pink noise for wind - Sound Effect by Rik from Pixabay

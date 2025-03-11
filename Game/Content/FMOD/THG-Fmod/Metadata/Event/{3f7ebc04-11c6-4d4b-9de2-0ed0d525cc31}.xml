@@ -59,12 +59,15 @@
 			<destination>{bd541471-17e2-4269-ac3a-9b1cc14ab905}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{b54fa583-7574-4ce1-9545-9a917a4d579f}</destination>
+			<destination>{29fac8d3-baf2-47e3-a4fc-ed637cbefee4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{46ccfd20-0a60-4554-875b-4d427be04bd5}">
+		<property name="isPersistent">
+			<value>true</value>
+		</property>
 		<property name="maxVoices">
-			<value>2</value>
+			<value>1</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{35976de9-5f5c-4d9e-b8d1-f30ba318f491}" />
@@ -86,7 +89,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{7d14dc8b-527c-4466-94d3-536cad22ec73}">
 		<property name="volume">
-			<value>-3</value>
+			<value>-7.5</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{f1a59f2c-8842-4707-9e6a-9c6f2a7a0eb1}</destination>
@@ -105,6 +108,9 @@
 		<property name="volume">
 			<value>-20.5</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{92add56b-4ea3-41b3-834c-9bdab633419b}</destination>
 		</relationship>
@@ -115,6 +121,9 @@
 		</property>
 		<property name="volume">
 			<value>-20.5</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{0d9ee93f-e413-45a2-96ca-90add0bb3357}</destination>
@@ -127,6 +136,9 @@
 		<property name="volume">
 			<value>-20.5</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{ba641486-e4fc-451a-9e2f-2f1d17a8cbc8}</destination>
 		</relationship>
@@ -137,6 +149,9 @@
 		</property>
 		<property name="volume">
 			<value>-20.5</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{f3711ba0-a894-4d67-8beb-a82464e0f910}</destination>
@@ -156,16 +171,16 @@
 			<value>-80</value>
 		</property>
 		<property name="attackTime">
-			<value>2596.15479</value>
+			<value>504.273651</value>
 		</property>
 		<property name="peakValue">
-			<value>-8</value>
+			<value>4.13333511</value>
 		</property>
 		<property name="decayTime">
 			<value>60000</value>
 		</property>
 		<property name="sustainValue">
-			<value>-8</value>
+			<value>4.13333511</value>
 		</property>
 		<property name="releaseTime">
 			<value>3000</value>

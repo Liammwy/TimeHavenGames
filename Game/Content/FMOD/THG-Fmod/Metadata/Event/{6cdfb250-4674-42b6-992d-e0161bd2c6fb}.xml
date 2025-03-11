@@ -5,7 +5,7 @@
 			<value>BreakingIcePlane</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{553c693e-f4d3-4afd-8e2f-e09a0721673e}</destination>
@@ -56,7 +56,7 @@
 			<destination>{f549fbbf-76c9-4850-bc02-4022627dea2a}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{b54fa583-7574-4ce1-9545-9a917a4d579f}</destination>
+			<destination>{29fac8d3-baf2-47e3-a4fc-ed637cbefee4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{8730f86c-5089-4936-8b1a-1738a361d71b}" />
@@ -99,6 +99,7 @@
 	<object class="MixerBusEffectChain" id="{4d47505e-c48e-4811-bf0c-e01476fa2142}">
 		<relationship name="effects">
 			<destination>{558520f6-888a-4d07-b378-8017d10d6b1a}</destination>
+			<destination>{5979f14a-210f-43fa-8749-ae49fee49853}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0a753c24-7611-4ed8-b981-7f033c9cc71b}" />
@@ -109,4 +110,5 @@
 	</object>
 	<object class="MixerBusFader" id="{8d797d56-5a55-4038-955f-11044c676af0}" />
 	<object class="MixerBusFader" id="{558520f6-888a-4d07-b378-8017d10d6b1a}" />
+	<object class="SpatialiserEffect" id="{5979f14a-210f-43fa-8749-ae49fee49853}" />
 </objects>
