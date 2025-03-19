@@ -56,7 +56,11 @@
 			<destination>{b54fa583-7574-4ce1-9545-9a917a4d579f}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{9a093a44-0cc6-4232-ac92-8e521d3780f6}" />
+	<object class="EventAutomatableProperties" id="{9a093a44-0cc6-4232-ac92-8e521d3780f6}">
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{b095bdc6-2eac-404d-8c93-1570c8358229}" />
 	<object class="Timeline" id="{5cfb47cc-7a3d-4490-a58f-80a7e051bf0c}">
 		<relationship name="modules">
@@ -76,7 +80,7 @@
 	</object>
 	<object class="SingleSound" id="{31c868c3-8888-402b-a907-946aaae20d40}">
 		<property name="length">
-			<value>4</value>
+			<value>10</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>176</value>
@@ -108,13 +112,13 @@
 			<value>pitch</value>
 		</property>
 		<property name="attackTime">
-			<value>1400</value>
+			<value>4800</value>
 		</property>
 		<property name="peakValue">
 			<value>60.9999847</value>
 		</property>
 		<property name="holdTime">
-			<value>2000</value>
+			<value>6000</value>
 		</property>
 		<property name="decayTime">
 			<value>2499.99951</value>
