@@ -39,4 +39,5 @@ SFX
 - chimes - Sound Effect by Mikhail from Pixabay
 - block break - Sound Effect by freesound_community from Pixabay
 - pink noise for wind - Sound Effect by Rik from Pixabay
-- geyser - Sound Effect by freesound_community Pixabay
+- geyser charge - Sound Effect by freesound_community Pixabay
+- maracas - Sound Effect by freesound_community from Pixabay
