@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1c0f972c-c121-46e8-ab21-861e68190142}">
+		<property name="assetPath">
+			<value>elemental-magic-spell-impact-outgoing-228342.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.1920000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f877f120-0ad0-489b-a57b-47faa94bf17c}</destination>
+		</relationship>
+	</object>
+</objects>
